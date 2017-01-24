@@ -1,0 +1,437 @@
+
+
+  
+	
+	
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new date().gettime(),event:'gtm.js'});var f=d.getelementsbytagname(s)[0],
+	j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbefore(j,f);
+	})(window,document,'script','datalayer','gtm-pqc59l');
+	
+    
+
+
+
+
+
+
+	
+
+	
+		
+				
+		
+			partners
+			blog
+			support
+			sign up
+			
+				
+					
+					
+					▾
+				
+				
+					
+					dashboard
+					sign out
+				
+			
+			log in
+		
+
+	
+
+	
+
+	
+
+		
+
+			
+				
+			
+
+			
+				
+			
+
+			
+
+				
+					pricing
+				
+
+				
+					solutions
+
+				
+					
+						
+							solutions
+							
+							
+								
+									sendgrid api
+									integrate via our email api to ensure delivery of your most important emails.
+								
+							
+							
+								
+									sendgrid marketing campaigns
+									build beautiful, engaging email marketing campaigns.
+								
+							
+							
+								
+									expert services
+									learn directly from our email experts.
+								
+							
+						
+						
+							
+							use cases
+							
+							
+								
+									transactional email
+								
+							
+							
+								
+									email marketing
+								
+							
+							
+							
+							
+								
+									over 120,000 customers use sendgrid to reliably deliver nearly 30 billion emails every month.
+									learn why ›
+								
+							
+						
+					
+				
+
+		
+
+		
+
+			resources
+
+			
+				
+					
+						
+							overview
+							expert advice to enhance your email program.
+						
+					
+					
+						
+							case studies
+							how sendgrid has helped companies like you.
+						
+					
+					
+						
+							best practice guides
+							top tips on email sending practices.
+						
+					
+					
+						
+							webcasts
+							email how-tos hosted by industry experts.
+						
+					
+					
+						
+							videos
+							quick tips on improving your email program.
+						
+					
+				
+			
+
+		
+
+		
+
+			documentation
+
+			
+				
+					overview
+					web api
+					smtp api
+					webhooks
+					api libraries
+				
+			
+
+		
+
+		
+			blog
+		
+
+		
+			partners
+		
+
+		
+			support
+		
+
+		
+			sign up
+		
+
+		
+			log in
+		
+
+		
+			contact us
+		
+
+	
+	
+	
+
+
+
+
+
+
+
+
+contact us
+
+
+fill out the form below and a sales representative will be in touch with you shortly:
+
+
+
+
+
+	
+		
+	
+		terms of service
+	
+
+	
+    
+      
+        terms of service
+        email policy
+        privacy policy
+        security
+      
+    
+	
+
+	
+		
+			version date: july 7, 2016 
+summary of changes to sendgrid’s terms of service
+we have updated our terms of service. these new terms will be effective immediately for first time customers on or after july 7, 2016.   existing customers as of july 7, 2016 will be subject to the updated terms effective 30 days thereafter (august 6, 2016). these new terms supersede and replace the terms of service, dated august 2, 2011, available for review here.  you will be deemed to have agreed to these amended terms through your continued use of sendgrid’s services.
+in summary, we made changes to allow the integration of sendgrid’s services into your business offerings and the situation in which you might provide your customers or users with the ability to send emails using sendgrid’s services (what we call the “oem relationship”).  by including these provisions in our standard terms, we negate the need to sign a separate oem agreement with sendgrid.  if you do not plan to engage in this type of sending relationship, these additional provisions will not be applicable to you. we have also dealt with certain other legal matters, including regulatory updates, clarification regarding the treatment of specific categories of sensitive data, compliance with laws and european data privacy issues. unfortunately, because we have such a large number and variety of customers, we are generally unable to make changes to our terms of service.
+*****
+these terms of service (this &#8220;agreement&#8220;) is made between sendgrid, inc. (“sendgrid”) and you, or, if you represent an entity or other organization, that entity or organization (in either case “you”). 
+sendgrid provides certain services relating to the development, transmission, analysis, and management of email messages (the “services”) through the web site located at www.sendgrid.com and such other sites as may be designated by sendgrid (each, the “site” or collectively, the “sites”). 
+all access to and use of the services available through the site is subject to the terms of this agreement.  if you wish to access and use the publicly available portions of the services and the site, you may do so only in compliance with the terms of this agreement.  if you have placed or later place an order (whether through the site, by email, phone or otherwise) with sendgrid (your “order”) seeking to access and use certain of the services requiring registration, sendgrid is willing to accept your order and provide you with access to and use of those services only if you comply with the terms and conditions of this agreement. 
+without limiting the foregoing, the services are not available to individuals under the age of 18 or who do not meet any of the other qualifications included in this agreement. 
+please carefully read this agreement.  by submitting an order or by accessing or using the site or services, you agree that you have read and agree to be bound by the terms and conditions of this agreement. 
+if you do not agree to this agreement, or do not meet the qualifications included in this agreement, sendgrid is not willing to provide you with access to or use of the site or services and you must not access or use the site or services.  if you access or use the site or services, you acknowledge that you meet the qualifications included in this agreement and agree to be bound by this agreement. 
+this agreement is entered into as of the earlier of the date you first submit an order relating to the services or first access or use the services or a site (the “effective date”). this agreement consists of the following terms and conditions and each order submitted by you and accepted by sendgrid, each of which is incorporated in and made a part of this agreement.  unless otherwise amended as provided herein, this agreement will exclusively govern your access to and use of the services and the sites and is the complete and exclusive understanding and agreement between the parties, and supersedes any oral or written proposal, agreement or other communication between the parties, regarding your access to and use of the services and the sites.  except as expressly set forth in this agreement, this agreement may be amended or modified only by a writing signed by both parties.  all waivers under this agreement must be in writing.  any waiver or failure to enforce any provision of this agreement on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion. 
+sendgrid reserves the right, at any time, to change or modify the site, services or this agreement, by making such  change or modification available on the site or by providing other notice to you.  any such  change or modification will be effective 30 days after posting on the site or such other notice.  as applicable, you will be deemed to have agreed to such change or modification through your continued use of the site or services. 
+
+definitions.  terms used in this agreement will have the definitions given in this agreement or, if not defined in this agreement, will have their plain english meaning as commonly interpreted in the united states. 
+orders and confirmation.  all orders placed by you will be governed by the terms of this agreement.  sendgrid will confirm your order either through the site at the time you submit your order or by providing you with access to the services (each, a “confirmation”).  if the terms of any order conflict with the terms of any confirmation of that order, the terms of the confirmation will govern and control with respect to the services provided to you.  this agreement will govern and control the terms of each order and confirmation under this agreement.  by accessing or using any of the services, you agree to be bound by the terms of this agreement and each applicable order and confirmation with respect to those services. 
+term.  this agreement will be effective upon the effective date.  if you have ordered a trial subscription to the services or a subscription to any free services, as indicated in an applicable order or confirmation (a “trial/free subscription”), then the term of this agreement will continue for the period of the trial/free subscription indicated in the applicable order or confirmation and will thereafter expire unless you place an order for a non-trial subscription to the services prior to the completion thereof.  if you have ordered a non-trial subscription to the services, then the term of this agreement will continue for the initial period stated in the applicable order or confirmation for the services and will thereafter automatically renew for successive additional periods of equal duration.  if no initial period is stated in the applicable order or confirmation for the services, this agreement will continue for an initial period of 1 month and will thereafter automatically renew for successive additional 1-month periods.  unless terminated as set forth herein, the term of this agreement will continue to renew until you notify sendgrid that you do not wish to renew the agreement at least 10 days prior to the end of the then-current period.  in all other cases, the term of this agreement will continue until terminated as set forth herein. 
+subscription.  subject to this agreement, during the term of this agreement sendgrid will provide you with a limited subscription to access and use the services subject to confirmations under this agreement, solely for your own use in connection with your own business purposes; provided, however, if you desire to integrate the service into any of the services offered by you and/or provide the service to your customers and potential customers (“oem users”) as an integrated part of your business (the “oem service”), you will also be subject to the oem terms and conditions set forth in section 24 below.  subject to the foregoing proviso, your rights to access and use the services are personal, non-exclusive, non-transferable and non-sublicensable.  you understand that sendgrid may from time to time, in its sole discretion, update, change, revise, suspend or discontinue the services (or any portion thereof) with or without notice. 
+access to the services.  upon confirmation of your order by sendgrid, the rights granted to you under this agreement entitle you to access the services through accounts (each, an “account”).  you will be provided with a user identification and password applicable to each account you have purchased (each such user identification and password, an “account id”).  each account id is personal in nature and may be used only by you or, if you are an organization, by designated employees within your organization  or contractors who are contractually required to comply with the terms of this agreement (such individual, as applicable, the “user” of the account).  you are solely responsible for all use of the services by each user and for compliance by each user with the applicable terms of this agreement.  you will ensure the security and confidentiality of each account id and will notify sendgrid immediately if any account id is lost, stolen or otherwise compromised.  you acknowledge that you are fully responsible for all costs, fees, liabilities or damages incurred through use of each account id (whether lawful or unlawful) and that any services ordered or transactions completed through any account or under any account id will be deemed to have been lawfully completed by you.  in no event will sendgrid be liable for the foregoing obligations or the failure by you to fulfill such obligations.  you will be solely responsible, at your own expense, for acquiring, installing and maintaining all hardware, software and other equipment as may be necessary for you and each user to connect to, access, and use the services and the sites. 
+applicable policies.  in addition to the terms of this agreement, your access to and use of the site and services is subject to sendgrid’s then-current policies relating to the site and services, including, without limitation, the sendgrid privacy policy and email policy available on the site.  you are responsible for compliance with these policies and all other sendgrid policies applicable to the access and use of the services posted to the site or provided through services. 
+software.  any software or code available on or for download through the site or services (“software”) is protected by ipr (as defined below).  unless otherwise expressly stated in a license or other agreement separate from this agreement that you may have entered into (or may enter into) with sendgrid relating to any software (each such license or other agreement, a “software license agreement”), sendgrid grants you a limited, non-exclusive right and license to download, install and execute the software in accordance with the instructions provided on the site and solely for your own business purposes in connection with your access to and use of the services.  except as expressly set forth in the foregoing sentence (or any applicable software license agreement), you are granted no licenses or rights, whether by implication, estoppel, or otherwise, in or to any software or any ipr therein or related thereto, and you may not modify, reproduce, perform, display, create derivative works from, republish, post, transmit, participate in the transfer or sale of, distribute, or in any way exploit any portion of the software without the prior written permission of sendgrid.  except as set forth in this agreement, any software license agreement will control in the event of a conflict between the terms of this agreement and that software license agreement. 
+third-party services.  the services may include services developed, provided or maintained by third-party service providers (“third party services”).  in addition to the terms of this agreement, your access to and use of any third party services is also subject to any other agreement separate from this agreement that you may enter into (or may have entered into) relating to those third party services (each, a “third party service agreement”).  the terms of any third party service agreement will apply to the applicable third party services provided under that third party service agreement in addition to the terms of this agreement.  except as set forth in this agreement, the terms of any third party service agreement will control in the event of a conflict between the terms of this agreement and that third party service agreement.  all other third party services will be subject to the terms of this agreement.  third party services may be subject to additional fees as set forth on the site.  notwithstanding the terms of any third party services agreement, sendgrid may change, modify or discontinue any third party service at any time and without notice to you.  except as expressly set forth in this agreement or any third party service agreement, you are granted no licenses or rights, whether by implication, estoppel, or otherwise, in or to any third party services. 
+restrictions.  you acknowledge that the services, sites, software, and the databases, software, hardware and other technology used by or on behalf of sendgrid to provide the services and operate the sites (the “technology”) and their structure, organization, and underlying data, information and source code constitute valuable trade secrets of sendgrid.  you will not, and will not permit any third party (including any oem user, as applicable) to: (1) access or use the services or the sites, in whole or in part, except as expressly provided in this agreement; (2) use the site, services or any software to harvest or collect e-mail addresses or other contact information of third parties by any means for the purposes of sending unsolicited e-mails or other unsolicited communications; (3) use the site, services or any software in any unlawful manner or in any other manner that could damage, disable, overburden or impair the site or services; (4) use automated scripts to collect information from or otherwise interact with the site, services or any software; (5) use the site, services or any software to intimidate or harass any other people or entities; alter, modify, reproduce, create derivative works of the services, technology, or any software; (6) distribute, sell, resell, lend, loan, lease, license, sublicense or transfer any of your rights to access or use the services or any software, including, without limitation, providing outsourcing, service bureau, hosting, application service provider or on-line services to third parties, or otherwise make the services or any software, or access thereto, available to any third party; (7) reverse engineer, disassemble, decompile, or otherwise attempt to derive the source code or method of operation of or any trade secrets embodied in the site, services, technology or any software; (8) attempt to circumvent or overcome any technological protection measures intended to restrict access to any portion of the sites, services, technology, or any software; (9) interfere in any manner with the operation or hosting of the sites, services, technology or any software, or attempt to gain unauthorized access to the sites, services, technology or any software; or (10) use the service for any high risk activities including, but not limited to, the operation of nuclear facilities, air traffic control, life support systems, emergency services or where the use or failure of the service could lead to death, personal injury or environmental damage (collectively, “high risk activities”).  sendgrid does not intend uses of the service to create obligations under the health insurance portability and accountability act of 1996 (“hipaa”), the gramm-leach-bliley act (“glba”) or similar laws and makes no representations that the service satisfies the requirements of such laws. if you are (or become) a covered entity or business associate (as defined in hipaa) or a financial institution (as defined in glba), you agree not to use the service for any purpose or in any manner involving protected health information (as defined in hipaa) or nonpublic personal information (as defined in glba). you will not allow any access to or use of the services by anyone other than your authorized users or oem users (as applicable), and any such use will be consistent with the terms, conditions and restrictions set forth in this agreement. 
+fees and payment.  you agree to pay sendgrid all fees set forth in each order or confirmation and any fees otherwise specified on the site or through the services (“fees”).  all fees will be billed as indicated in each order or confirmation.  if the applicable order or confirmation does not specify any applicable billing terms, the initial payment of fees specified under that order or confirmation for each period in your subscription will be due and payable by you in advance on or before the effective date and again on or before the completion of each subsequent period under this agreement.  if you have specified credit card or direct withdrawal from a bank account as an applicable payment mechanism under this agreement, you grant sendgrid the right to charge the credit card or debit the bank account provided to sendgrid for all fees incurred under this agreement.  all fees will be non-refundable once paid to sendgrid (including upon any termination or suspension of this agreement).  until paid in full, all past due amounts will bear an additional charge of the lesser of 1½% per month or the maximum amount permitted under applicable law.  sendgrid may change any portion of the fees by posting the changes to the sites or otherwise notifying you through the services of the change, such changes to take effect at the beginning of the next period of this agreement.  if sendgrid requires use of collection agencies, attorneys, or courts of law for collection on your account, you will be responsible for those expenses. you will be responsible for all use, sales, and other taxes imposed on the services provided under this agreement. 
+termination and suspension.  this agreement may be terminated by sendgrid, at any time, in sendgrid’s sole discretion: (1) upon any breach by you of this agreement that remains uncured ten (10) days after sendgrid delivers written notice to you of such breach; or (2) at any time during any trial/free subscription, for any reason or no reason, upon notice to you.  without limiting sendgrid’s right to terminate this agreement, sendgrid may also immediately and indefinitely suspend your access to the sites or services, with or without notice to you, upon any actual, threatened or suspected breach of this agreement or of applicable law or upon any other conduct deemed inappropriate or detrimental to the services by sendgrid (including, but not limited to, rogue script, bad send and unauthorized takeover or other malicious activity on your account).  upon termination or expiration of this agreement for any reason: (a) all rights and subscriptions granted to you under this agreement will terminate; (b) you will immediately cease all use of and access to the sites and services; (c) all fees then owed by you will become immediately due and payable; (d) you will immediately either return to sendgrid or, at sendgrid&#8217;s discretion, destroy the sendgrid content, account ids, sendgrid confidential information, and other information related to this agreement in your possession or control; and (e) sendgrid may delete any of your content held by sendgrid within 10 days after the date of termination.  sections 6 (applicable policies), 9 (restrictions), 10 (fees and payment), 11 (termination and suspension), 12 (ownership), 14.3 (warranties and disclaimer: disclaimer), 15.2 (indemnity: by you), 16 (limitation on liability), 17 (data privacy), 18 (confidentiality), 21 (disputes), 22 (governing law), 23 (general) and 24.3 (use of the services by oem users) will survive any expiration or termination of this agreement. 
+ownership.  sendgrid retains all right, title and interest, including, without limitation, all ipr (as defined below), in and to the sites, services, technology, sendgrid content (as defined below), any software, and any additions, improvements, updates, and modifications thereto.  you acknowledge that you are not receiving any ownership interest in or to any of the foregoing, and no right or license is granted to you to use them apart from your right to access the services under this agreement.  the sendgrid name, logo and the product and service names associated with the services are trademarks of sendgrid (or its third party providers), and no right or license is granted to you to use them.  for purposes of this agreement, “ipr” means any and all intellectual property rights, proprietary rights, rights of publicity, rights of privacy, and any and all other legal rights protecting data, information or intangible property throughout the world, including, without limitation, any and all copyrights, trademarks, service marks, trade secrets, patent rights, moral rights, sui generis rights in databases, and contract rights. 
+content. 
+
+sendgrid content.  sendgrid provides you with access to certain data, information and other content through the site and services (“sendgrid content”).  unless otherwise noted on the site, as between you and sendgrid, all sendgrid content is owned by sendgrid.  subject to this agreement, each user and oem user (as applicable) may: (a) access the sendgrid content (without modification) solely for your own business purposes in connection with the use of the services; and (b) distribute the sendgrid content (without modification) as incorporated into emails generated and sent by you or any oem user (as applicable) through the services.  except as expressly provided in this agreement, you will not, and will not permit any user or oem user (as applicable) to: (i) alter, modify, reproduce, or create derivative works of the sendgrid content; (ii) distribute, sell, resell, lend, loan, lease, license, sublicense or transfer the sendgrid content, including, without limitation, providing outsourcing, service bureau, commercial hosting, application service provider or on-line services to third parties; or (iii) alter, obscure or remove any copyright, trademark or any other notices that are provided on or in connection with the sendgrid content.  certain of the sendgrid content includes or is based on data, information and content from independent third party providers (“third party content”).  sendgrid uses commercially reasonable measures to ensure that the third party content is reliable, but sendgrid has no independent basis to verify or contradict the accuracy or completeness of the third party content and will not be responsible for any erroneous third party content provided through the services. 
+your content.  you will be solely responsible for all data, information and other content provided by, or collected or obtained from, you or any of your users or oem users (as applicable) through the services, including, without limitation, all personally identifiable information relating to you or any of your users, customers, oem users, service providers, employees, contractors or agents (“your content”).  you, on behalf of yourself and each oem user (as applicable), grant to sendgrid all necessary rights and licenses in and to your content necessary for sendgrid to provide the services under this agreement.  as between you and sendgrid, you retain all of your rights in and to your content and do not convey any proprietary interest therein to sendgrid other than the licenses set forth herein.  you represent and warrant that none of your content violates this agreement or the email policy or privacy policy.  you will maintain an adequate back-up of all your content and sendgrid will not be responsible or liable for any deletion, correction, destruction, damage, loss or failure to store or back-up any of your content.  sendgrid may take remedial action if any of your content violates this agreement, provided that  sendgrid is under no obligation to review any of your content for accuracy or potential liability.  you represent and warrant to sendgrid that you have all necessary right, title, interest and consent necessary to allow sendgrid to use your content for the purposes for which you or any oem user (as applicable) provides your content to sendgrid, including, without limitation, the delivery of any and all emails and other communications.  you will defend, indemnify and hold harmless sendgrid from any and all losses, costs, damages, liabilities or expenses (including without limitation reasonable attorney&#8217;s fees) incurred or arising from any claim by a third party arising out of or relating to your content or the use thereof by sendgrid in providing the services.  for the purpose of clarity, sensitive data (as defined below) will not be provided to sendgrid at any time.  for purposes of this agreement, “sensitive data” means (a) social security number, passport number, driver’s license number, or similar identifier (or any portion thereof), (b) credit or debit card number, (c) employment, financial or health information, (d) ethnic or religious affiliation or sexual orientation, (e) account passwords, (f) date of birth, (g) criminal history, (h) mother’s maiden name or (i) any other information or combinations of information that is deemed sensitive under the legal framework of any applicable jurisdiction.
+
+
+warranties and disclaimer. 
+
+by sendgrid.  except in the case of any services provided during a trial/free subscription, sendgrid represents and warrants to you that sendgrid will use commercially reasonable efforts to maintain and verify that the services operate in accordance with this agreement.  sendgrid’s sole obligation and your sole and exclusive remedy in the event of any failure by sendgrid to comply with the foregoing sentence will be for sendgrid to, at sendgrid’s option, re-perform the affected services or refund to you the fees you have actually paid for the affected services during the month in which the failure occurred.  notwithstanding the foregoing, you remain solely and entirely responsible for your and each oem user’s (as applicable) compliance with, and will defend, indemnify and hold harmless sendgrid from and against any claims arising from any actual or alleged violation by you or any oem user (as applicable) of any international, federal, state or local treaties, laws, rules, regulations or ordinances regarding your or the oem users’ (as applicable) use of or access to the site or services or regarding your business, products or services, including, without limitation, regarding data and data privacy and the transmission of electronic mail messages, whether solicited or unsolicited. 
+by you.  you hereby represent, warrant, and covenant for the benefit of sendgrid that: (a) you have the legal right and authority to enter into this agreement, and, if you are accepting this agreement on behalf of a company or other entity, to bind the company or other entity to the terms of this agreement; (b) you have the legal right and authority to perform your obligations under this agreement and to grant the rights and licenses described in this agreement and in any applicable additional agreement you enter into in connection with any of the services; (c) your content, and any other data, information or content you or any oem user (as applicable) provides to sendgrid in connection with this agreement and your and each oem user’s (as applicable) access to the site and use of the services, is correct and current; (d) you will not and will not allow any user or oem user (as applicable) to export or re-export the service except in compliance with the u.s. export administration act and the related rules and regulations and similar non-u.s. government restrictions, if applicable; (e) you will not and will not allow any user or oem user (as applicable) to remove or export from the united states or allow the export or re-export of the service (i) into (or to a national or resident of) any embargoed or terrorist-supporting country, (ii) to anyone on the u.s. commerce department’s table of denial orders or u.s. treasury department’s list of specially designated nationals, (iii) to any country to which such export or re-export is restricted or prohibited, or as to which the u.s. government or any agency thereof requires an export license or other governmental approval at the time of export or re-export without first obtaining such license or approval, or (iv) otherwise in violation of any export or import laws; (f) you are not and will ensure each user and oem user (as applicable) are not, located in, under the control of, or a national or resident of any prohibited country or on any prohibited party list referred to in subsection (e) immediately above (for more information, see the u.s. department of treasury website at https://www.treasury.gov/
+resource-center/sanctions/programs/pages/programs.aspx); and (g) if you will make the service available oem users as an integrated part of the oem service, you (i) will not, without sendgrid’s prior written approval, make any representation, warranty or guarantee to oem user on behalf of sendgrid concerning the service and (ii) will only offer the service to oem users as an integrated part of the oem service and not for resale without integration. 
+disclaimer.  except as expressly set forth in this section 14, the sites and services (and all sendgrid content provided through the sites and services) are provided to you strictly “as is” and “as available” and sendgrid and its providers expressly disclaim any and all warranties and representations of any kind with regard to any subject matter of this agreement, whether express, implied or statutory, including, without limitation, any warranties of fitness for a particular purpose, merchantability, title or non-infringement.  neither the software, the sites nor the services are designed, manufactured or intended for high risk activities. no oral or written information or advice given by sendgrid, its employees, distributors, dealers, or agents will increase the scope of, or create any new warranties in addition to, the warranties expressly set forth in this section 14. 
+
+
+indemnity. 
+
+by sendgrid.  except in the case of any services provided during a trial/free subscription, sendgrid will, at its expense, defend you against any claims brought against you by a third party that your use of the services in accordance with this agreement infringes any copyright, trade secret or trademark right.  the foregoing obligations of sendgrid under this section 15 are conditioned upon you providing sendgrid with: (a) notice of any such claim within 10 days after you receive written notice thereof; (b) sole control over the defense and settlement of such claim; and (c) reasonable assistance (at sendgrid’s expense) in the defense and settlement of such claim.  if you are, or sendgrid reasonably believes you may be, enjoined from using the services, sendgrid, at sendgrid’s option and expense, may procure the right for you to continue using the services, replace or modify the services so that they become non-infringing, or provide you a refund of all pre-paid amounts applicable to such services (if any) and terminate this agreement with respect to such services.  this section 15.1 constitutes sendgrid’s sole and exclusive liability, and your sole and exclusive remedy, for any infringement or misappropriation of any third party ipr by or through the site, services, technology, sendgrid content or any software. 
+by you.  you hereby indemnify, defend, and hold harmless sendgrid and its affiliates, employees, agents, contractors, assigns, licensees, and successors in interest (“indemnified parties”) from any and all claims, losses, liabilities, damages, fees, expenses, and costs (including attorneys&#8217; fees, court costs, damage awards, and settlement amounts) that result from any claim or allegation against any indemnified party arising from your or the oem users (as applicable) accessing or using the site, services, software, your content, sendgrid content, any email or other communication generated or sent through the services or the oem service (as applicable), or any breach of this agreement. sendgrid will provide you with notice of any such claim or allegation, and sendgrid will have the right to participate in the defense of any such claim at its expense. 
+
+
+limitation on liability.  in no event will sendgrid be liable for any indirect, incidental, special, exemplary or consequential damages, however caused, under any theory of liability, whether in contract, strict liability or tort (including negligence or otherwise), arising in any way in connection with or out of the use of the sites, services (or any sendgrid content provided through the sites or services), even if sendgrid has been advised of the possibility of such damages, including, without limitation, any loss of data, opportunity, revenues or profits, business interruption, or procurement of substitute goods or services.  sendgrid’s total cumulative liability in connection with this agreement and all services provided under this agreement, whether in contract or tort or otherwise, will not exceed the fees paid to sendgrid hereunder in the 1 month preceding any such initial occurrence of liability (or, if no such fees have been paid, $10).  you agree that the fees reflect the allocation of risk set forth in this agreement and acknowledge that sendgrid would not enter into this agreement without these limitations on its liability.  in jurisdictions where limitation of liability for consequential or incidental damages is not permitted, sendgrid’s liability is limited to the maximum extent permitted by law.  for the purpose of clarity, sendgrid will not be liable, and will have no obligation to indemnify you, for (a) sensitive data sent to sendgrid; (b) violation of any law by sendgrid when acting at your or any oem user’s (as applicable) direction; (c) the sending by sendgrid of your or any oem user’s (as applicable) emails, including any claims against sendgrid due to your or any oem user’s (as applicable) sending or data collection practices or your content.
+data privacy.  in respect of your or the oem users’ (as applicable) use of the site and services and in relation to any personally identifiable and other data and information you or any oem user (as applicable) provides to sendgrid through the site and services, you expressly consent to the use and disclosure of that data and information as described in sendgrid’s then-current privacy policy displayed on the site (“privacy policy”).  notwithstanding anything in the privacy policy, sendgrid will have the right to collect, extract, compile, synthesize, and analyze non-personally identifiable data or information (data or information that does not identify an entity or natural person as the source thereof) resulting from your or any oem user’s (as applicable) access to the site and your or any oem user’s (as applicable) use and operation of the services (including, by way of example and not limitation, information relating to volumes, frequencies, recipients, bounce rates, or any other information regarding the email and other communications you and any oem user (as applicable) generates and sends using the services).  to the extent any such non-personally identifiable data or information is collected or generated by sendgrid, the data and information will be solely owned by sendgrid and may be used by sendgrid for any lawful business purpose without a duty of accounting to you or any oem user, provided that the data and information is used only in an aggregated form, without directly identifying you, any user, oem user or customer, or any other entity or natural person as the source thereof. you acknowledge that email is an insecure medium that is generally not encrypted in transit, and security of information transmitted through the internet can never be guaranteed. sendgrid is not responsible for any interception or interruption of any communications through the internet or for changes to or loss of your content.  sendgrid may process and store your content in the united states or any other country in which sendgrid or its agents maintain facilities and, by using the services, you consent to this processing and storage of your content. in relation to all &#8220;personal data&#8221; (as defined by directive 95/46/ec (the “directive”), which also defines the terms &#8220;processing&#8221;, &#8220;data controller&#8221; and &#8220;data processor&#8221;) of european union data subjects provided or disclosed to sendgrid by you or on your behalf, sendgrid will, upon reasonable request by sending an email to legal@sendgrid.com with the name and email address of your signatory, execute the necessary document with you containing the standard contract clauses, in the form provided by sendgrid, for the transfer of personal data to third countries under the directive.
+confidentiality.  for purposes of this agreement, “confidential information&#8221; means all nonpublic information disclosed or made available under this agreement that relates to the technology, the provision or receipt of the services, or either party&#8217;s technology, finances, operations, customers or business.  for the avoidance of doubt, (1) the services, technology, and sendgrid content are the confidential information of sendgrid, (2) all data regarding your email recipients and oem users (as applicable), including without limitation, identities and email addresses are your confidential information, and (3) the data and information specified in section 17 will not be your confidential information.  each party agrees to protect the other party&#8217;s confidential information with the degree of care that such party uses to protect its own confidential information of like nature, but in no case less than reasonable care.  each party agrees that, except as expressly directed by the other party, it will not at any time during or after the term of this agreement: (1) disclose any confidential information to any third party; (2) permit any third party to examine and/or make copies of any reports, documents or electronic data containing confidential information; or (3) use any of the confidential information for any reason other than for the purposes of this agreement.  each party may disclose confidential information to personnel having a need to receive the confidential information in the performance of their duties under this agreement, provided, however, that such personnel are informed of the confidentiality obligations hereunder and each party uses its best efforts to ensure their compliance therewith.  if either party is required to disclose the other party’s confidential information pursuant to any statute, regulation, order, subpoena or document discovery request, it will furnish written notice of such disclosure to the other party as soon as practicable in order to afford such party the opportunity to seek a protective order and the party required to make such disclosure  will reasonably cooperate in such efforts (at the other party’s reasonable expense).  in the event of any conflict between the privacy policy and the provisions of this section 18, the provisions of this section 18 shall control. 
+claims of infringement.  just as sendgrid requires users of the site to respect the copyrights and other intellectual property rights of sendgrid, its affiliates, and other third parties, sendgrid respects the copyrights and other intellectual property rights of users of the site and other third parties.  if you believe in good faith that your copyrighted work has been reproduced on the site without authorization in a way that constitutes copyright infringement, you may notify our designated copyright agent by mail to:
+
+sendgrid, inc.
+attn: copyright infringement agent
+1801 california street, suite 500
+denver, co 80202
+please provide the following information to sendgrid’s copyright infringement agent: 
+(1) the identity of the infringed work, and of the allegedly infringing work;
+(2) your name, address, daytime phone number, and email address, if available;
+(3) a statement that you have a good-faith belief that the use of the copyrighted work is not authorized by the owner, his or her agent, or the law;
+(4) a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorized to act on behalf of the owner; and
+(5) your electronic or physical signature. 
+
+linked sites.  the site and communications sent through the services may contain links to third-party sites that are not under the control of sendgrid, and sendgrid is not responsible for any content on any linked site.  if you access a third-party site from the site or from a communication sent through the services, then you do so at your own risk.  sendgrid provides links only as a convenience, and the inclusion of the link does not imply that sendgrid endorses or accepts any responsibility for the content on those third-party sites.  sendgrid welcomes links to the site.  you may establish a link to this site, provided that the link does not state or imply any sponsorship or endorsement of your site by sendgrid or any group or individual affiliated with sendgrid.  you may not use on your site any content or marks appearing on the site in establishing the link.  you may not frame or otherwise incorporate into another site the content or other materials on the site without prior written consent. 
+disputes.  except as otherwise provided below, the parties will attempt to resolve all disputes, controversies, or claims arising under, out of, or relating to this agreement, including the formation, validity, binding effect, interpretation, performance, breach or termination, of this agreement and the arbitrability of the issues submitted to arbitration hereunder and non-contractual claims relating to this agreement (each, a “dispute”), in accordance with the procedures set forth in this section 21.  if any dispute cannot be resolved through negotiations between the parties within 5 days of notice from one party to the other of the dispute, such dispute will be finally settled through binding arbitration under the arbitration of the international chamber of commerce (“icc”) then in effect (the “rules”).  either party may commence the arbitration by delivering a request for arbitration as specified in the rules.  the arbitration will be conducted before a sole neutral arbitrator selected by agreement of the parties.  if the parties cannot agree on the appointment of a single arbitrator within 30 days (the “initial period”) after either party to this agreement delivers a request for arbitration, a neutral arbitrator will be selected as provided in the rules.  the arbitration will be conducted exclusively in the english language at a site specified by sendgrid in denver, colorado u.s.a.  the award of the arbitrator will be the exclusive remedy of the parties for all claims, counterclaims, issues or accountings presented or plead to the arbitrator.  the award of the arbitrators will require payment of the costs, fees and expenses incurred by the prevailing party in any such arbitration by the non-prevailing party.  judgment upon the award may be entered in any court or governmental body having jurisdiction thereof.  any additional costs, fees or expenses incurred in enforcing the award may be charged against the party that resists its enforcement. 
+governing law.  the interpretation of the rights and obligations of the parties under this agreement, including, to the extent applicable, any negotiations, arbitrations or other proceedings hereunder, will be governed in all respects exclusively by the laws of the state of colorado, u.s.a. as such laws apply to contracts between colorado residents performed entirely within colorado.  each party agrees that it will only bring any action or proceeding arising from or relating to this agreement in a federal court in the district of colorado, u.s.a. or in state court in denver, colorado u.s.a., and you irrevocably submit to the personal jurisdiction and venue of any such court in any such action or proceeding or in any action or proceeding brought in such courts by sendgrid. 
+general.  if any provision of this agreement is held to be unenforceable, that provision will be removed to the extent necessary to comply with the law, replaced by a provision that most closely approximates the original intent and economic effect of the original to the extent consistent with the law, and the remaining provisions will remain in full force.  the prevailing party in any lawsuit or proceeding arising from or related to this agreement will be entitled to receive its costs, expert witness fees and reasonable attorneys’ fees, including costs and fees on appeal.  neither this agreement nor any rights or obligations of you hereunder may be assigned or transferred by you (in whole or in part and including by sale, merger or operation of law) without the prior written approval of sendgrid.  any assignment in violation of the foregoing will be null and void.  sendgrid may assign this agreement to any party that assumes sendgrid’s obligations hereunder.  this agreement does not confer any benefits on any third party unless it expressly states that it does. the parties hereto are independent parties, not agents, employees or employers of the other or joint venturers, and neither acquires hereunder any right or ability to bind or enter into any obligation on behalf of the other.  this agreement is the complete and exclusive statement of the agreement between the parties with respect to the subject matter of this agreement, and this agreement supersedes any proposal or prior agreement, oral or written, and any other communications between the parties in relation to the subject matter of this agreement.  sendgrid provides the service, including related software and technology, for ultimate federal government end use solely in accordance with the terms of this agreement.  if you (or any of your customers) is an agency, department, or other entity of any government, the use, duplication, reproduction, release, modification, disclosure, or transfer of the service, or any related documentation of any kind, including technical data, software, and manuals, is restricted by the terms of this agreement.  all other use is prohibited and no rights than those provided in this agreement are conferred. the service was developed fully at private expense.  sendgrid may reference you as a user of the services and use your name and logo, as applicable, in listings of users of the services appearing on the sendgrid web site and for other marketing and promotional purposes relating to the services. 
+oem terms and conditions. this section 24 sets forth the terms and conditions upon which you will make the service available to oem users as an integrated part of the oem service.  the terms set forth in this section 24 shall be in addition to, and not in lieu of, the terms set forth elsewhere in this agreement. 
+
+integration and use of the sendgrid interface. sendgrid will provide you with the right to integrate the service into the oem service through one or more interfaces for the service designated by sendgrid during the term of this agreement (each, a “sendgrid interface”) and to offer the service to oem users as an integrated part of the oem service.  you will access the service only through the sendgrid interfaces designated by sendgrid, for purposes of integrating the service into the oem service.
+oem account.  customer will be provided with an administrative account to manage access to and use of the service (the “oem account”).  the oem account may be accessed and used only by you for purposes of (a) establishing and administering oem user access to the services and (b) utilizing the service to send email messages to oem users in connection with your business.  you will be solely responsible for all use of the oem account.  you will ensure the security and confidentiality of all usernames and passwords associated with the oem account and will notify sendgrid immediately if any such information is lost, stolen or otherwise compromised.  you will be fully responsible for all liabilities and damages incurred through use of the oem account (whether lawful or unlawful).  any transactions completed through any oem account will be deemed to have been completed by you.  in no event will sendgrid be liable for the foregoing obligations or the failure by you to fulfill such obligations. 
+use of the service by oem users. prior to allowing any oem user to access or use any oem service, including any portion of the service, you will require that the oem user become legally bound by an agreement covering the use of the oem service with you (an “oem user agreement”).  you will be responsible for preparing the oem user agreement. the oem user agreement will include terms consistent with your rights and obligations under this agreement and at least as protective of the service and the interests of sendgrid as those set forth exhibit a hereto, but in no case less protective of the service and the interests of sendgrid than of the oem service and your interests in the oem user agreement.  upon request by sendgrid, you will provide sendgrid with a copy of the oem user agreement (including any prior versions thereof) and verify that each oem user has agreed to be legally bound by the oem user agreement.  you assume all responsibility and liability for the actions of all oem users, including all use of or access to the service by each oem user or by you on behalf of any oem user and will be responsible for each oem user’s compliance or failure to comply with the oem user agreement.  you will promptly notify sendgrid upon becoming aware of any breach of any oem user agreement and will enforce the terms of each oem user agreement against each oem user.  if you fail to enforce the oem user agreement against any oem user, upon the request of sendgrid, you will provide sendgrid with such authority and such information regarding such oem user as is required for sendgrid to enforce the oem user agreement directly against that oem user. 
+
+
+
+exhibit a – oem user agreement
+this oem user agreement (this “agreement”) is part of that certain terms of service between you and sendgrid (the “tos”). for purposes of this agreement: (a) you are referred to herein as “oem”, (b) sendgrid shall be considered a third party provider (as defined below), and (c) third party services (as defined below) shall include the services (as defined in the tos). 
+third-party services.  the services provided to oem user under this agreement include certain services developed, provided or maintained by third-party service providers of oem (“third party providers”).  access to or use of any those services (“third party services”) by oem user is subject to any separate agreement that oem user may enter into (or may have entered into) relating to those third party services (each, a “third party service agreement”).  the terms of any third party service agreement will apply to the applicable third party services provided under that third party service agreement in addition to the terms of this agreement.  except as set forth in this agreement, the terms of any third party service agreement will control in the event of a conflict between the terms of this agreement and that third party service agreement.  all other third party services will be subject to the terms of this agreement. each third party provider retains all right, title and interest in and to all third party services and all software, hardware or other technology used to provide those services, and any additions, improvements, updates, and modifications thereto. each third party provider will be a beneficiary of the terms of this agreement as to the third party services provided by the third party provider and will have all rights necessary to enforce this agreement against oem user in the case of any breach of those terms. 
+representations, warranties and covenants.  oem user represents, warrants, and covenants that: (a) oem user has the legal right and authority to enter into this agreement; (b) oem user has the legal right and authority to perform its obligations under this agreement and to grant the rights and licenses described in this agreement and in any applicable additional agreement oem user enter into in connection with any of the services provided under this agreement; (c) all content (as defined below) is in compliance with the terms of this agreement; (d) oem user will access and use the services provided under this agreement in compliance with the terms of this agreement and all laws, rules and regulations applicable to its obligations under this agreement; (e) oem user will not export or re-export the service except in compliance with the u.s. export administration act and the related rules and regulations and similar non-u.s. government restrictions, if applicable; (f) oem user will not remove or export from the united states or allow the export or re-export of the service (i) into (or to a national or resident of) any embargoed or terrorist-supporting country, (ii) to anyone on the u.s. commerce department’s table of denial orders or u.s. treasury department’s list of specially designated nationals, (iii) to any country to which such export or re-export is restricted or prohibited, or as to which the u.s. government or any agency thereof requires an export license or other governmental approval at the time of export or re-export without first obtaining such license or approval, or (iv) otherwise in violation of any export or import laws; and (g) oem user is not located in, under the control of, or a national or resident of any prohibited country or on any prohibited party list referred to in subsection (f) immediately above.   
+disclaimer.  the sole warranties regarding the services provided under this agreement are those express warranties (if any) provided to oem user by oem under this agreement.  all third party services are provided by each third party provider strictly “as is” and “as available” and all third party providers expressly disclaim any and all warranties and representations of any kind with regard to all third party services, whether express, implied or statutory, including, without limitation, any warranties of fitness for a particular purpose, merchantability, title or non-infringement. the services are not designed, manufactured or intended for high risk activities (as defined below). no oral or written information or advice given by oem or any third party provider will create any warranties by or on behalf of third party provider. 
+indemnification.  oem user agrees to and hereby does indemnify, defend, and hold harmless oem, its third party providers and their respective affiliates, employees, agents, contractors, assigns, licensees, and successors in interest (“indemnified parties”) from any and all claims, losses, liabilities, damages, fees, expenses, and costs (including attorneys&#8217; fees, court costs, damage awards, and settlement amounts) that result from or relate to any claim or allegation against any indemnified party arising from oem user accessing or using the services provided under this agreement (including any third party services) or from any email or other communication generated or sent through such services or any content contained therein, whether or not in breach of this agreement. 
+limitation on liability.  oem user agrees that responsibility and liability for the services provided under this agreement is strictly with oem.  no third party provider will have any liability under this agreement or otherwise in connection with any services provided under this agreement (including third party services), including, without limitation, for any direct, indirect, incidental, special, exemplary, consequential or other form damages, however caused, under any theory of liability, whether in contract, strict liability or tort (including negligence or otherwise), even if such party has been advised of the possibility of such damages, including, without limitation, any loss of data, opportunity, revenues or profits, business interruption, or procurement of substitute goods or services.  in jurisdictions where the foregoing limitation of liability is not permitted, the liability of any third party provider will be limited to the maximum extent permitted by law.  neither oem nor any third party provider will be liable, and will have no obligation to indemnify you, for (a) sensitive data (as defined below) sent to oem or such third party provider; (b) violation of any law by oem or such third party provider when acting at oem user’s direction; or (c) the sending by oem or such third party provider of oem user’s emails, including any claims against oem or such third party provider due to oem user’s sending or data collection practices or content (as defined below).
+data privacy.  oem and its third party providers will have the right to collect, extract, compile, synthesize, and analyze data and information resulting from or relating to the use or operation of the services under this agreement (“service data”).  any service data collected by oem or any third party provider will be owned by the party collecting the service data and may be used by that party for any lawful business purpose without a duty of accounting to oem user subject to the then current privacy policy applicable to the services under this agreement.  oem user consents to the use and disclosure of personally identifiable and other data and information as described in this agreement and in the then-current privacy policy applicable to the services provided under this agreement (“privacy policy”). 
+content.  oem user will be responsible for all data, information and other content (“content”) provided by oem user in connection with the services provided under this agreement.  oem user will not provide and will not permit any third party to provide or to use the services provided under this agreement to provide, any content that: (a) infringes, misappropriates or violates any intellectual property or other rights of any third-party; (b) is defamatory, harmful to minors, obscene or child pornographic; (c) contains any viruses or programming routines intended to damage the services or any software, hardware or other technology used to provide the services or surreptitiously intercept or expropriate any data or information; (d) is false, misleading or inaccurate; or (e) constitutes sensitive data.  for the purposes of this agreement, “sensitive data” means (i) social security number, passport number, driver’s license number, or similar identifier (or any portion thereof), (ii) credit or debit card number, (iii) employment, financial or health information, (iv) ethnic or religious affiliation or sexual orientation, (v) account passwords, (vi) date of birth, (vii) criminal history, (viii) mother’s maiden name or (ix) or any other information or combinations of information that is deemed sensitive under the legal framework of any applicable jurisdiction.  oem user will not use the service for any high risk activities including, but not limited to, the operation of nuclear facilities, air traffic control, life support systems, emergency services or where the use or failure of the service could lead to death, personal injury or environmental damage (collectively, “high risk activities”). oem and its third party providers do not intend uses of the third party services to create obligations under the health insurance portability and accountability act of 1996 (“hipaa”), the gramm-leach-bliley act (“glba”) or similar laws and makes no representations that such third party services satisfy the requirements of such laws. if oem user is (or becomes) a covered entity or business associate (as defined in hipaa) or a financial institution (as defined in glba), oem user agrees not to use the third party services for any purpose or in any manner involving protected health information (as defined in hipaa) or nonpublic personal information (as defined in glba).  oem user acknowledges that email is an insecure medium that is generally not encrypted in transit, and security of information transmitted through the internet can never be guaranteed. oem and its third party providers will not be responsible or liable for any deletion, correction, destruction, damage, loss or failure to store or back-up any content.  oem and its third party providers may take remedial action if any content violates this section, however oem and its third party providers are under no obligation to review any content for accuracy or potential liability. 
+license grant.  oem user grants to oem and its third party providers all necessary rights and licenses in and to all content necessary for oem and its third party providers to provide the services under this agreement.   oem user will maintain an adequate back-up of all content and oem and its third party providers will not be responsible or liable for any deletion, correction, destruction, damage, loss or failure to store or back-up any of any content.  oem user represents and warrants that oem user has all necessary right, title, interest and consent necessary to allow oem and its third party providers to use all content as set forth in this agreement and as otherwise necessary to provide the services under this agreement. 
+
+view august 2011 terms of service
+		
+	
+
+
+
+
+		
+				
+
+				
+
+
+  
+
+
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getelementbyid(i), r=d.getelementbyid(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createelement(s); e.id = i; e.async = true;
+  e.setattribute('data-cfasync', 'false'); e.src = h+"//"+u+"/p.js"; r.appendchild(e);
+})("script", "parsely", document);
+
+
+		
+		( function ( body ) {
+			'use strict';
+			body.classname = body.classname.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		
+		
+/*  */
+
+
+
+
+
+
+
+				
+
+	
+
+    
+      
+    
+
+		
+	solutions
+	sendgrid api
+	sendgrid marketing campaigns
+	sendgrid expert services
+
+
+	sales
+	pricing
+	contact us
+	partners
+
+
+	support
+	contact support
+	documentation
+	report spam
+
+
+	community
+	blog
+	github
+
+
+	company
+	about
+	our team
+	careers
+	contact us
+	newsroom
+	sendgrid labs
+	sendgrid loves startups
+
+	
+
+	
+
+    
+      
+        ©2016 sendgrid
+         / 
+        legal and security
+      
+    
+
+		
+        twitter
+        linked in
+        facebook
+        google plus
+        rss feed
+    
+
+	
+
+
+
+			
+
+		
+
+	window.nreum||(nreum={});nreum.info={"beacon":"bam.nr-data.net","licensekey":"890671fdeb","applicationid":"16721192","transactionname":"mlnrz0fzwupubrjqxqszclbhuvhxghyjvvsgx1za","queuetime":0,"applicationtime":626,"atts":"hhrseqldskq=","errorbeacon":"bam.nr-data.net","agent":""}

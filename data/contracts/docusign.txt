@@ -1,0 +1,779 @@
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new date().gettime(),event:'gtm.js'});var f=d.getelementsbytagname(s)[0];var j=d.createelement(s);var dl=l!='datalayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentnode.insertbefore(j,f);})(window,document,'script','datalayer','gtm-646l');
+
+        
+
+      
+      
+  
+      
+  
+  
+    
+
+  
+    
+      
+        
+                      
+              
+  
+      
+  
+  
+    
+
+
+  
+
+  
+  
+            
+          
+                      
+              
+  
+      
+  
+  
+    
+      free trial  
+  
+
+  
+  
+
+  
+      
+  
+  
+    
+      log in  
+  
+
+  
+  
+            
+                  
+      
+    
+  
+
+      
+      
+        
+          
+            
+  
+      
+  
+  
+    
+ 
+
+
+
+  
+
+  
+  
+            search
+          
+        
+      
+    
+  
+  
+    
+      
+                  
+            
+              
+  
+      
+  
+  
+    access documents
+contact us
+  
+
+  
+  
+            
+          
+              
+    
+  
+
+    
+    
+      
+                  
+            
+  
+      
+  
+  
+    
+
+
+  
+
+  
+  
+          
+        
+                  menu
+        
+        
+                      
+              
+  
+      
+  
+  
+    
+      free trial  
+  
+
+  
+  
+
+  
+      
+  
+  
+    
+      log in  
+  
+
+  
+  
+
+  
+      
+  
+  
+    access documents  
+
+  
+  
+            
+                                search
+                  
+
+        
+                      
+              
+  
+      
+  
+  
+    productselectronic signature
+mobile
+partner integrations
+real estate transaction rooms
+signature appliance
+services
+
+industriesreal estate
+financial services
+healthcare
+government
+insurance
+technology
+life sciences
+see all
+
+developersget started
+documentation
+community support
+api pricing
+
+supportquick start
+support center
+community
+docusign university
+
+pricinggeneral plans
+real estate plans
+api plans
+
+moreabout us
+customers
+partners
+security &amp; trust
+careers
+events
+press room
+blog
+resource center
+contact us
+
+  
+
+  
+  
+            
+                  
+      
+  
+  
+      
+      
+  
+      
+  
+  
+    
+      free trial  
+  
+
+  
+  
+
+  
+      
+  
+  
+    
+      log in  
+  
+
+  
+  
+
+  
+      
+  
+  
+    access documents  
+
+  
+  
+    
+  
+  
+
+  
+
+  
+  
+    
+  
+  
+    
+          
+  
+
+  
+    
+              
+  
+      
+  
+  
+    
+
+        
+  
+    
+      
+              
+          
+  
+      
+  
+  
+    terms of use
+  
+
+  
+  
+        
+      
+              
+          
+  
+      
+  
+  
+    
+
+
+  
+    
+      
+    
+  
+  
+    
+      
+    
+  
+  
+    
+      
+    
+  
+  
+    
+      
+    
+  
+  
+    
+      
+    
+  
+
+
+  
+
+  
+  
+        
+          
+  
+
+  
+
+  
+    
+              
+          
+            
+  
+      
+  
+  
+    
+
+  
+      
+  
+  
+    web site terms of use
+
+welcome to the docusign, inc., web site (the “site”).  please review the following terms of use (“tou”) that apply to site visitors (“site visitors”). for registered users or paying customers subject to a separate user or customer agreement with docusign, in the event of conflict, the terms of your separate user or customer agreement will control. by accessing, using or downloading any materials from the site as a site visitor, you agree to follow and be bound by the tou.  
+
+copyright and intellectual property.
+
+the site contains materials that are proprietary and are protected by copyright laws, international treaty provisions, trademarks, service marks, and other intellectual property laws and treaties. the site is also protected as a collective work or compilation under copyright and other laws and treaties. you agree to abide by all applicable copyright and other laws, as well as any additional copyright notices or restrictions contained on the site. you acknowledge that the site contains original works and have been developed, compiled, prepared, revised, selected, and arranged by docusign and others through the application of methods and standards of judgment developed and applied through the expenditure of substantial time, effort, and money and constitutes valuable intellectual property of docusign and such others.  all present and future rights in and to trade secrets, patents, designs, copyrights, trademarks, service marks, know-how, and other proprietary rights of any type under the laws of any governmental authority, domestic or foreign, including rights in and to all applications and registrations relating to the site shall, as between you and docusign, at all times be and remain the sole and exclusive property of docusign. 
+
+the trademarks, logos, taglines and service marks displayed on the site (collectively, the “trademarks”) are registered and unregistered trademarks of docusign and others.  the trademarks may not be used in any advertising or publicity, or otherwise to indicate docusign's sponsorship of or affiliation with any product, service, event or organization without docusign's prior express written permission. nothing contained on the site should be read as granting any trademark without the written permission of docusign or such third party that may own the trademarks. docusign acknowledges the trademarks of other organizations for their respective products or services mentioned on the site. any rights not expressly granted herein are reserved by docusign, inc. other than as provided in the tou, your use of the trademarks, or any other docusign content, is strictly prohibited. 
+
+your license to use the site.
+
+we grant you a personal, limited, non-exclusive and non-transferable license to access and use the site only as expressly permitted in the tou. you shall not use the site for any illegal purpose or in any manner inconsistent with the provisions of the tou. you may use information made available through the site solely for your personal, non-commercial use. docusign grants you permission to display, copy, distribute and download content and materials on the site provided that you: (1) retain all copyright and other proprietary notices on the content and materials; (2) use them solely for personal, non-commercial use; and (3) do not modify them in any way.  any violation by you of the license provisions contained in this section 2 may result in the immediate termination of your right to use the site, as well as potential liability for copyright infringement depending on the circumstances. 
+
+your content and submissions.
+
+if you submit material to the site, unless we indicate otherwise, you grant us a nonexclusive, royalty-free, and fully sublicensable right to access, view, use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, copy, and display such material throughout the world in any form, media, or technology now known or hereafter developed. you also permit any other user to view, copy, access, store, or reproduce such material for that user’s personal use. you grant us the right to use the name and other information about you that you submit in connection with such material. you represent and warrant that you own or otherwise control all of the rights to the material that you submit; that the material you submit is truthful and accurate; and that use of the material you supply does not violate this tou or any applicable laws. 
+
+comments, feedback, information or materials submitted to docusign in association with the site (“submissions”) shall be considered non-confidential and docusign’s property. by providing submissions to docusign, you agree to assign to docusign, at no charge, all worldwide intellectual property rights to the submissions. docusign shall have unrestricted use of the submissions. you acknowledge that you are responsible for the submissions that you provide and that you have full responsibility for the legality and copyright of the submissions.
+
+restrictions on use.
+
+by using the site, you specifically agree not to engage in any activity that, in our sole discretion:
+
+is harmful, threatening, abusive, harassing, tortious, indecent, defamatory, sexually explicit or pornographic, discriminatory, vulgar, profane, obscene, libelous, hate speech, violent or inciting violence, inflammatory, or otherwise objectionable;
+	violates any third-party right, including, but not limited to, right of privacy, right of publicity, copyright, trademark, patent, trade secret, or any other intellectual property or proprietary rights;
+	is illegal, or violates any federal, state, or local law or regulation;
+	attempts to impersonate another person or entity;
+	is commercial in nature, including but not limited to spam, surveys, contests, pyramid schemes, or other advertising materials;
+	falsely states, misrepresents, or conceals your affiliation with another person or entity;
+	accesses or uses the account of another user without permission;
+	distributes computer viruses or other code, files, or programs that interrupt, destroy, or limit the functionality of any computer software or hardware or electronic communications equipment;
+	interferes with, disrupts, disables, overburdens, or destroys the functionality or use of any features of the site or the servers or networks connected to the site;
+	“hacks” or accesses without permission our proprietary or confidential records, those of another user, or those of anyone else;
+	decompiles, reverse engineers, disassembles or otherwise attempts to derive source code from the site;
+	removes, circumvents, disables, damages or otherwise interferes with security-related features, or features that enforce limitations on use of, the site; 
+	uses automated or manual means to violate the restrictions in any robot exclusion headers on the site, if any, or bypasses or circumvents other measures employed to prevent or limit access, for example by engaging in practices such as “screen scraping,” “database scraping,” or any other activity with the purpose of obtaining lists of users or other information;
+	modifies, copies, scrapes or crawls, displays, publishes, licenses, sells, rents, leases, lends, transfers or otherwise commercialize any rights to the site; or
+	attempts to do any of the foregoing.
+if you believe content on the site violates the above restrictions, please contact us via the information provided below.  
+
+you acknowledge that we have no obligation to monitor your – or anyone else’s – access to or use of the site for violations of the tou, or to review or edit any content. however, we have the right to do so for the purpose of operating and improving the site (including without limitation for fraud prevention, risk assessment, investigation and customer support purposes, analytics, and advertising), to ensure your compliance with the tou and to comply with applicable law or the order or requirement of a court, consent decree, administrative agency or other governmental body. 
+
+we may access, preserve, or share any of your information when we believe in good faith that such sharing is reasonably necessary to investigate, prevent, or take action regarding possible illegal activities or to comply with legal process (e.g. a subpoena).  we may also share your information in situations involving potential threats to the physical safety of any person, violations of this privacy policy or our user agreements or terms; or to respond to the claims of violation of the rights of third parties and/or to protect the rights, property and safety of docusign, our employees, users, or the public. this may involve the sharing of your information with law enforcement, government agencies, courts, and/or other organizations.  
+
+warranty disclaimer.
+
+you acknowledge and agree that the site is provided “as is” and “as available” and that your use of the site shall be at your sole risk. to the fullest extent permitted by applicable law, docusign, and its respective officers, directors,  employees, members, shareholders, agents, affiliates, subsidiaries, and licensors (“docusign parties”) disclaim all warranties, express or implied, in connection with the site and your use of it. to the fullest extent permitted by applicable law, the docusign parties make no warranties or representations that the site has been and will be provided with due skill, care and diligence or about the accuracy or completeness of the site’s content and assume no responsibility for any (i) errors, mistakes, or inaccuracies of content, (ii) personal injury or property damage, of any nature whatsoever, resulting from your access to and use of the site, (iii) any unauthorized access to or use of our servers and/or any and all personal information and/or financial information stored therein, (iv) any interruption or cessation of transmission to or from the site, (v) any bugs, viruses, trojan horses, or the like which may be transmitted to or through the site through the actions of any third party, (vi) any loss of your data or content from the site and/or (vii) any errors or omissions in any content or for any loss or damage of any kind incurred as a result of the use of any content posted, emailed, transmitted, or otherwise made available via the site. the docusign parties do not warrant, endorse, guarantee, or assume responsibility for any product or service advertised or offered by a third party through the site, and the docusign parties will not be a party to or in any way be responsible for monitoring any transaction between you and third-party providers of products or services. you are solely responsible for all of your communications and interactions with other persons with whom you communicate or interact as a result of your use of the site. 
+
+limitation of liability.
+
+to the fullest extent permitted by applicable law, in no event shall the docusign parties be liable to you for any direct, indirect, incidental, special, punitive, or consequential damages whatsoever resulting from any (i) use of the site; (ii) errors, mistakes, or inaccuracies of content, (iii) personal injury or property damage, of any nature whatsoever, resulting from your access to and use of the site, (iv) any unauthorized access to or use of our servers and/or any and all personal information and/or financial information stored therein, (v) any interruption or cessation of transmission to or from our servers, (vi) any bugs, viruses, trojan horses, or the like, which may be transmitted to or through the site by any third party, (vii) any loss of your data or content from the site (viii) any errors or omissions in any content or for any loss or damage of any kind incurred as a result of your use of any content posted, transmitted, or otherwise made available via the site, whether based on warranty, contract, tort, or any other legal theory, and whether or not the docusign parties are advised of the possibility of such damages, and/or (viii) the disclosure of information pursuant to these tou or our privacy policy. despite the above, our total liability to you for any cause of action you take against us will at all times be limited to no more than one hundred dollars ($100.00). 
+
+some countries and jurisdictions do not allow the limitation or exclusion of consequential, direct, indirect, or other damages in contracts with consumers and to the extent you are a consumer the limitations or exclusions in this section may not apply to you.
+
+indemnity.
+
+you agree to indemnify, defend, and hold the docusign parties harmless, from and against any third party claims, damages (actual and/or consequential), actions, proceedings, demands, losses, liabilities, costs and expenses (including reasonable legal fees) suffered or reasonably incurred by us arising as a result of, or in connection with, (i) your access to and use of the site; (ii) your breach of the tou, including, but not limited to, any infringement by you of the copyright or intellectual property rights of any third party; or (iii) any products or services purchased or obtained by you in connection with the site. docusign retains the exclusive right to settle, compromise and pay, without your prior consent, any and all claims or causes of action which are brought against us. we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us and you agree to cooperate with our defense of these claims. you agree not to settle any matter in which we are named as a defendant and/or for which you have indemnity obligations without our prior written consent. we will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.
+
+privacy.
+
+your use of the site is also governed by our privacy policy.  please read this document carefully.
+
+software use restrictions.
+
+software available for downloading through the site or third-party websites or applications is the copyrighted work of docusign and third-party providers. use of the software is governed by the terms of the end-user license associated with the software (“license”). redistribution of the software is expressly prohibited by law, and may result in civil and criminal penalties. violators will be prosecuted.  the software is warranted only according to the terms of the license. except as expressly warranted in the license, docusign disclaims all express or implied warranties and guarantees, including conditions of merchantability, fitness for a particular purpose, title and non-infringement, except to the extent that such disclaimers are held to be legally invalid.
+
+site modifications/updates. 
+
+we reserve the right to change or discontinue any aspect of the site at any time. upgrades or updates of the site may be made available from time to time. we do this to improve the quality of the site that we provide to you and other users. the software or the software application store that makes the software available for download may include functionality to automatically check for updates or upgrades to the software. unless your device, its settings or computer software does not permit transmission or use of upgrades or updates, you agree that we, or the applicable third-party software application provider, may provide notice to you of the availability of such upgrades or updates and automatically push such upgrade or update to your device or computer from time-to-time. you may be required to install certain upgrades or updates to the software in order to continue to access or use the site, or portions thereof (including upgrades or updates designed to correct issues with the site). any updates or upgrades provided to you by us under the tou shall be considered part of the site.
+
+export control.
+
+by using the site, you represent and warrant that you are not located in, under the control of, or a national or resident of, any country to which the united states has embargoed goods.  you agree you will not export, re-export, transfer, or make available, whether directly or indirectly, any regulated item or information to anyone outside the united states in connection with your use of this site unless you have complied with all applicable u.s. and foreign government export laws and regulations.  docusign makes no claim that content contained on this website is appropriate or may be downloaded outside the united states.  if you access this website from outside the united states, you do so at your own risk and are responsible for compliance with the laws of your jurisdiction.
+
+third party sites and services.
+
+the site may contain links to third party websites and applications that are not owned or controlled by us. we have no control over, and assume no responsibility for, the content, privacy policies, or practices of any such third parties. by using the site, you expressly acknowledge and agree that we shall not be responsible for any damages, claims or other liability arising from or related to your use of any third-party website.
+
+termination.
+
+you can terminate your use of the site at time by ceasing further use of the site. we may terminate your use of the site and deny you access to the site in our sole discretion for any reason or no reason, including your violation of these terms. 
+
+modifications to the tou.
+
+we may, at any time and for any reason make changes to the tou. we may do this for a variety of reasons including to reflect changes in or requirements of the law, new features, or changes in business practices. the most recent version of the tou will be posted on the site and you should regularly check for the most recent version. the most recent version is the version that applies. if you continue to use the site after the changes become effective, then you shall be deemed to have accepted those changes. if you don’t agree to these changes, you must cease using the site. 
+
+general.
+
+governing law and jurisdiction. the tou, and the respective rights and obligations of the parties hereunder, shall be governed by and construed in accordance with the laws of the state of washington without regard to conflict of law principles.  
+
+severability/no waiver.  if, for any reason, any provision of the tou is declared to be illegal, invalid, void or otherwise unenforceable by a competent court of any jurisdiction, then to the extent that term is illegal, invalid, void or unenforceable, it shall be severed and deleted from the tou and the remainder of the tou shall survive, remain in full force and effect and continue to be binding and enforceable. no failure or delay by us in exercising any right, power or privilege under the tou shall operate as a waiver of such right or acceptance of any variation of the tou and nor shall any single or partial exercise by either party of any right, power or privilege preclude any further exercise of that right or the exercise of any other right, power or privilege.
+
+no third party rights. nothing in the tou shall confer or purport to confer any rights on any other third party.
+
+linking and framing. you may not frame the site, place pop-up windows over its pages, or otherwise affect the display of its pages.  you may link to the site, provided that you acknowledge and agree that you will not link the site to any website containing any inappropriate, profane, defamatory, infringing, obscene, indecent, or unlawful topic, name, material, or information or that violates any intellectual property, proprietary, privacy, or publicity rights. any violation of this provision may, in our sole discretion, result in termination of your use of and access to the site effective immediately.
+
+how to contact us.
+
+if you have any questions about the tou, please contact docusign at 1301 2nd ave., suite 2000, seattle, wa 98101, united states or legal@docusign.com. 
+
+ 
+
+v151020
+  
+
+  
+  
+
+  
+
+  
+  
+          
+        
+      
+          
+  
+
+
+  
+
+  
+  
+          
+  
+
+      
+      
+  
+      
+  
+  
+    
+
+  
+    
+              
+          
+  
+      
+  
+  
+    menu groupproductsoverview
+electronic signature
+how docusign works
+mobile
+partner integrations
+digital transformation
+signature appliance
+services
+digital signature technology
+docusign demo
+free trial
+buy now
+
+plans &amp; pricinggeneral plans
+real estate plans
+api plans
+
+
+by industryoverview
+accounting and tax
+construction
+government
+healthcare
+higher education
+insurance
+legal
+life sciences
+mortgage
+nonprofit
+real estate
+technology
+
+by departmentoverview
+facilities
+finance
+human resources
+it/operations
+legal
+marketing
+procurement
+product management
+sales
+support
+
+menu groupdevelopersget started
+documentation
+community support
+api pricing
+
+support &amp; trainingoverview
+support center
+community
+docusign university
+downloads
+
+partnerspartner programs
+find a partner
+solution showcase
+partner portal
+
+
+companyoverview
+about docusign
+leadership team
+financial investors
+board of directors
+advisory board
+security &amp; trust
+corporate responsibility
+blog
+events
+press room
+careers
+executive briefing center
+contact
+
+  
+
+  
+  
+        
+      
+              
+          
+  
+        
+      get the app    
+    
+  
+  
+        
+
+  
+  
+
+  
+        
+      follow us    
+    
+  
+  
+    facebook
+twitter
+linkedin
+glassdoor
+googleplus
+youtube
+  
+
+  
+  
+        
+          
+
+    
+      
+                  
+            
+  
+      
+  
+  
+    
+    
+
+  
+
+  
+  
+
+  
+      
+  
+  
+    
+  
+          
+              
+      
+
+  
+
+  
+  
+
+  
+      
+  
+  
+    
+    © docusign inc., 2003 - 
+	221 main st., suite 1000, san francisco, ca 94105
+	sales: +1.877.720.2040 
+
+  
+
+  
+  
+          
+                
+          
+            
+  
+      
+  
+  
+    
+    docusign® is changing how business gets done by empowering more than 250,000 companies and 100 million users in 188 countries to sign, send and manage documents anytime, anywhere, on any device, with confidence.  docusign replaces printing, faxing, scanning and overnighting paper documents to transact business. docusign enables organizations of every size, industry and geography to make every decision, approval, workflow and signature fully digital. docusign and go to keep life and business moving forward.
+
+  
+
+  
+  
+          
+              
+      
+        
+          
+            
+  
+        
+      related topics:    
+    
+  
+  
+    
+
+	send documents securely
+	comprehensive transaction management
+	business transaction management
+	online transaction management
+	estate transaction management
+	electronic document management system
+	digital document management
+	electronic document management
+	property management sign document online
+	real estate transaction management
+
+  
+
+  
+  
+          
+              
+    
+
+    
+        
+                      
+ australiabrazilcanadafranceindiaunited kingdomunited statesnetherlands日本語deutschland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+
+        
+                      
+  
+      
+  
+  
+    
+  terms of use
+privacy policy
+intellectual property
+
+  
+
+  
+  
+                  
+    
+  
+
+  
+
+  
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

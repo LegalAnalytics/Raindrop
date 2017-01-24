@@ -1,0 +1,414 @@
+
+
+    
+    menu
+    
+        close
+    
+    
+            home
+    
+    subscribe
+
+
+
+
+    
+
+        
+            
+                
+                
+                    
+                        
+                    
+                    
+                        free trial
+                    
+                    
+                        sales@elastichosts.com
+                        1-415-358-5210
+                    
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                
+                
+                
+                    
+                        
+                            elastichosts
+                        
+                    
+                    
+                        
+                            features
+                            pricing
+                            support
+                            about
+                            login
+                        
+                    
+                    
+                        
+                    
+                
+                
+                    
+                        features
+                        pricing
+                        support
+                        
+                            
+                                faq
+                                tutorials
+                                case studies
+                                api intro
+                            
+                        
+                        about
+                        
+                            
+                                awards
+                                contact us
+                                our partners
+                                blog 
+                            
+                        
+                        login
+                    
+                
+                
+                    
+
+    edit post?
+
+        
+            
+                
+                    
+                        
+                            
+                                elastichosts terms of service, sla &amp; aup
+                            
+                        
+                    
+                    
+                        this agreement
+
+these terms of service (the “terms of service”) apply to customers of elastichosts. in what follows, “we” or “us” refers to elastichosts, “you” refers to the individual(s) or organization(s) purchasing or using elastichosts services, and “services” refers to all services, products and accompanying services provided by elastichosts. in addition, “your users” refers to any third parties to whom you grant access to services running within or associated with your elastichosts account.
+
+elastichosts ltd is registered in england and wales, no. 03888886. our registered office and address for correspondence or any notices is 5th floor, the shipping building, old vinyl factory, 252-254 blyth road, hayes, middlesex ub3 1ha, united kingdom. you can contact us and provide notices to us by email at sales@elastichosts.com. you can contact us by telephone on +44 (0)20 7183 8250.
+
+you must be at least 18 years old to purchase or use our services and in addition to this we reserve the right to refuse service to any person or organization at our sole discretion.
+
+our services and responsibilities
+
+we deploy, operate and maintain computing infrastructure. our services include the provision of capacity on this infrastructure to you. you will rent capacity on our infrastructure, which you will access exclusively over the internet, and will use this capacity to store data and/or to run virtual servers. we also offer accompanying services, for example domain name registration and dns hosting.
+
+we have taken reasonable care in compiling the content of our website, but make no warranty as to the accuracy of any descriptions of our services on our website (with the exception of the terms of service), and we do not accept any liability resulting from any reliance you or any third party may place on such descriptions. in particular, performance descriptions are indicative and not guaranteed. our prices cannot be guaranteed for any period of time, although in the event that we wish to increase our prices, you will have the rights set out under the suspension and termination section below.
+
+we do not support any operating systems and/or other software which you run on your virtual servers. we do not make any representations, warranties or guarantees regarding data retention, data integrity, service security or service suitability for any purpose. you must not use our services in any safety critical systems.
+
+you rent capacity on our infrastructure either:
+
+
+by subscription, paid in advance, covering a certain amount of capacity over a given time period; or
+by usage, which is deducted from a prepaid balance, and may be charged at a different rate from subscriptions; or
+by payment in arrears, according to the payment terms specified in our invoices or otherwise.
+
+
+you may not always be able to increase the amount of capacity that you use on our infrastructure, even when payment for this would be covered by your existing subscriptions or prepaid balance, since our infrastructure may be fully or nearly fully-utilized by other customers.
+
+we reserve the right to charge interest on any amount due to us from you, on a daily basis at 2% above the bank of england base rate. you will reimburse us all costs and expenses incurred in collection of overdue amounts, including our legal fees.
+
+the accompanying services which we offer may be subject to additional terms and conditions from us or third parties, such as domain name registrars, who are involved in their provision. we will notify you of these conditions, which you must also accept should you wish to use these accompanying services.
+
+service level agreement (sla)
+
+we guarantee that your stored data and running virtual servers will be available over the internet for 100% of the time in any given calendar month, except for periods of unavailability due to:
+
+
+your payments not covering your use, including but not limited to when your subscriptions or prepaid balance run out.
+acts or omissions of you or your users.
+software running within your virtual servers.
+scheduled maintenance which we have announced at least 24 hours in advance.
+factors outside our control, including but not limited to any force majeure events; failures, acts or omissions of our upstream providers or failures of the internet.
+actions of third parties, including but not limited to security compromises, denial of service attacks and viruses.
+violations of our acceptable use policy.
+law enforcement activity.
+
+
+if we fail to meet the guarantee detailed above, then you will be able to request a credit as detailed below, up to a maximum of 100% of your fee for capacity used during the previous 30 calendar days:
+
+
+credit of 100 times the fees for any period of unavailability lasting more than 15 minutes, measured from the time at which you validly inform us at support@elastichosts.com of the unavailability or the time at which our monitoring systems detect the unavailability, whichever is earlier.
+credit of your entire fee for the previous 30 calendar days in case of permanent loss of your stored data.
+
+
+in the event that we fail to meet the guarantee on more than one occasion within a period of 30 calendar days, then the credit that you may claim for any incident will be limited to the maximum of 100% of your fee for capacity used since the previous incident or 100% of your fee for capacity used during the previous 30 calendar days, whichever fee is lower.
+
+to receive a credit, you must contact us at support@elastichosts.com within 30 calendar days of the incident, specifying the start time, date and duration of the period of unavailability which forms the basis of your claim and the amount of credit claimed. we will be the sole arbiter regarding the award of credit and our decision will be final and binding. the award of credit by us to you as described in this service level agreement will be the sole and exclusive remedy for unavailability of stored data or virtual servers or loss of stored data. credits will only be provided against future service and for the avoidance of doubt may not be exchanged for cash or other forms of payment.
+
+privacy policy
+
+we are committed to respecting and protecting the privacy of our customers.
+
+as our customer, you will provide us with contact and payment information. contact information includes your name, email address, postal address and telephone number. payment information includes your credit card number or other payment details. your information will only be used to support your customer relationship with us, and will never be passed to any third party unless this is necessary to provide services to you or where we are legally required to do so.
+
+you also store and transmit data using our services. unless you give us explicit permission, we will never inspect your stored data and will only measure the volume of your transmitted data for billing purposes or inspect your transmitted data to investigate suspected violations of our acceptable use policy. we will never disclose your data to any third party unless we are required to do so by court or administrative order.
+
+liability
+
+our liability under these terms of service will not exceed your bill for virtual server use in the calendar month in which the incident occurred, and you will make no claim against us unless you notify us of the details of the claim within one month of the incident occurring and one month prior to making the claim.
+
+we will not be liable for any losses or liabilities that you may incur as a result of any force majeure event or law enforcement activity. a force majeure event in the terms of service is an event that is outside our control and will include but not be limited to fire, flood, earthquake, storm, hurricane or other natural disasters, war, invasion, act of foreign enemies, hostilities (whether war is declared or not), civil war, rebellion, revolution, insurrection, military or usurped power or confiscation, terrorist activities, nationalisation, government sanction, blockage, embargo, labour dispute, strike, lockout or interruption or failure of electricity or other utilities.
+
+with the exception of losses with regard to fraud on our part and personal injury, we will not be liable for any consequential losses which you or your users may suffer as a result of our breach of these terms of service, such losses including but not limited to economic loss, loss of goodwill or reputation, and loss of or damage to data.
+
+your responsibilities
+
+if you are a consumer then nothing in this agreement excludes any rights which you may have under english consumer protection law.
+
+you are responsible in all respects for your use and your users’ use of our services. without limitation, this includes:
+
+
+all data stored in your account or transmitted by your virtual servers.
+any operating systems and/or other software on your virtual servers.
+web sites, email messages and other data transmitted by your virtual servers.
+
+
+with regard to data protection laws, you are the data controller for all data stored in your account or transmitted by your virtual servers.
+
+you are responsible for maintaining any required backup copies of data stored in your account. we do not make or maintain backup copies on your behalf.
+
+you must receive and read all email sent to “postmaster” and “abuse” in every mail domain which you host on our infrastructure. we recommend that you also receive and read all email sent to “hostmaster” and “webmaster”.
+
+you will not disclose your password or security key to third parties for any purpose. if your account or virtual servers are compromised by third parties, then you will notify us immediately at support@elastichosts.com and you will change any passwords and reinstall any software which may have been compromised. in absence of such notification or manifest error, we will accept your security key as authority to make any changes to your account.
+
+you will indemnify us and keep us indemnified from and against all claims, costs (including legal costs), damages, expenses, losses and liabilities incurred by us or due to third party claims against us as a result of, or in connection with your breach of any third party rights, including but not limited to any infringement of third party intellectual property rights.
+
+compliance with law
+
+you undertake that your use and your users’ use of our services does not and will not violate any applicable laws and that you will not permit any such violations by others.
+
+we are not responsible for any use which you or your users make of our services, nor any charges that you or your users may incur with a third party. you will indemnify us against any liability for any action that you undertake that does or may breach any applicable laws and any costs (including our legal fees and a commercially reasonable additional charge for our time), claims, damages, expenses, losses and liabilities resulting from such breach.
+
+acceptable use policy (aup)
+
+we do not permit the use of our services for actions or activities which, at our sole discretion, may be illegal, offensive, abusive or contrary to accepted internet norms or threaten our infrastructure. we will take any actions necessary to enforce these prohibitions, including those listed under the suspension and termination section below. the uses which are not permitted include but are not limited to the following:
+
+we prohibit all uses of our services which appear to us at our sole discretion to be illegal under any applicable laws. this includes but is not limited to:
+
+
+storage or transfer of illegal material, including material which it is illegal to transmit over a public telecommunications network.
+involvement in fraudulent activities.
+misuse of our or other computer systems.
+
+
+we prohibit uses of our services which appear to us at our sole discretion to be offensive. this includes but is not limited to storing or transmitting any content or links to any content which we believe to be:
+
+
+pornographic.
+excessively violent, inciting violence or threatening violence.
+harassing or inciting hate of any person or group of persons.
+defamatory.
+violating the privacy of any person or group of persons.
+promoting or soliciting illegal activities under any applicable laws.
+exposing trade secrets, infringing copyright, trademarks or patents or assisting others in doing so.
+unfair or deceptive under consumer protection laws.
+creating a risk to safety, health or national security.
+
+
+we prohibit all uses of our services which appear to us at our sole discretion to be abusive or contrary to accepted internet norms. this includes but is not limited to:
+
+
+sending of unsolicited bulk/commercial email (spam).
+excessive posting on web forums, news groups, chat services or irc.
+publishing of websites or other material which are advertised by techniques (including but not limited to spam) which we would classify as abuse if they were carried out via us.
+distribution of viruses, adware or other malware.
+fraudulent collection of personal or financial data (phishing).
+unauthorized access to or misuse of data, computer systems or networks.
+unauthorized probing, scanning or testing the vulnerability of computer systems or networks.
+interference with service to other users of computer systems or networks, including denial of service attacks.
+unauthorized interception or monitoring of network traffic.
+transmitting fake or misleading network traffic, including forged ip packets or email headers.
+any conduct likely to result in retaliation against us, including engaging in behaviour that results in a denial of service attack.
+
+
+we prohibit all uses of our services which appear to us at our sole discretion to threaten our infrastructure. this includes but is not limited to:
+
+
+usage which imposes excessive load beyond that expected from a typical server. for example, continuous high cpu or i/o use.
+virtual server configurations with inadequate security, allowing unauthorized third party access.
+attempts to circumvent our mechanisms for controlling, monitoring or billing usage.
+
+
+you will ensure that all use of our services, whether by you or by any of your users, follows the terms of service. in addition, you will bind your users to an acceptable use policy containing all of the restrictions above.
+
+alteration of terms of service
+
+the current version of the terms of service will be the version available on our website at www.elastichosts.com. however, we reserve the right to alter the terms of service at any time. in the event that we alter the terms of service, you will have the rights set out under the suspension and termination section below.
+
+suspension and termination
+
+you may terminate your account with us in the following situations:
+
+
+in the event that we wish to alter the terms of service or increase our prices, we will notify you by email 30 calendar days before any alteration takes effect. upon receipt of such notice, you will have the option either to terminate your account and receive a refund for the unused portion of your payments or to continue subject to the altered terms of service or increased prices. if you do not notify of us of your wish to terminate your account within 30 calendar days of receipt of such notice, then you will be deemed to have accepted the altered terms of service or increased prices.
+at any time, provided that you give us at least five business days notice (business days in the terms of service shall mean a day other than a saturday or a sunday on which banks are open for business in london). we will not provide a refund for any unused payments unless you are a consumer as set out in the consumer protection (distance selling) regulations 2000 and you notify us in writing at our correspondence address that you wish to cancel your agreement within the statutory seven working day cancellation period.
+
+
+we may at our sole discretion, immediately and without notice, terminate or suspend for a period of time all or part of our services to you, including deleting your stored data, in the following situations:
+
+
+in the event that you or your users violate our acceptable use policy, any other provision of the terms of service or any applicable laws. in the event of termination or suspension in this situation, you will not be entitled to any refund. in addition, we will have the right to recover from you any costs resulting from the violation, including our time which we and you agree will be charged at a rate of £1,000 per day and which we and you agree is a genuine pre-estimate and commercially reasonable; any legal fees that we incur; and a commercially reasonable additional charge for the violation itself.
+in the event that your payments do not cover your use, including but not limited to when your subscriptions or prepaid balance run out.
+
+
+we may at our sole discretion, terminate or suspend for a period of time all or part of our services to you, including deleting your stored data, where we have provided you with at least 30 calendar days notice. in the event of such termination or suspension, we will refund the unused portion of your payment.
+
+notice
+
+you will ensure that your email address, postal address and other contact details specified in your online account settings are kept up to date at all times, particularly as we will send critical correspondence to you at your email address. where necessary you will act on any correspondence sent to you within three business days of when it is sent.
+
+in the absence of evidence of earlier receipt, a notice or other communication is deemed given: if sent by email at one hour after the email has been sent; if delivered by hand, at the time of delivery; if sent by post (other than air mail), at midday on the second business day after posting it.
+
+governing law and jurisdiction
+
+these terms of service and all other legal relationships between you and us will be governed by and construed in accordance with english law. the courts of england are to have exclusive jurisdiction to settle any dispute arising out of or in connection with these terms of service and any proceedings will be brought in the english courts. we and you irrevocably submit and agree to submit to the jurisdiction of the english courts. we and you irrevocably waive any objection which we or you may at any time have to the english courts being so nominated and agree not to claim that the english courts are not a convenient or appropriate forum.
+
+the illegality, invalidity or unenforceability of a provision of the terms of service under the law of any jurisdiction does not affect: the legality, validity or enforceability of any other provision of the terms of service in that jurisdiction; or the legality, validity or enforceability of that or any other provision of the terms of service under the law of any other jurisdiction.
+                    
+                
+            
+        
+
+
+
+                
+            
+        
+
+        
+            
+                
+                    
+                        features
+                        total control
+                        linux & windows
+                        global data centers
+                        storage options
+                        partner tools
+                    
+                
+                
+                    
+                        pricing
+                        pricing information
+                    
+                
+                
+                    
+                        support
+                        faq
+                        tutorials
+                        case studies
+                        api intro
+                    
+                
+                
+                    
+                        about
+                        awards
+                        contact us
+                        our partners
+                        careers
+                        blog 
+                        terms of service 
+                    
+                
+                
+                    
+                        additional services
+                        managed cloud servers
+                        reactive servers
+                        cloud storage
+                        reseller programs
+                    
+                
+            
+            
+                
+                    
+                         
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                        us
+                        |
+                        uk
+                        |
+                        canada
+                        |
+                        netherlands
+                        |
+                        hong kong
+                        |
+                        australia
+                    
+                    
+                        prices exclude sales tax
+                        sales@elastichosts.com
+                        1-415-358-5210
+                    
+                
+            
+        
+
+    
+
+    
+
+
+    $("#faqs dd").hide();
+    $("#faqs dt").click(function () {
+        $(this).next("#faqs dd").slidetoggle(500);
+        $(this).toggleclass("expanded");
+    });
+
+
+    
+    
+
+    
+    
+    /*  */
+    
+    
+      
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    

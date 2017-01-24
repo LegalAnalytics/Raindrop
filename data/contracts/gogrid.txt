@@ -1,0 +1,696 @@
+
+
+
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new date().gettime(),event:'gtm.js'});var f=d.getelementsbytagname(s)[0], j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbefore(j,f); })(window,document,'script','lsfdatalayer','gtm-kvbzd2');
+
+
+ 
+
+function showtext(id) {
+document.getelementbyid(id).style.display = 'block';
+}
+function hidetext(id) {
+document.getelementbyid(id).style.display = 'none';
+}
+$(document).ready(function(){
+	$("#changelanguage").click(function(){
+		$("#language_dropdown").show();
+		return false;
+	});
+	$("#language_dropdown").mouseleave(function(){$("#language_dropdown").hide();});
+});
+
+	
+		
+			
+				us: +1 877-773-3306&nbsp;&nbsp;|&nbsp;&nbsp;uk: +44 800-634-3414&nbsp;&nbsp;|&nbsp;&nbsp;hk: +852 3521 0215&nbsp;&nbsp;|&nbsp;&nbsp;sg: +65 6653 1960
+				united states change
+					united statesunited kingdomhong kong
+				
+				
+			
+		
+		
+			
+			
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+			
+				
+					about us
+					blog
+					partners
+					news &amp; press
+					request a quote
+					contact
+				
+			
+		
+
+
+
+
+  
+
+	cloud
+      
+          managed cloud for aws
+              
+                   access control model
+                  datapipe cloud analytics
+                  hybrid cloud connect®
+                  datapipe aws migration service
+                  
+              
+          
+          stratosphere®
+              
+                  stratosphere®hybrid solutions
+                  stratosphere® hostedprivate cloud
+                  
+              
+          
+          managed cloud for microsoft
+              
+                  managed cloud for microsoft azure
+                  managed private cloud for microsoft azure
+                  
+              
+          
+      
+    
+
+	it services
+      
+          managed hosting services
+              
+                  migration
+                  monitoring
+                  high performance network
+                  hardware management
+                  os management
+                  dedicated server hosting
+              
+          
+          professional services
+              
+                  cloud enablement services
+                  datapipe consulting services
+                   data & analytics services from datapipe 
+              
+          
+          managed applications
+              
+                  sharepoint
+                  exchange
+                  microsoft office 365
+              
+                 
+      
+    
+
+	government
+      
+          government solutions
+              
+                  about datapipe government solutions
+                  federal cloud community platform
+                  fisma compliant hosting
+              
+                     
+      
+    
+    
+	security &amp; compliance
+      
+          managed security
+              
+                  continuous audit
+                  data encryption
+                  ddos protection services
+                  event management
+                  firewall and vpn services
+                  intrusion detection services
+              
+              
+                  malware protection
+                  patch management
+                  two-factor authentication
+                  vulnerability assessment
+                  web application firewall
+              
+          
+          compliance solutions
+              
+                  hipaa compliance
+                  pci dss
+                  sox compliance
+                  
+              
+          
+      
+    
+
+	storage
+      
+          managed storage
+              
+                  cloud storage
+                  san storage
+                  nas storage
+                  backup and restoration
+              
+                     
+      
+    
+
+	database
+      
+          database management
+              
+                  database services
+                  certified database specialists
+                  database as a service
+              
+                     
+      
+    
+
+	solutions
+      
+          managed solutions
+              
+                  business continuity
+                  disaster recovery
+                  infrastructure as a service
+                  content delivery (cdn)
+              
+                     
+      
+    
+
+	data centers
+      
+          north america
+              
+                  chicago one
+                  dallas one
+                  kansas city one
+                  new jersey one
+                  new jersey two
+                  north virginia one
+                  north virginia two
+                  san francisco one
+                  seattle one
+                  silicon valley one
+                  sao paulo one
+              
+          
+          europe
+              
+                  amsterdam one
+                  frankfurt one
+                  london one
+                  london two
+              
+          
+          asia
+              
+                  hong kong one
+                  hong kong two
+                  shanghai one
+                  shanghai two
+                  singapore one
+                  singapore two
+              
+          
+          colocation
+              
+                  colocation services
+              
+              
+                  remote hands
+              
+                
+      
+    
+
+
+
+
+
+
+		
+
+
+
+
+
+#hiddenpanel {
+position:fixed;
+top:215px;
+right:-251px;
+width:250px;
+height:220px;
+background: #fff;
+border-top: 1px solid #d6d6d6;
+border-right: 1px solid #d6d6d6;
+border-bottom: 1px solid #d6d6d6;
+z-index: 1000;
+box-shadow: 1px 1px 8px #999;
+outline: 1px solid transparent;
+}
+#close-bar { position:absolute; left:-39px; background:#095ea0; color:white; width:39px; height:164px;   box-shadow: 1px 1px 1px #696969; z-index:500;outline: 1px solid transparent;}
+
+#close-bar:hover{cursor:pointer;}
+#close-x{position:absolute; top:-5px; right:5px; color:#777777;}
+#close-x:hover{cursor:pointer;}
+
+.fa-ul{margin-left:40px;}
+
+.fa-ul li {
+font-family: 'lato', sans-serif;
+}
+
+.social-fa1, .social-fa2, .social-fa3, .social-fa4, .social-fa5, .social-fa6{
+padding: 6px 4px;
+margin-right:6px;
+display: inline-block;
+background: #095ea0;
+-moz-border-radius: 100px;
+-webkit-border-radius: 100px;
+border-radius: 100px;
+}
+
+.social-fa1:hover{background:#007bb6;}
+.social-fa2:hover{background:#45b0e3;}
+.social-fa3:hover{background:#627aad;}
+.social-fa4:hover{background:#dd4b39;}
+.social-fa5:hover{background:#bb0000;}
+.social-fa6:hover{background:#ff6600;}
+
+.fa-ul li a{text-decoration:none; color: #000;}
+.fa-ul li a:hover{border-bottom: 1px #000 dotted; text-decoration: none;}
+
+#open-bar{position:absolute; top:15px;}
+
+
+
+  
+      
+
+            
+            us: +1 877-773-3306
+            uk: +44 800-634-3414
+            hk: +852-3521-1466
+            contact datapipe
+            request a quote
+            visit our blog
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+      
+
+
+	
+				
+			
+				
+
+
+
+
+
+gogrid
+
+legal
+
+acceptable use policy
+eu safe harbor policy
+intellectual property & copyright infringement claims
+privacy policy
+service level agreement
+coloserve-sla
+servepath-sla
+terms of service
+
+
+frequently asked questions (faq)
+
+&nbsp;
+
+
+
+
+
+				
+				
+
+				
+
+terms of service
+posted/revised:  november 22, 2013
+read this agreement carefully before using any gogrid service.  this is a legally binding agreement between gogrid and you, including any gogrid customer, user, or website visitor, (collectively referred to herein as "customer").
+<!--
+terms of service
+-->
+download the pdf
+these terms of service form part of an agreement (this/the "agreement") between gogrid, llc, a delaware limited liability company, ("gogrid") and each customer of gogrid&rsquo;s services. in addition to these terms of service, this agreement consists of the following, each of which is incorporated into this agreement by this reference: gogrid's service level agreement, posted at http://www.datapipe.com/gogrid/legal/sla/ (the "sla"); gogrid's acceptable use policy, posted at http://www.datapipe.com/gogrid/legal/acceptable_use_policy/ (the "aup"); and gogrid's privacy policy, posted at http://www.datapipe.com/gogrid/legal/privacy_policy/ (the "privacy policy").
+1.  services &amp; payment
+1.1 services. gogrid will provide the services listed in customer&rsquo;s account (the &ldquo;services&rdquo;) pursuant to its standard policies and procedures then in effect. &ldquo;account&rdquo; refers to the record of services, features, and payment plans selected by customer and agreed to by gogrid, as they may change from time to time, all as recorded by gogrid in its online customer portal.
+1.2 payment. customer will pay gogrid such fees as are required in customer&rsquo;s account. fee increases announced 30 or more days before the start of a new term (as defined in section 7.1 below) will go into effect at the start of such term. customer may use any credits gogrid issues to pay for services, except where this agreement provides to the contrary, but no credit will entitle customer to a refund. services fees, including overage fees where applicable, apply regardless of the cause of the services usage, even if caused by hacker activity or other third party actions. customer will pay for services pursuant to a pay-as-you-go plan or a prepaid plan, as listed in customer&rsquo;s account and described below; but additional offerings (as defined in section 1.3 below) and some other elements of the services may be billed separately from such plans, as set forth in customer&rsquo;s account.
+
+ pay-as-you-go plans. if customer&rsquo;s account lists a pay-as-you-go plan, customer will pay for such services as it uses, and gogrid may charge fees hourly or daily (or at such times as it chooses).
+ prepaid plans. if customer&rsquo;s account lists a prepaid plan, the provisions of this subsection 1.2(b) will apply.
+customer will pay monthly or on such other prepayment period as is listed in customer&rsquo;s account. payment is due before the start of each prepayment period, including renewed prepayment periods, provided gogrid may instead charge part or all of prepaid plan services fees in arrears.
+if customer&rsquo;s account provides for time or capacity limits, customer will pay overage fees in the event that it exceeds its limits, as calculated by gogrid pursuant to its standard policies, and gogrid may charge overage fees daily or at such times as it chooses.
+if customer&rsquo;s account calls for a fixed number of servers or for time or capacity limits, customer may increase (&ldquo;upgrade&rdquo;) such server-count or limits at any time, subject to availability, through gogrid&rsquo;s customer portal. additional charges will go into effect upon upgrade, and gogrid may charge a prorated increase in services fees for the prepayment period during which the upgrade occurs, on a daily basis or at such times as it chooses.
+additionally, if customer&rsquo;s account calls for a fixed number of servers or for time or capacity limits, customer may reduce (&ldquo;downgrade&rdquo;) such server-count or limits at any time through gogrid&rsquo;s customer portal, with new fees going into effect for the next prepayment period. gogrid is not required to provide a roll-over of services (memory, data, or servers) to a future month, a credit, or a refund in the event that customer downgrades or under-utilizes its services.
+each prepaid plan will renew automatically at the end of its prepayment period for another prepayment period of the same duration. customer may cancel its prepaid plan 30 or more days before the next term, effective upon the start of such term. a cancelled prepaid plan will automatically become a pay-as-you-go plan pursuant to subsection 1.2(a) above (unless this agreement terminates).
+
+
+1.3 additional offerings. "additional offerings" refers to: (a) consulting or other professional services provided by gogrid's staff, including by subcontractors providing services on gogrid&rsquo;s behalf; (b) software and other products and services customer acquires through gogrid exchange that are specifically designated "provided directly by gogrid"; and (c) any other services feature gogrid designates in writing an &ldquo;additional offering.&rdquo; the services will include any additional offerings listed in customer&rsquo;s account. in addition to the terms of this agreement, additional offerings are subject to any applicable statement of work or other agreement executed by customer and gogrid (&ldquo;additional offerings terms&rdquo;), each of which is incorporated into this agreement. additional offering terms may provide that they are not subject to amendment pursuant to section 8.2 below (amendment). additional offerings do not include third party offerings (as defined in section 4.2 below) or any services not providing services on gogrid&rsquo;s behalf and with gogrid&rsquo;s authorization.
+1.4 account changes. other than the changes to services features and payments plans specifically authorized above by this article 1, any change to services features requires a written order submitted by customer (an &ldquo;order&rdquo;) and accepted in writing by gogrid. without limiting the generality of the preceding sentence, server location, size (memory, ram, cpu), and operating system changes require an order accepted in writing by gogrid.
+2.  services performance &amp; maintenance
+2.1 sla. the sla applies to such services features as are described therein. credits and the other remedies provided pursuant to the sla are customer&rsquo;s sole remedies for the &ldquo;failures&rdquo; defined in the sla, unless the remedies in subsection 7.2 below (termination &amp; suspension for breach) are applicable. remedies listed in the sla do not apply to any services interruption authorized pursuant to section 2.2 below (maintenance) or pursuant to any other provision of this agreement, and gogrid will not be liable for any such interruption.
+2.2 maintenance. gogrid may interrupt the services and/or access customer&rsquo;s data to perform maintenance on gogrid equipment or to address or mitigate the effects of security breaches and other interference by third parties. data gogrid accesses pursuant to the preceding sentence may include data stored in systems assigned to customer (referred to as &ldquo;hosted data&rdquo; in the privacy policy) and may include private or otherwise sensitive data.
+2.3 system care by customer. customer will promptly report any services failure to gogrid via the online ticketing system in gogrid&rsquo;s online customer portal. customer is responsible for maintaining patches and disaster recovery systems, except to the extent gogrid specifically accepts such responsibilities by listing such services features in customer&rsquo;s account (subject to the limitations of liability in article 6 and elsewhere in this agreement).
+2.4 services remedies in general. in addition to any applicable sla credits, gogrid will make reasonable efforts to recover data lost as a result of hardware failures, upon customer's request, but gogrid does not guarantee data recovery. gogrid is not responsible for providing physical access to or copies of software, data, or content stored on gogrid&rsquo;s equipment under any circumstances and is not required to provide network access (a) after any termination or suspension of services or (b) in the event of hardware failure, abuse by hackers or other third parties, or other interruption of network access. gogrid is not required to reimburse any expenses customer incurs for technology diagnosis or repair, including without limitation expenses for outside consultants.
+3.  privacy &amp; security
+3.1 gogrid responsibilities. in its handling of customer data, gogrid will observe the applicable terms of the privacy policy. the privacy policy applies only to the services and does not apply to any third party site or service linked to the services or recommended or referenced through the services or by gogrid&rsquo;s staff, including without limitation third party offerings (as defined in section 4.2 below). in addition, gogrid will exercise its best efforts to provide any data security features of the services included in customer&rsquo;s account (subject to the limits and disclaimers of liability in article 6 below).
+3.2 customer responsibilities. customer is responsible for maintaining the security of its data, even if gogrid provides data security features of the services. regardless of any such features, and without limiting the generality of the foregoing, customer will: (a) employ reasonable security precautions in its use of the services, including without limitation protection of passwords and login information, as well as encryption of social security numbers, other personally identifiable information protected by law, and information of similar sensitivity; (b) obey all applicable laws governing handling of third party data hosted or handled through the services; and (c) immediately notify gogrid of any unauthorized use of customer&rsquo;s services and any other security breach. customer is responsible for determining the services&rsquo; suitability for use with data regulated by the gramm-leach-bliley act, the european union&rsquo;s data privacy requirements, and other privacy-related laws and regulations, and gogrid is not responsible or liable for any incorrect determination. gogrid will have no responsibility or liability for losses resulting from customer&rsquo;s failure to maintain data security, including without limitation customer&rsquo;s breach of the requirements of this section 3.2.
+3.3 hipaa protected health information. customer represents and warrants that, unless it and gogrid have executed a separate agreement authorizing customer to use the services to host &ldquo;protected health information&rdquo; (a &ldquo;business associate agreement&rdquo;), customer has not and will not upload or transmit to gogrid&rsquo;s computers any data regulated pursuant to the health insurance portability and accountability act of 1996 (hipaa), the health information technology for economic and clinical health act of 2009 (the hitech act), or any rule or regulation related to either of the foregoing (collectively, the &ldquo;hipaa laws &amp; rules&rdquo;). customer recognizes and agrees that, except as may be set forth in a business associate agreement, gogrid has no liability to customer for any failure to provide protections set forth in the hipaa laws &amp; rules.
+4.  ip &amp; third party offerings
+4.1 materials &amp; software.
+
+service bureau &ndash; no ip license. customer recognizes and agrees that: (i) gogrid operates as a service bureau pursuant to this agreement, not as a vendor or distributor of software or other materials; and that (ii) this agreement does not grant customer any intellectual property rights or licenses, including without limitation licenses to software incorporated into or accessed through the services, to logos or trademarks associated with the services, or to other written or graphical content provided by or through the services (collectively, &ldquo;materials &amp; software&rdquo;). (however, additional offerings terms, as defined in section 1.3 above, may provide for a license.) gogrid retains all its right, title, and interest in and to the services, including without limitation all materials &amp; software. upon termination of this agreement, customer will relinquish all internet protocol (ip) addresses provided through the services.
+open source &amp; other third party software. customer recognizes and agrees that the services may include access to software licensed to gogrid by third parties, and that some such third party software may have been provided under a copyleft or &ldquo;viral&rdquo; license intended to require use of open source licensing models by subsequent providers. without limiting the generality of the disclaimers set forth in section 6.1 below (warranty disclaimer), and without taking any position on the applicability of copyleft licenses to service providers, gogrid does not represent or warrant that software incorporated into the services will be free of copyleft or other restrictions on the use thereof, and gogrid makes no other warranties with regard to intellectual property rights in open source software or other software licensed to gogrid by third parties and accessible through the services.
+
+4.2 third party offerings. "third party offerings&rdquo; refers to any product or service provided to customer by a third party, including without limitation: (a) third party consulting services that assist customer in using gogrid&rsquo;s services or that otherwise relate to the services, including such consulting services provided by third parties gogrid referred to customer; and (b) any and all software and other products and services customer acquires through gogrid&rsquo;s online application and service store, known as &ldquo;gogrid exchange,&rdquo; unless gogrid exchange specifically designates such product or service &ldquo;provided directly by gogrid.&rdquo; third party offerings are not part of the services (and are not materials &amp; software, as defined in subsection 4.1(a) above, or additional offerings, as defined in section 1.3 above). customer acquires third party offerings from those offerings&rsquo; third party providers and not from gogrid, pursuant to such agreements as customer and the third party providers may execute.
+5.   customer responsibilities &amp; warranties
+5.1 acceptable use. in its use of the services, customer will comply with the aup and applicable law. neither this agreement nor the aup requires that gogrid take any action against customer or any of its other customers for violating the aup or applicable law, but gogrid is free to take such action as it sees fit.
+5.2 cooperation. customer will reasonably cooperate with gogrid to facilitate customer&rsquo;s receipt of the services. customer will also cooperate with any gogrid investigation of outages, third party interference, and security risks and incidents. customer will reimburse any reasonable legal fees or other costs gogrid incurs attempting to collect fees due.
+5.3 b2b not b2c. customer recognizes and agrees that the services are for business use and not for consumers, and customer represents and warrants that it will use the services for business purposes and not for personal, family, household, or any other consumer purpose.
+5.4 identification &amp; authority. customer represents and warrants that: (a) customer has accurately identified itself through its account and will maintain the accuracy of such identification; (b) customer is a corporation or other business entity authorized to do business pursuant to applicable law or an individual businessperson 18 years or older; and (c) customer has the full right and authority to enter into, execute, and perform this agreement, and that no pending or threatened claim or litigation known to customer would have a material adverse impact on its ability to perform as required by this agreement.
+5.5 indemnity. customer will defend, indemnify, and hold harmless gogrid (including its officers, directors, employees, agents, contractors, representatives, suppliers, subsidiaries, parents, affiliated companies, and insurers) from a third party claim, including without limitation a claim by any of customer's customers or users, arising out or related to customer's alleged or actual use of, misuse of, or failure to use the services, including without limitation: (a) alleged customer conduct that would breach this agreement, including infringement of intellectual property or privacy rights and other aup violations; and (b) alleged security breaches or other faults in the service, including failures (as defined in the sla) and faults leading to the release or exposure of personally identifiable information or other private data (whether such data belongs to customer, to one of customer's customers or users, or to other third parties). customer&rsquo;s obligations set forth in the preceding sentence include, without limitation, payment of losses, damages, judgments, settlements, attorneys&rsquo; fees, and other expenses and costs. gogrid will have the right to refuse any settlement that restricts its rights granted under this agreement or subjects it to any ongoing obligations. without limiting the generality of the foregoing, if gogrid is required respond to a third party subpoena or other compulsory legal process described above in this section 5.5, customer will reimburse gogrid&rsquo;s reasonable attorneys&rsquo; fees, as well as its employees&rsquo; and contractors&rsquo; time and materials spent responding, at gogrid&rsquo;s then-current hourly rates.
+5.6 nondisclosure. customer will not use gogrid&rsquo;s confidential information (as defined below) for any purpose other than to facilitate the services. except as specifically authorized in writing in advance by gogrid, customer will not disclose confidential information to any third party, except as set forth in the next sentence, and will take precautions to prevent unauthorized release consistent with the precautions it takes to prevent release of its own confidential information of similar nature, but not less than reasonable precautions. customer may disclose confidential information to its employees and contractors who need to know in order to facilitate the purpose behind disclosure, provided each such employee or contractor is subject to a nondisclosure agreement with customer protecting such information, with terms no less restrictive than those of this section 5.6. however, customer may disclose confidential information as required by applicable law or by proper legal or government authority, provided it gives gogrid prompt advanced written notice reasonably sufficient to obtain a protective order or otherwise to contest such required disclosure, and provided customer reasonably cooperates in any such effort. customer will promptly notify gogrid in writing of any misuse or misappropriation of confidential information that comes to its attention and will cooperate with gogrid in investigating any such misappropriation. upon termination of this agreement or upon gogrid&rsquo;s written request, customer will return all confidential information and certify, in writing, the destruction of any copies thereof.
+
+confidential information. "confidential information" refers to any information gogrid provides to customer in any form and orally designates &ldquo;confidential,&rdquo; provided gogrid confirms such oral designation in writing within 15 business days, or marks &ldquo;confidential.&rdquo; notwithstanding the foregoing, confidential information does not include information: (i) in customer&rsquo;s possession at the time of original disclosure by gogrid, without obligation of confidentiality; (ii) independently developed by customer without use of or reference to information provided by gogrid; or (iii) that becomes known publicly, before or after disclosure, other than as a result of customer&rsquo;s improper action or inaction.
+injunctive relief. customer agrees that breach of the provisions of this section 5.6 would cause gogrid irreparable injury for which monetary relief would not provide adequate compensation, and that in addition to any other remedies available, gogrid will be entitled to preliminary, temporary, and permanent injunctive relief against such breach or threatened breach, without the necessity of proving actual damages.
+
+6.  disclaimers &amp; limitations of liability
+6.1 warranty disclaimer. gogrid makes no warranties, either express or implied, including without limitation any implied warranties of merchantability, fitness for a particular purpose, or noninfringement of intellectual property rights. without limiting the generality of the foregoing:
+
+gogrid has no obligation to indemnify or defend customer against claims related to infringement of intellectual property;
+gogrid does not warrant that any software provided with or through the services will be free of copyleft or viral licenses or other legal restrictions that impose obligations on gogrid or customer, and gogrid will have no indemnity obligations regarding any of the foregoing; and
+gogrid does not warrant that the services will perform without error or immaterial interruption or that data hosted by or transmitted through the services will be secure.
+
+6.2 limitation of liability.
+
+gogrid will have no liability to customer for any consequential, indirect, special, incidental, or punitive damages. gogrid&rsquo;s liability arising out of or related to this agreement will not exceed the total amount of fees paid by customer during the 12 months preceding the injury giving rise to the claim.
+the credits listed in the sla and termination pursuant to section 7.2 below (termination &amp; suspension for breach), where applicable, are customer&rsquo;s sole and exclusive remedies for unavailability or malfunction of the services.
+the liabilities limited by this section 6.2, and by sections 3.3 and 6.3 and section b of the coloserve addendum below, apply: (i) to liability for negligence; (ii) regardless of the form of action, whether in contract, tort, strict product liability, or otherwise; (iii) even if gogrid is advised in advance of the possibility of the damages in question and even if such damages were foreseeable; and (iv) even if customer&rsquo;s remedies fail of their essential purpose. if applicable law limits the application of the provisions of this section 6.2, or of sections 3.3 or 6.3 or section b of the coloserve addendum, gogrid&rsquo;s liability will be limited to the maximum extent permissible.
+
+6.3 liability exclusions. except to the extent specifically provided in the sla, and except to the extent that applicable law specifically forbids such restriction of liability by contract, gogrid will have no liability whatsoever for any claims, losses, actions, damages, suits, or proceedings resulting from any of the following or from any gogrid efforts to address or mitigate any of the following:
+
+breaches of data security of any kind, including without limitation losses arising out of or related to eavesdropping, third party access to customer data or to assigned computers, third party access to or misuse of passwords provided to gogrid, interception of traffic sent or received using the services, and release or exposure of personally identifiable information or other private data belonging to customer's own customers or users or to other third parties;
+denial of service attacks, viruses, worms, and other intentional interference by third parties, including without limitation by other gogrid customers;
+loss of data or loss of access to data; or
+actions of third parties, including without limitation other gogrid customers, providers of third party offerings (as defined in section 4.2 above), and providers of other third party products and services, even if gogrid links to or recommends the third party, even if the third party offering is related to the services, and even if gogrid acts as the agent for a provider of third party offerings in delivering such offerings, in collecting payment, or in any other way.
+
+the provisions of this section 6.3 apply, without limitation, even if customer purchases service features addressing security, data integrity, data backup, attack protection, viruses, spam, monitoring, or system integrity.
+7.  term &amp; termination
+7.1 term. this agreement will continue until the end of the term set forth in customer&rsquo;s account, or until the end of the current calendar month if customer&rsquo;s account does not list a term (collectively, the &ldquo;term&rdquo;). at the end of each term, this agreement will renew for an additional term of the same duration, unless either party gives written notice of its intent not to renew 30 or more days before the end of the current term.
+7.2 termination &amp; suspension for breach. either party may terminate this agreement for the other&rsquo;s material breach, including without limitation customer&rsquo;s breach of the aup, by written notice, and such termination will be effective 30 days after notice, provided that if the breach is subject to cure and the other party cures it before the effective date of termination, this agreement will not terminate. in addition, gogrid may suspend the services by written notice upon customer&rsquo;s breach of the aup, upon credit card rejection or bounced check, or upon customer&rsquo;s material breach of this agreement. suspension pursuant to the preceding sentence will not relieve customer of any payment obligation unless gogrid&rsquo;s determination of breach was unreasonable.
+7.3 effects of termination. the following provisions will survive termination of this agreement: (a) any obligation of customer to pay for services rendered before termination; (b) articles and sections 2.4, 3.3, 4, 5.5, 6, and 8 of this agreement, as well as any provision that the coloserve addendum (below) states will survive; and (c) any other provision of this agreement that must survive to fulfill its essential purpose. gogrid will have no obligation to refund any paid or prepaid fees as a result of termination.
+8.  miscellaneous
+8.1 notices. gogrid may send notices pursuant to this agreement via its customer portal or to customer's contact points listed in customer's account. customer may send notices pursuant to this agreement via gogrid's customer portal.
+8.2 amendment. gogrid may amend this agreement, including any document incorporated by reference, from time to time by posting an amended version at its website and sending customer written notice thereof, including without limitation notice by e-mail. such amendment will be deemed accepted and become effective 30 days after such written notice unless customer first gives gogrid written notice that it objects to the amendment. in such case, this agreement will continue under its original provisions until, and the amendment will become effective upon the first to occur of: (a) the start of the next term beginning 45 or more days after written notice of the amendment (unless the term does not renew pursuant to section 7.1 above); or (b) the effective date of the next order submitted by customer after notice of the amendment and accepted by gogrid.
+customer's continued use of the service following the effective date of an amendment will confirm customer's consent thereto. this agreement may not be amended in any other way except through a written agreement executed by each party. notwithstanding the foregoing, a revision to the aup, privacy policy, or sla will be effective immediately, without right of rejection, if it does not materially reduce customer's rights or increase its responsibilities. (revision of uniform resource locators listed in this agreement will not constitute an amendment.)
+8.3 independent contractors. the parties are independent contractors and will so represent themselves in all regards. neither party is the agent of the other and neither may bind the other in any way.
+8.4 no waiver. neither party will be deemed to have waived any of its rights under this agreement by lapse of time or by any statement or representation other than by an authorized representative in an explicit written waiver. no waiver of a breach of this agreement will constitute a waiver of any prior or subsequent breach of this agreement.
+8.5 severability. to the extent permitted by applicable law, the parties hereby waive any provision of law that would render any clause of this agreement invalid or otherwise unenforceable in any respect. in the event that a provision of this agreement is held to be invalid or otherwise unenforceable, such provision will be interpreted to fulfill its intended purpose to the maximum extent permitted by applicable law, and the remaining provisions of this agreement will continue in full force and effect.
+8.6 force majeure. to the extent caused by act of god (including fire, flood, earthquake, storm, hurricane, or other natural disaster), war, invasion, act of foreign enemies, military hostilities (regardless of whether war is declared), revolution, terrorist activities, nationalization, blockade, embargo, labor dispute, interruption or failure of electricity, telephone, or internet service, or other event beyond a party's reasonable control, no delay, failure, or default will constitute a breach of this agreement.
+8.7 assignment &amp; successors. customer may not assign this agreement or any of its rights or obligations hereunder without gogrid's express written consent. except to the extent forbidden in the previous sentence, this agreement will be binding upon and inure to the benefit of the respective successors and assigns of the parties.
+8.8 choice of law &amp; jurisdiction. this agreement will be governed solely by the internal laws of the state of california, without reference to any principle of conflicts of law that would apply the laws of another jurisdiction to the parties' rights or duties. the parties consent to the personal and exclusive jurisdiction of the federal and state courts of san francisco, california.
+8.9 parental control notice. pursuant to 47 u.s.c. section 230(d), gogrid hereby notifies customer that parental control protections (such as computer hardware, software, or filtering services) are commercially available that may assist in limiting access to material that is harmful to minors. information regarding such protections may be found on the internet by searching "parental control protection" or similar terms.
+8.10 colocation/coloserve. in the event that customer's account calls for colocation (coloserve) services, the provisions of the coloserve addendum below will apply to such services. colocation (coloserve) services are part of the services.
+8.11 conflicts among attachments. these terms of service (including the coloserve addendum below) will govern in the event of any conflict with any other document incorporated into this agreement (including without limitation the aup, sla, and privacy policy, as well as any additional offerings terms, as defined in section 1.3 above).
+8.12 entire agreement. this agreement sets forth the entire agreement between the parties and supersedes all prior or contemporaneous writings, negotiations, and discussions with respect to the subject matter hereof. neither party has relied upon any such prior or contemporaneous communications.
+coloserve addendum
+the provisions of this coloserve addendum apply only to the colocation features of the services.
+
+ the space &amp; the facility. colocation features of the services include access to such cabinet, rack, or cage space as gogrid designates (the "space"), as well as to such cables, computers, or other equipment as gogrid designates, all at the gogrid colocation facility listed in customer's account (the "facility"). this agreement is a contract for services and not a lease of real property or a sale of goods. customer has no leasehold right or other real estate interest in the space or the facility, and other than the rights specifically granted by this coloserve addendum, customer has no right to any cable, coloserve computer, or other equipment, or to the space, the facility, or any cabinet, rack, cage, cross-connect, or other space therein. in the event that, contrary to the foregoing, customer is held to have a leasehold interest in any real property arising out of or related to this agreement, such interest will be subordinate to any lease between gogrid and its landlord and will terminate on or before termination of gogrid's lease with such landlord.
+ no warranty. the space and the facility are provided without any warranties of any kind. except to the extent the sla provides to the contrary, the space and the facility are provided "as is." gogrid will have no liability whatsoever for any claims, losses, actions, damages, suits, or proceedings resulting from loss of or injury to customer equipment, or any efforts to mitigate such loss or injury. the provisions of this section b: (1) apply, without limitation, even if customer purchases service features addressing security, data integrity, data backup, attack protection, viruses, spam, monitoring, or system integrity; and (2) are subject to the provisions of subsection 6.2(c) above.
+ equipment management. as used in this coloserve addendum, customer "equipment" includes any computers, software, or other property customer sends or delivers to the facility. customer will label all its equipment with its name, telephone number, and e-mail address, and gogrid will not be responsible or liable for the loss of any equipment not so labeled. customer will not: (1) send or deliver to the facility any equipment that exceeds gogrid's standard size limits; (2) send or deliver to the facility equipment that has not been certified by underwriters laboratories, inc.; or (3) configure or run any equipment in a way that does not comply with manufacturer specifications, including without limitation specifications for power outlet, power consumption, cooling, and clearance. in the event that customer sends or delivers equipment in violation of the provisions of this section c, in addition to such other remedies as gogrid may have: (a) customer will remove such equipment promptly after gogrid's request, pursuant to such procedures as gogrid designates, and gogrid may charge for storage in the interim; and (b) gogrid may ship such equipment to customer, or otherwise return to sender, at customer's expense. gogrid may also ship to customer or otherwise return to sender any equipment it considers unreasonably large for pre-installation storage or for installation, at customer's expense, in gogrid's sole discretion. gogrid will make reasonable efforts to notify customer of any customer violation of the provisions of this section c prior to any shipment of equipment. gogrid may, in its reasonable discretion, restrict the time for any installation, removal, maintenance, or modification of equipment, and customer will honor such restrictions. in addition, customer will honor all gogrid rules and regulations for use of the facility and the space. customer will not sublicense the space to any third party. customer will be responsible for obtaining and maintaining all permits and approvals necessary for its use of the space and of its equipment.
+ restrictions on facility &amp; space use. customer's use of the facility will be governed by such policies and procedures as gogrid provides related to use of the facility and the space. customer will not alter the space or any cabinet, rack, cage, equipment, or fixture in the facility, including without limitation gogrid cabling and power supply, without prior written permission from gogrid. customer will not install or use any power strip or other power supply equipment that is not provided by gogrid or approved in writing by gogrid. customer will not access or tamper with any equipment in the facility other than its own. customer will keep its space clean and clear of debris, including without limitation equipment packaging.
+ access to the facility. customer will provide gogrid with a list of all its personnel authorized to enter the facility ("representatives"), and gogrid will have no obligation to grant admittance to anyone not so designated. customer will provide such additional information regarding representatives as gogrid reasonably requests, including without limitation photo identification and criminal history. gogrid may refuse access to the facility to any representative who: (1) violates facility rules or otherwise behaves inappropriately; or (2) creates a hazard of any kind in gogrid's opinion, including without limitation as a result of criminal history or other background. customer recognizes and agrees that its representatives will be required to leave a valid photo identification at the facility's front desk while in the facility. customer represents and warrants that it and its representatives will conduct any operations in the facility in a safe and workmanlike manner, in accordance with industry standards for such activities. customer and its representatives will remain in the facility only so long as necessary to attend to customer's equipment and will park in the facility's building only while attending to business in the facility.
+ hazards. customer will inform gogrid immediately of any emergency or other situation threatening injury to persons or property, including data (collectively, any "hazard"). in the event of a hazard, customer will immediately cooperate with and assist gogrid as requested, including without limitation by modifying or suspending customer's own activities. without limiting the generality of the foregoing, in the event that gogrid suspects a pending or current hazard, gogrid may, without limitation, rearrange, cut off from electricity, or remove customer equipment. customer will monitor equipment for audible alarms, promptly address any and all such alarms, including upon notification from gogrid, and proactively maintain equipment so as to minimize audible alarms.
+ after termination. after termination of this agreement for any reason, customer will remove any and all equipment customer has placed in the space or elsewhere in the facility, promptly after gogrid so directs, and in any case within 3 business days of termination. in the event that gogrid does not provide access to the facility, customer will make itself available at the entrance to the facility or such other place as gogrid reasonably designates, at such time as gogrid requests, to receive such equipment. in the event that customer fails to remove or receive such equipment, gogrid may, as it sees fit, in its sole discretion and without limiting its other rights or remedies: (1) store the equipment; (2) dispose of the equipment, including without limitation by selling, donating, or destroying it; or (3) ship the equipment to customer. any such remedy will be at customer's expense.
+ storage charge. gogrid may charge for storage of any equipment stored at the facility, not to exceed $1,000 per day, as a result of customer's violation of this coloserve addendum or of any gogrid policy or procedure. customer recognizes that gogrid is not in the storage business and so may charge storage fees in excess of commercial rates as compensation for the burdens and inconveniences connected to storage of such equipment (and customer recognizes and agrees that such fees are not penalties). in addition, gogrid may require reimbursement for any costs arising out of or related to disposition of equipment as a result of customer's violation of this coloserve addendum or of any gogrid policy or procedure, including without limitation costs of shipment or liquidation. gogrid will have no liability for damage to or total loss of such equipment or any data stored thereon.
+ indemnity. customer will defend, indemnify, and hold harmless gogrid (including its officers, directors, employees, agents, contractors, representatives, suppliers, subsidiaries, parents, affiliated companies, and insurers) from any third party claim arising out of, related to, or alleging damage caused by: (1) gogrid's  storage, shipment, disposal, sale, donation, or destruction of customer's equipment or any data stored thereon or connected therewith; or (2) any other gogrid action taken in furtherance of its rights pursuant to this coloserve addendum. customer obligations set forth in the preceding sentence include, without limitation, payment of losses, damages, judgments, settlements, attorneys' fees, and other expenses and costs. gogrid will have the right to refuse any settlement that restricts its rights granted under this agreement or subjects it to any ongoing obligations. without limiting the generality of the foregoing, if gogrid is required respond to a third party subpoena or other compulsory legal process described above in this section j, customer will reimburse gogrid's reasonable attorneys' fees, as well as its employees' and contractors' time and materials spent responding, at gogrid's then-current hourly rates.
+survival. the following provisions of this coloserve addendum will survive any termination or expiration of this agreement: sections b, c, g, h, i, and j, as well as any provision that must survive to fulfill its essential purpose.
+				
+			
+				
+						
+			
+		
+
+		
+$(document).ready(function() {
+	$("#logo_images").caroufredsel({
+	circular: true,
+	infinite: true,
+	auto: true,
+        scroll : {	
+		easing	: "swing",
+		duration	: 1000,
+		pauseonhover	: false
+	},
+	prev	: {	
+		button: "#logo_images_prev",
+		key: "left"
+	},
+	next	: { 
+		button: "#logo_images_next",
+		key: "right"
+	}
+});	
+});
+
+
+ 
+						
+
+
+
+
+		datapipe in the news
+		latest articles and announcements
+
+		
+					
+						12.13.16
+						datapipe recognized as one of new jersey's 2016 50 fastest growing companies
+					
+
+					
+						12.08.16
+						datapipe receives confirmation of registration for eu-us privacy shield certification
+					
+
+
+
+
+
+		sign up for our newsletter
+		register to receive news and updates
+                
+
+
+
+
+
+
+
+		connect with us
+		follow us
+                
+		
+		
+		
+		
+		
+		
+		
+		
+                
+
+
+
+
+
+
+	site map | privacy policy | legal | support | contact us | datapipe one
+
+
+	© 1998 - 2016 datapipe, inc
+
+
+
+
+
+
+
+
+	
+    
+    	
+        
+      	
+        
+        
+        
+        
+      	
+        
+	
+        
+        
+        
+        
+        
+        
+        
+	
+        
+            
+	
+        
+	
+	
+        
+        
+	
+        
+        
+	
+        
+	
+	
+	prev
+	next
+
+
+			
+
+
+
+
+
+adroll_adv_id = "ybmmrt5oa5d53l452sjrej";
+adroll_pix_id = "k4suwtynvneohmzec7tkgw";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createelement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setattribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getelementsbytagname('head') || [null])[0] ||
+    document.getelementsbytagname('script')[0].parentnode).appendchild(scr);
+   if(oldonload){oldonload()}};
+}());
+
+
+
+var gajshost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3cscript src='" + gajshost + "google-analytics.com/ga.js' type='text/javascript'%3e%3c/script%3e"));
+
+
+try {
+var pagetracker = _gat._gettracker("ua-3858664-1"); pagetracker._trackpageview(); } catch(err) {}
+
+
+llactid=14910
+
+
+
+
+
+
+
+/*  */
+
+
+
+
+
+
+
+
+
+settimeout(function(){var a=document.createelement("script");
+var b=document.getelementsbytagname("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0023/3310.js?"+math.floor(new date().gettime()/3600000);
+a.async=true;a.type="text/javascript";b.parentnode.insertbefore(a,b)}, 1);
+
+
+
+
+piaid = '48762';
+picid = '1422';
+
+(function() {
+	function async_load(){
+		var s = document.createelement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+		var c = document.getelementsbytagname('script')[0]; c.parentnode.insertbefore(s, c);
+	}
+	if(window.attachevent) { window.attachevent('onload', async_load); }
+	else { window.addeventlistener('load', async_load, false); }
+})();
+
+
+
+ 
+  _bizo_data_partner_id = "7416";
+
+
+(function() {
+  var s = document.getelementsbytagname("script")[0];
+  var b = document.createelement("script");
+  b.type = "text/javascript";
+  b.async = true;
+  b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+  s.parentnode.insertbefore(b, s);
+})();
+
+
+  
+
+									
+		
+	
