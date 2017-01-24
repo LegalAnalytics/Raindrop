@@ -1,0 +1,256 @@
+chrometaautomatic time tracking			
+
+ 
+already a user? log in here 
+
+
+
+
+
+        
+      
+ 
+
+// include the uservoice javascript sdk (only needed once on a page)
+uservoice=window.uservoice||[];(function(){var uv=document.createelement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/bya113zzs1y6nqv0ew9esw.js';var s=document.getelementsbytagname('script')[0];s.parentnode.insertbefore(uv,s)})();
+
+//
+// uservoice javascript sdk developer documentation:
+// https://www.uservoice.com/o/javascript-sdk
+//
+
+// set colors
+uservoice.push(['set', {
+  accent_color: '#448dd6',
+  trigger_color: 'white',
+  trigger_background_color: '#448dd6'
+}]);
+
+// identify the user and pass traits
+// to enable, replace sample data with actual user traits and uncomment the line
+uservoice.push(['identify', {
+  //email:      'john.doe@example.com', // user’s email address
+  //name:       'john doe', // user’s real name
+  //created_at: 1364406966, // unix timestamp for the date the user signed up
+  //id:         123, // optional: unique id of the user (if set, this should not change)
+  //type:       'owner', // optional: segment your users by type
+  //account: {
+  //  id:           123, // optional: associate multiple users with a single account
+  //  name:         'acme, co.', // account name
+  //  created_at:   1364406966, // unix timestamp for the date the account was created
+  //  monthly_rate: 9.99, // decimal; monthly rate of the account
+  //  ltv:          1495.00, // decimal; lifetime value of the account
+  //  plan:         'enhanced' // plan name for the account
+  //}
+}]);
+
+// add default trigger to the bottom-right corner of the window:
+uservoice.push(['addtrigger', { mode: 'smartvote', trigger_position: 'bottom-left' }]);
+
+// or, use your own custom trigger:
+//uservoice.push(['addtrigger', '#id', { mode: 'smartvote' }]);
+
+// autoprompt for satisfaction and smartvote (only displayed under certain conditions)
+uservoice.push(['autoprompt', {}]);
+
+
+
+
+		
+tour
+demo
+pricing
+blog
+contact
+sign up
+	
+		
+		
+			navigationtour
+demo
+pricing
+blog
+contact
+sign up
+			
+				
+				
+				
+			
+		
+		
+	
+
+
+chrometa terms of service
+
+
+your use of this web site (and any related chrometa applications and software) (the &#8220;service&#8221;), which is owned by chrometa, llc (&#8220;chrometa&#8221;) (inclusive of any and all affiliated entities and any entities owned or controlled, in whole or in part, by chrometa), is subject to the below terms (the &#8220;terms&#8221;).
+by using the chrometa web site, you are indicating your agreement to be bound by all of the following terms and conditions of this website and any related website. if you do not agree with these terms, then do not click the continue button.
+you may not use the service and may not accept the terms if (i) you are not of legal age to form a binding contract with chrometa and do not have verifiable permission from a parent or legal guardian, or (ii) you are a person barred from receiving the service under the laws of the united states or other countries including the country in which you are resident or from which you use the service.
+you acknowledge and agree that chrometa may stop (permanently or temporarily) providing the service (or any features within the service) to you or to users generally at any time in chrometa&#8217;s sole discretion, without prior notice to you.
+you may be required to provide information about yourself (such as identification or contact details) as part of the registration process for the service, or as part of your continued use of the service. you agree that any registration information you give to chrometa will always be accurate, correct and up to date.
+you agree to use the service only for purposes that are permitted by (i) the terms and (ii) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from the united states or other relevant countries).
+you agree that you will not engage in any activity that interferes with or disrupts the service (or the servers and networks which are connected to the service).
+you acknowledge that chrometa is constantly innovating in order to provide the best possible experience for its users. you acknowledge and agree that the form and nature of the service which chrometa provides may change from time to time without prior notice to you.
+as part of chrometa&#8217;s continuing innovation, you acknowledge and agree that chrometa may stop (permanently or temporarily) providing the service (or any features within the service) to you or to users generally at chrometa&#8217;s sole discretion, without prior notice to you. you may stop using the service at any time. you do not need to specifically inform chrometa when you stop using the service.
+you acknowledge and agree that if chrometa disables access to your account, you may be prevented from accessing the service, your account details or any files or other content which is contained in your account.
+you acknowledge and agree that while chrometa may not currently have set a fixed upper limit on the number of transmissions you may send or receive through the service or on the amount of storage space used for the provision of the service, such fixed upper limits may be set by chrometa at any time, at chrometa&#8217;s discretion and chrometa may apply limits to you that are different than other users and chrometa reserves the right to terminate the service at any time in its sole discretion for exceeding the limits that apply to you.
+unless you have been specifically permitted to do so in a separate agreement with chrometa, you agree that you will not reproduce, duplicate, copy, sell, trade or resell the service for any purpose. furthermore, you may not copy, download, distribute, or make any other unauthorized use of the service including its source code.
+you agree that you are solely responsible for (and that chrometa has no responsibility to you or to any third party for) any breach of your obligations under the terms and for the consequences (including any loss or damage which chrometa may suffer) of any such breach.
+you acknowledge and agree that chrometa (or chrometa&#8217;s licensees, designees, or assignees) own all legal right, title and interest in and to the service, including without limitation any intellectual property rights that subsist in the service (whether those rights happen to be registered or not, and wherever in the world those rights may exist). you further acknowledge that the service may contain information which is designated confidential by chrometa and that you shall not disclose such information without chrometa&#8217;s prior written consent.
+unless you have agreed otherwise in writing with chrometa, nothing in the terms gives you a right to use any of chrometa&#8217;s trade names, trademarks, service marks, logos, domain names, and other distinctive brand features. nothing contained herein shall be construed as granting you a license under any copyright, trademark, patent or other intellectual property right of chrometa or any third party, except for the right of use license expressly set forth herein.
+you expressly understand and agree that your use of the service is at your sole risk and that the service is provided &#8220;as is&#8221; and &#8220;as available.&#8221;
+you may not download or obtain any material on or through the service. any material downloaded or otherwise obtained through the use of the service is done at your own discretion and risk and that you will be solely responsible and liable, and shall defend and indemnify chrometa with respect thereto, for any damage to your computer, a third party computer or other device or loss of data that results from the download or prohibited use of any such material.
+no advice or information, whether oral or written, obtained by you from chrometa or through or from the service shall create any warranty not expressly stated in the terms.
+chrometa further expressly disclaims all warranties and conditions of any kind, whether express or implied, including, but not limited to the implied warranties and conditions of merchantability, fitness for a particular purpose and non-infringement.
+you expressly understand and agree that chroemta, its subsidiaries and affiliates shall not be, without limitation, liable to you for: (i) any direct, indirect, incidental, special consequential or exemplary damages which may be incurred by you, however caused and under any theory of liability. this shall include, but not be limited to, any loss of profit (whether incurred directly or indirectly), any loss of goodwill or business reputation, any loss of data suffered, cost of procurement of substitute goods or service, or other intangible loss; (ii) any loss or damage which may be incurred by you, including but not limited to loss or damage as a result of: (i) any changes which chromta may make to the service, or for any permanent or temporary cessation in the provision of the service (or any features within the service); (iii) the deletion of, corruption of, or failure to store, any content and other communications data maintained or transmitted by or through your use of the service; (iv) your failure to provide chrometa with accurate information; (v) your failure to keep your password or account details secure and confidential;
+the terms constitute the whole legal agreement between you and chrometa and govern your use of the service and completely replace any prior agreements between you and chrometa in relation to the service.
+you agree that if chrometa does not exercise or enforce any legal right or remedy which is contained in the terms (or which chrometa has the benefit of under any applicable law), this will not be taken to be a formal waiver of chrometa&#8217;s rights and that those rights or remedies will still be available to chrometa.
+if any court of law, having the jurisdiction to decide on this matter, rules that any provision of these terms is invalid, then that provision will be removed from the terms without affecting the rest of the terms. the remaining provisions of the terms will continue to be valid and enforceable.
+the terms, and your relationship with chrometa under the terms, shall be governed by the laws of the state of california without regard to its conflict of laws provisions. you and chrometa agree to submit to the exclusive jurisdiction of the courts located within the county of sacramento, california to resolve any legal matter arising from the terms or between you and chrometa. notwithstanding this, you agree that chrometa shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction. at not time shall you ever be entitled to seek or obtain equitable or injunctive relief.
+you agree to indemnify, defend and hold chrometa and its officers, directors, owners, and agents harmless from and against any and all claims, liability, losses, costs and expenses (including attorneys&#8217; fees) incurred by any of them in connection with any use or alleged use of the service by any person.
+
+
+	
+	
+		
+	
+			
+				menu
+home
+time tracking tour
+mobile
+attorneys
+teams
+pricing
+register
+login
+demo
+
+			
+	
+			
+				about us
+			
+
+<!-- chrometa captures every minute of your time as you work on your pc and/or mac.
+
+it acts as your personal timekeeper by recording how long you are working in an application, specifically noting what file or email you are working on, creating a time entry for you. -->
+		
+			
+	
+			
+				info
+press
+affiliates &#038; resellers
+blog
+contact
+terms of service
+privacy policy
+
+			
+	
+			
+							
+    
+    
+    
+    
+
+		
+			
+					
+		
+		
+	
+     
+    			&copy; 2016 chrometa. all rights reserved sitemap
+		
+
+
+
+
+
+/*  */
+
+
+
+
+
+
+
+ 
+
+(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createelement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_us/fbds.js';
+    var s = document.getelementsbytagname('script')[0];
+    s.parentnode.insertbefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addpixelid', '535583219886377']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'pixelinitialized', {}]);
+
+
+
+var __lc = {};
+__lc.license = 3925491;
+__lc.group = 4;
+
+(function() {
+	var lc = document.createelement('script'); lc.type = 'text/javascript'; lc.async = true;
+	lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+	var s = document.getelementsbytagname('script')[0]; s.parentnode.insertbefore(lc, s);
+})();
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			
+			function clicky_gc(name) {
+				var ca = document.cookie.split(';');
+				for (var i in ca) {
+					if (ca[i].indexof(name + '=') != -1) {
+						return decodeuricomponent(ca[i].split('=')[1]);
+					}
+				}
+				return '';
+			}
+			var username_check = clicky_gc('comment_author_c67fc008cfe28b17e8c4fc90920b12eb');
+			if (username_check) var clicky_custom_session = {username: username_check};
+		
+		
+				var clicky = { log : function () { return true;	}, goal: function () { return true;	} };
+		var clicky_site_id = 179191;
+		(function () {
+			var s = document.createelement('script');s.type = 'text/javascript';s.async = true;s.src = '//static.getclicky.com/js';
+			( document.getelementsbytagname('head')[0] || document.getelementsbytagname('body')[0] ).appendchild(s);
+		})();
+	
+	
+	
+	
+	
+    
+    leaddyno.key = "fc670b80585f3b0c4df136209647348ea38ae67a";
+        leaddyno.recordvisit();
+         leaddyno.autowatch();
+    
+	
+
+

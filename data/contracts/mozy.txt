@@ -1,0 +1,338 @@
+
+        
+      
+        
+  var utag_data = {
+    affiliate_pages : "", // evar12
+  
+    billing_period : "", // evar5
+    customer_city : "", // ecommerce
+  
+    customer_country : "", // ecommerce
+    customer_id : "", // ecommerce,evar19
+  
+    customer_state : "", // ecommerce
+    customer_zip : "", // ecommerce
+  
+    download_file_name : "", // prop3,evar2
+    download_page_name : "", // prop4
+  
+    internal_search_term : "", // prop7
+    landing_pages : "", // evar13
+  
+    login_account_type : "", // prop18,evar21
+    order_country : "", // prop20,ecommerce
+  
+    order_currency : "", // ecommerce
+    order_id : "", // ecommerce
+  
+    order_promo_code : "", // ecommerce,evar6
+    order_shipping : "", // 
+  
+    order_sub_total : "", // ecommerce
+    order_tax : "", // ecommerce
+  
+    order_total : "", // ecommerce
+    order_type : "", // ecommerce
+  
+    page_channel : "", // channel
+    page_name : "", // pagename
+  
+    page_sub_section_lvl2 : "", // prop1
+    page_sub_section_lvl3 : "", // prop2
+  
+    page_type : "", // pagetype,set to errorpage on error pages
+    product_brands : "", // ecommerce
+  
+    product_categories : "", // ecommerce
+    product_discounts : "", // ecommerce
+  
+    product_ids : "", // ecommerce
+    product_names : "", // ecommerce
+  
+    product_prices : "", // ecommerce
+    product_qtys : "", // ecommerce
+  
+    product_skus : "", // ecommerce
+    registration_source : "", // evar7
+  
+    searchcenter : "", // evar50
+    self_service_type : "", // prop17
+  
+    site_id : "", // evar20
+    site_server : "", // server
+  
+    support_tools : "", // prop5
+    video_filename : "" // prop19,evar3
+  
+  }
+
+
+
+
+  mboxcreate('mozy_global');
+
+
+
+  
+    to provide the best user experience on this site, mozy uses cookies. by using our website you are consenting to our use of cookies. 
+      find out more
+    
+     x
+  
+
+
+  
+  toggle
+  
+    
+
+
+
+
+
+
+
+  
+    sign in
+    support
+    
+          partner portals
+          
+            reseller sign in
+            service provider sign in
+         
+    
+    
+      country / language
+      
+        united states
+        france
+        deutschland
+        ireland
+        united kingdom
+        
+          additional languages
+          
+            español
+            italiano
+            nederlandse
+			      português
+			      日本語
+          
+        
+      
+    
+    search
+    
+      
+        
+        
+        
+      
+    
+  
+
+
+    productsoverviewproductsmozypro – for businessmozyenterprise – for enterprise itmozyhome – for personal usesolutionsdesktop and laptop backupremote and branch office backupserver backupfile syncmobilesaas data protectionfeaturesautomatic cloud backupdata restores and file accessadministrative toolsmilitary-grade securityworld-class data managementmozy data shuttleworld class support2xprotect local backupbuilt to lastadditional servicesprofessional servicesmanaged servicesproduct downloadsbackup softwarefile sync softwaremobile appstestimonialsresourcespartneroverviewresellercontactapply nowservice providercontactapply nowaboutoverviewabout usaboutnewsin the newspress releasesawards and reviewsspecial reportsmozy bloglegaltermsprivacy policycopyrighttrademarkspayments and refundscareerscontactsign up
+  
+
+      
+      
+        
+
+
+
+
+
+
+  
+    
+      terms
+      
+        legal
+        
+      
+    
+    
+      
+        mozy terms of service.
+        the fine print made clear.
+      
+    
+  
+
+
+
+  
+    
+        about &gt; 
+        legal &gt; 
+        terms   
+    
+  
+
+
+
+
+  
+    
+
+      
+
+      
+      
+
+
+
+      
+          
+            mozy terms of service
+these terms of service ("terms") are a legal agreement between you, either an individual or a single legal entity ("you" or "you"), and the entity identified in section 1 that operates that mozy online services for your country of residence (“mozy”). these terms govern your use of any mozy online services ("services"), the mozy website (“site”), the client software distributed with this agreement and any other software provided by mozy, including any updates and any accompanying documentation ("software"). collectively, the software, the site and the services may be referred to as the “products.” by clicking the “i agree” or similar button, or using any products, you agree to these terms and the mozy privacy policy mentioned in section 4 below. if you do not agree to these terms or the privacy policy, then do not click the button indicating your acceptance and do not use the products. if you agree to these terms on behalf of a legal entity, you represent that you have the authority to bind that legal entity to these terms.
+1.	contracting entity
+if you are a resident of the united states of america, you are contracting with mozy, inc., 505 1st ave s, suite 600, seattle, wa 98104, usa. for residents of all other countries, you are contracting with mozy international limited, ida industrial estate, ovens, co. cork, ireland.
+2.	accounts and fees
+you must register with mozy to use the services, and you agree to keep your registration information accurate, complete and up to date as long as you continue to use the services. mozy currently offers a free personal account with limited storage capacity (“free account”) and various fee-bearing accounts offering larger storage capacities and other feature enhancements (“paid accounts”). if you sign up for a paid account, you agree to pay the fixed subscription and variable usage-based fees, if any, for the account type you have selected and agree to any applicable restrictions, including quotas on the amount of storage you are allowed to use. if you exceed any quota allocated to your account, you agree that mozy may restrict your ability to backup further data until you reduce your storage usage or sign up to another type of account with a higher quota or no quota at all. if you use a credit card for payment, you authorize mozy to automatically renew your subscription and charge the then-current renewal fees to the credit card associated with your account unless you notify mozy before expiration of your current subscription that you do not want to renew.
+3.	passwords and security
+you are responsible for keeping your passwords secure, and you agree not to disclose your passwords to any third party. you are solely responsible for any activity that occurs under your user names and accounts, including any sub-accounts. if you lose your passwords or the encryption keys for your accounts, you may not be able to access your backup data. you must notify mozy immediately of any unauthorized use of your accounts or any other security breach related to the service. if mozy determines that a security breach has occurred or is likely to occur, mozy may suspend your accounts and require you to change your user names and passwords.
+4.	privacy
+you agree that mozy’s collection, use and disclosure of your personal information, backup data or any other data will be governed by mozy’s privacy policy and the laws generally applicable to mozy as a provider of the services, including breach notification laws. unless specifically agreed otherwise in writing by mozy, you agree to be solely responsible for compliance with laws applicable to any such information or data and your use of the services, including any laws that apply to your business or industry.
+5.	use of services and software
+subject to these terms, mozy grants you a limited, non-exclusive, non-transferable and revocable licence to access the site and use the services and software. you may install and use the software in executable form only on the number and type of devices that are specified in the then-current documentation for your account type as described on the site or as specified in other transaction documentation provided by mozy or an authorized reseller. you acknowledge that certain third-party code may be provided with the software and that the licence terms accompanying that code will govern its use.
+you acknowledge that mozy or third parties own all right, title and interest in and to the products, including all intellectual property rights. except for the licence granted in these terms, mozy and its licensers retain all rights in the products, and no implied licences are granted to you.
+you specifically agree that you will not, nor will you permit another person to:
+sublicense, lease, rent, loan, transfer, or distribute any portion of the products;
+
+modify, adapt, translate, or create derivative works from the products;
+
+decompile, reverse engineer, disassemble, or otherwise attempt to derive source code  from the products; or
+
+remove, obscure, or alter any trademark, copyright, or other proprietary rights notices displayed in the software or on the site.
+
+
+any software you have installed may periodically check with mozy for updates, and you agree that mozy may automatically download and install such updates on your devices. 
+6. beta services and software
+ mozy may identify certain features and functions of the services and associated software that mozy makes available on an early evaluation or beta basis. if you choose to use any such beta services and software, you may do so only for evaluation purposes during the period specified by mozy. you specifically agree that any such beta services and software are provided “as-is” and without support. mozy disclaims all express and implied warranties in connection with beta services and software, including those of merchantability, fitness for a particular purpose and non-infringement. further, you agree that mozy does not make any commitment to make any beta services and software generally available.
+7.	shared content and data shuttle services
+the products may enable you to share or synchronize your files between your own devices or with devices owned or controlled by third parties. if you choose to use any such features, you agree that your use of these features, including any content submitted by you, shall be at your sole risk and responsibility. you also agree that you have obtained all necessary rights and licensees to any such content. you hereby grant mozy a worldwide, royalty-free, nonexclusive licence to use any such content as part of the services, and in relation to the products, without any compensation to you or others. mozy reserves the right to refuse to post or remove any such content at any time at its sole discretion without notice or liability.
+if you have a large amount of data to backup when you first sign-up for the services, you may choose to seed your initial backup using the mozy data shuttle service. if you use this service, you agree that you bear all risk of loss and damage to your backup data while it is in transit, and you may not be able to access and retrieve your backup data until you have performed a successful online backup after completion of the data shuttle transfer.
+8. compliance with laws and acceptable use
+you are solely responsible for your conduct related to the service and any data you store or share on the service. you specifically agree that you will not use the products to:violate any laws or regulations;
+
+infringe the intellectual property or other rights of third parties;
+
+transmit any material that is obscene or objectionable or that contains viruses or other harmful computer code or files such as trojan horses, worms or time bombs.
+
+
+9. intellectual property protection
+mozy respects the intellectual property of others and requires that users of the service do the same. when you use the products, you may not upload, store, share, display, post, email, transmit or otherwise make available any material that infringes any copyright, patent, trademark, trade secret or other proprietary rights of any person or entity. if you commit repeated violations, mozy may terminate your accounts.
+10. user indemnity
+you agree to defend, indemnify, and hold mozy, its suppliers, resellers, partners, and their respective affiliates harmless from and against any claims, liabilities, damages, losses and expenses, including reasonable attorney fees and costs, in connection with:
+your use of the products;
+
+your violation of these terms;
+your violation of any third party right, including any intellectual property right; or
+any claim that use of your data caused damage to a third party.
+
+
+this indemnity obligation will survive the termination or expiration of your account and these terms.
+
+
+
+if(typeof(utag_data) != "undefined"){
+	jquery.extend(utag_data,{
+			"page_type":"product",
+			"event_type":"",
+			"site_region":"us",
+			"site_currency":"usd",
+			"page_level1":"about",
+			"page_level2":"legal",
+			"page_level3":"terms"
+		}
+	);
+}
+
+          
+          
+            11. changes to the service and terms
+mozy reserves the right at any time to modify, suspend, or discontinue providing the service, in whole or in part. in the event mozy anticipates that any such action will significantly affect your use of the service in a negative way, mozy will endeavor to provide you with advance notice by email, an in-client message or by posting relevant information on the site.
+mozy reserves the right to modify these terms at any time, and each such modification will be effective upon posting on the site. all material modifications will apply prospectively only. your continued use of any products following any such modification constitutes your agreement to be bound by the modified terms. to stay informed of any changes, please review the most current version of these terms posted on the site. if you do not agree to be bound by these terms, you must stop using the products immediately.
+12. term and termination
+these terms, and any posted revisions, remain in effect as long as you continue to maintain an account or use the services. you may terminate your account at any time, for any reason, by following the instructions on the site and discontinuing use of the products.
+if you have a free account, mozy may terminate your account and these terms immediately and without notice if your computer fails to access the services to perform a backup for more than thirty (30) days or you fail to comply with these terms. if you have a paid account, mozy may terminate your account and these terms immediately and without notice if you fail to renew your subscription, fail to pay any fees or invoices when due or otherwise fail to comply with these terms.
+on termination or expiration of your account or these terms, you will no longer have the right to continue to use the software and the services, and you will no longer be able to access and restore your backup data. also, you specifically agree that mozy has no obligation to provide you or anyone else with a copy of your backup data and may automatically purge your backup data from mozy systems.
+13. export
+you acknowledge that use of the products may be subject to the export and import laws of the united states and other countries. you agree to comply with all export and import laws and regulations. in particular, you acknowledge that the products may not be exported or re-exported to any u.s. embargoed countries or to anyone on the u.s. treasury department's list of specially designated nationals or the u.s. department of commerce denied persons list or entity list. by using the products, you represent and warrant that you are not located in any such country or on any such list. you also agree that you will not use the products for any purposes prohibited by u.s. law, including the development, design, manufacture or production of missiles, nuclear, chemical or biological weapons.
+14. entire agreement
+these terms constitute the entire agreement between you and mozy and completely replace any prior agreements between you and mozy in relation to the products. if any part of these terms is held invalid or unenforceable, that portion will be construed in a manner consistent with applicable law to reflect, as nearly as possible, the original intentions of the parties, and the remaining portions will remain in full force and effect. the failure of mozy to exercise or enforce any right or provision of these terms will not constitute a waiver of such right or provision. you agree that, except as otherwise expressly provided in these terms, there will be no third-party beneficiaries to this agreement. you agree that any claim or cause of action related to these terms or the use of the products must be filed within one (1) year after the cause of action arose or be forever barred.
+15. country terms
+in addition to the foregoing, your relationship with mozy will be governed by the following country-specific terms, which will vary depending on your location or country of residence.
+country-specific terms (usa)
+a. disclaimer of warranties and hipaa statement
+because some jurisdictions do not allow the exclusion of certain warranties, some of the exclusions set forth below may not apply to you.
+you specifically agree that your use of the products is at your sole risk, and the products are provided on an "as is" and "as available" basis. mozy, its suppliers, resellers, partners and their respective affiliates expressly disclaim all warranties of any kind, whether express or implied, including the implied warranties of merchantability, fitness for a particular purpose and non-infringement. in particular, mozy, its suppliers, resellers, partners and their respective affiliates make no warranty that (a) the products will meet your requirements; (b) your use of the products will be timely, uninterrupted, secure or error-free; (c) any information obtained by you as a result of the products will be accurate or reliable; and (d) any defects or errors in the products will be corrected.
+any material downloaded or otherwise obtained through the use of the products is accessed at your own discretion and risk, and you will be solely responsible for any damage to your device or loss of data that results from the download of any such material. you further acknowledge that the products are not intended or suitable for use in applications that could lead to death, personal injury or severe physical or environmental damage.&#160;
+unless otherwise agreed in writing by mozy or an authorized reseller, mozy does not intend that your use of the services will create any obligations to comply with the health insurance portability and accountability act of 1996 and any related regulations (“hipaa”), and mozy makes no representations that the services satisfy hipaa requirements. if you are a “covered entity” or “business associate,” you agree not to use the services in connection with any “protected health information” (as those terms are defined in hipaa) unless agreed in writing by mozy or an authorized reseller. &#160; 
+b. limitation of liability
+because some jurisdictions do not allow the exclusion or limitation of liability for incidental or consequential damages, some of the exclusions or limitations set forth below may not apply to you.
+you specifically agree that mozy, its suppliers, resellers, partners and their respective affiliates will not be liable to you for any indirect, incidental, special, consequential or exemplary damages , including damages for loss of profits, goodwill, use, data, cost of procurement of substitute goods or services, or other intangible losses (even if the party you are seeking damages against has been advised of the possibility of such damages), resulting from the use or inability to use the products or in any way relating to the products.
+if you have a paid account, you agree that the aggregate liability of mozy, its suppliers, resellers, partners and their respective affiliates for any and all claims in connection with the products is limited to the amount paid for that account during the two (2) year period before the relevant claim or two-hundred us dollars ($200), whichever is lower. if you have a free account, you agree that the aggregate liability of mozy, its suppliers, resellers, partners and their respective affiliates for any and all claims in connection with the products is limited to twenty us dollars ($20). you specifically agree that this damages limitation is a fundamental element of the basis of the bargain between you and mozy.
+c. general
+these terms and the relationship between you and mozy will be governed by the laws of the state of washington, excluding its conflicts of law provisions. you agree to submit to the personal and exclusive jurisdiction of the courts located in seattle, washington to resolve any dispute or claim arising from these terms. as to intellectual property rights, you specifically agree that mozy may file an action in any jurisdiction to protect or enforce its rights. the united nations convention on contracts for the international sale of goods will not apply to these terms. you may not assign or transfer any of your rights or obligations under these terms to a third party without the prior written consent of mozy. mozy may freely assign this agreement.
+d. contacting mozy
+users with questions about these terms may contact mozy via email at: terms@mozy.com
+
+last revised: june 11, 2014
+
+              
+          
+      
+    
+  
+    
+
+      
+      
+        
+  
+    facebook
+    twitter
+    google+
+    linkedin
+  
+
+
+
+  
+    sign inmozypro - for businessadministratorsmozyenterprise - for enterprise itadministratorsmozyhome - for personalmy filesmy accountpartner portalsreseller partnersservice provider partnerssupport portalcommunity my supportproductsproductsmozypro – for businessmozyenterprise – for enterprise itmozyhome – for personal usesolutionsdesktop and laptop backupremote and branch office backupserver backupfile syncmobilesaas data protectionfeaturesautomatic cloud backupdata restores and file accessadministrative toolsmilitary-grade securityworld-class data managementmozy data shuttleworld class support2xprotect local backupbuilt to lastadditional servicesprofessional servicesmanaged servicesproduct downloadsbackup softwarefile sync softwaremobile appstestimonialsresourcespartnerresellercontactapply nowservice providercontactapply nowaboutabout usaboutnewsin the newspress releasesawards and reviewsspecial reportsmozy bloglegaltermsprivacy policycopyrighttrademarkspayments and refundscookiescareerscontactsign upmozypro - for businessmozyenterprise - for enterprise itmozyhome - for personalmozypro - 30-day free trialmozyhome - free account
+    
+      
+      copyright © 2017 mozy inc. all rights reserved.
+    
+  
+  
+  var tealium_mozy_environment = 'prod';
+  // note, environment also depends on the url used below to retrieve utag.js.
+  // i.e. .../enautics/mozy/dev/utag.js
+  // or   .../enautics/mozy/qa/utag.js
+  // or   .../enautics/mozy/prod/utag.js
+
+
+
+  (function(a,b,c,d){
+  a='//tags.tiqcdn.com/utag/enautics/mozy/prod/utag.js';
+
+  b=document;c='script';d=b.createelement(c);d.src=a;d.type='text/java'+c;d.async=true;
+  a=b.getelementsbytagname(c)[0];a.parentnode.insertbefore(d,a);
+  })();
+
+
+
+      
+    
+    
+
+
+
+
+  

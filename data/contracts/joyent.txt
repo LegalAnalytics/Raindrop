@@ -1,0 +1,375 @@
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new date().gettime(),event:'gtm.js'});var f=d.getelementsbytagname(s)[0],
+j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbefore(j,f);
+})(window,document,'script','datalayer','gtm-mzlkcl');
+
+    
+    
+        
+            
+                    
+                
+                    home
+                    triton
+                        
+                            overview
+                            containerpilot
+                            datacenter
+                            smartos
+                            pricing &amp; support
+                        
+                    
+                    node.js
+                    manta
+                    about
+                        
+                            overview
+                                                        management team
+                                                        press room
+                                                        events
+                                                        careers
+                                                    
+                    
+                    blog
+                
+                
+                
+                    sign in
+                    free trial
+                
+            
+        
+    
+    
+    
+        
+    
+        
+    
+        
+            
+                
+                
+                        
+                
+                    
+                
+                    products
+                        
+                            
+                                node.jsproductionsupport
+                                tritoncontainersas a service
+                                mantaobjectstorage
+                            
+                        
+                    
+                    about
+                    blog
+                
+                
+                    
+                    sign in
+                    free trial
+                
+            
+        
+    
+                    
+        
+            
+                
+                    
+                        overview
+                                                                        management team
+                                                press room
+                                                events
+                                                careers
+                                            
+                
+            
+        
+        
+            
+    
+
+    
+        
+            
+                terms of service
+                date last revised: april 14, 2016
+summary of changes
+welcome to joyent! by accessing and using the joyent cloud services (“cloud services”), you agree to the terms and conditions provided in this terms of service including all applicable addendums for specific service offerings (“tos”) and the policies and guidelines provided herein. this tos constitutes an agreement between joyent, inc. (“joyent”, “we”, “us”, or “our”) and you, as an individual, or the entity you represent. you represent that you are legally able to enter into agreements, that you are of legal age to do so, and if you are accepting this tos on behalf of an entity, such as your company, you have all rights and authority to legally bind such entity. you further represent that you are not a person barred from receiving the cloud services under the laws of the united states (including export controls) or other applicable jurisdiction (including the country in which you are resident or from which you use the cloud services) and your use of the cloud services will comply with the “export compliance and excluded data” section as provided below. you further affirm that you are over the age of 13, as the cloud services are not intended for children under the age of 13. joyent reserves the right to modify the tos from time to time without prior notice.
+1. cloud services
+cloud services means the joyent services and products provided by joyent to you under this tos. cloud services do not include third party software and services, which is defined below.
+2. you must maintain the confidentiality of your joyent account information
+you are responsible for maintaining the confidentiality of your account username and password, and you acknowledge and agree that you, and not joyent, are responsible for all activities that occur under your account. you agree to immediately notify joyent of any unauthorized use of your joyent account, username or password.
+3. you are responsible for your use of the cloud services
+a. general. you, and not joyent, are responsible for: (a) all information, data, text, software, music, sound, photographs, graphics, video, messages, files, attachments, or other materials, including images of your instances (“customer data”) that is created, transmitted, stored, or displayed by, from, or within your account including content of your end user; (b) the technical operation of the customer data including maintaining compatibility with joyent’s apis for the cloud service; (c) the conduct of all users of your account and for any consequences of such conduct; (d) the monitoring of any customer data you provide to joyent in connection with your use of the cloud services; (e) the procurement of, and compliance with, any third party software licenses for software that you run within the cloud service.  while joyent reserves the right to monitor your customer data, we are under no obligation to do so.
+b. dmca. you are responsible for properly handling and processing notices sent to you (or any of your affiliates) by any person claiming that customer data violates such person’s rights, including notices pursuant to the digital millennium copyright act.
+c. security. you are responsible for using reasonable security precautions to maintain appropriate security and protection of all of your customer data. to prevent unauthorized access, you should, for example, consider encryption technology.
+d. customer data preservation. you are responsible for the preservation of all of your customer data. you, and not joyent, are responsible for backing-up customer data and any other content that you use with the cloud services. best practices include routine archiving of customer data. joyent is not obligated to retain any customer data after the termination of your access to the cloud services for any reason. joyent may transfer customer data within a major geographic region (for example, within the united states or within europe) for data redundancy or other purposes. joyent will not transfer customer data outside the major geographic region you specify (for example, from the united states to asia or from europe to the united states).
+e. your end user’s use. you are responsible for your end users’ use of the cloud services and ensuring that such use is in compliance with the terms and conditions of the tos and with applicable law. if you discover that an end user is in violation of this tos or any applicable law, you will terminate such end user’s access to the cloud services immediately.
+4. your use of the cloud services must be lawful and is subject to certain restrictions
+you shall use the cloud services only for purposes that are legal, proper and in accordance with the tos and the acceptable use policy (“aup”), which can be found at: joyent.com/about/policies/cloud-hosting-acceptable-use-policy. furthermore, you agree that you will not engage in any activity that interferes with or disrupts the cloud services, servers or networks connected to the cloud services.
+you shall not: (i) access and/or use the cloud services if you are a direct competitor of joyent, for purposes of monitoring availability, performance or functionality, or for any other benchmarking or competitive purposes, including in order to design, create or build a service or product that is competitive with the cloud services, or which uses ideas, features or functions that are similar to the cloud services; (ii) sell, resell, rent, lease, offer any time sharing arrangement, service bureau or any service based upon the cloud services on a stand-alone basis (for the avoidance of doubt, this subsection shall not be deemed to preclude you from offering services that use and rely upon the cloud services where your other products or services add substantial value as compared to the cloud services alone); (iii) interfere with or disrupt the integrity or performance of the cloud services; (iv) attempt to gain unauthorized access to the cloud services or any associated systems or networks; or (v) modify or make derivative works based upon the cloud services or any part thereof, or directly or indirectly disassemble, decompile, or otherwise reverse engineer the cloud services or any portion thereof.
+5. third party software and services
+in connection with your use of the cloud services, solely as a convenience for you and solely at your election, joyent may make available to you the use of certain third party software and/or services (“third party software and services”). joyent is not liable or responsible for claims, damages, losses or any other complaints arising out of or related to your use of such third party software and services. your use of any third party software and services are subject to the terms and conditions directly between you and the applicable third party vendor and at your own risk. you hereby acknowledge that no purchase or license of any third party software and services is required to use the cloud services.
+6. if you use the cloud services improperly, joyent may suspend or terminate your access to the cloud services
+we reserve the right to suspend or terminate your access to the cloud services if we determine (in our sole discretion) that you are in violation of the tos, the aup, or any applicable laws.
+for example, we may suspend or terminate your access to the cloud services if your use of the cloud services: (i) poses a security risk to the cloud services or any third party, (ii) may be damaging to, or degrading of, joyent's network integrity, (iii) may subject us, our affiliates, or any third party to legal liability, or (iv) may be fraudulent.
+7. fees, billing and free trials
+for the use of the cloud services, you shall pay us the applicable fees and charges in u.s. dollars by payment methods that we authorize.  if you are paying with a credit card, you hereby authorize joyent to charge your credit card for any and all charges you may incur in connection with your use of the cloud services.  an invoice is issued for those charges at the beginning of each calendar month.  joyent reserves the right to bill you more frequently for fees and charges for use of the cloud services if joyent suspects that your account is at risk of non-payment or is fraudulent.
+for joyent’s compute service, you shall be charged in arrears for all billable instances during the previous calendar month.  a compute instance is billable from the time it is provisioned, whether by you or by joyent, until the time it is deleted.  unless and until you delete your compute instance, you shall continue to incur usage fees even if such compute instance is inactive.
+if you elect to purchase joyent support services, support services fees will be charged monthly in arrears for the complete month, regardless of the date of order (e.g. if you order support services on the 15th of the month the effective date will be the first of that same month.)  support services fees are calculated, using the applicable percentage corresponding to the selected tier as a percentage of the total monthly service fees for that month, inclusive of compute service, nfs, reserved instance and manta service fees. the minimum term for a purchased support service is one (1) month.  support services can be cancelled upon written notification to joyent, however, such written notice must be provided to joyent prior to the first day of the month you wish to cancel.  no refunds will be given for partial months.
+for network file system (“nfs”), you shall be charged in advance for the storage allocated to your nfs storage for the upcoming calendar month.  nfs charges start on the date your nfs is provisioned by joyent.  charges made to your nfs allocation during the calendar month will be reflected on your next invoice as a prorated charge or credit.
+joyent charges fees for outbound bandwidth at the pricing set forth here: joyent.com/public-cloud/pricing
+all payments must be made without setoffs, counterclaims, deductions or withholdings.  joyent shall not be responsible for any additional bank fees, interest charges, finance charges, over draft charges, or other fees resulting from charges billed by joyent.  if you choose to pay by credit card, currency exchange settlements shall be based on agreements between you and the provider of your credit card.  late payments hereunder will be subject to a monthly charge of one and one-half percent (1.5%) per month, or the highest rate allowed by applicable law, whichever is lower.
+if you believe that your charges are incorrect, you must contact joyent in writing within 30 days from the date of the applicable invoice (“dispute period”) to contest such charges to be eligible to receive an adjustment or credit.  to the fullest extent permitted by law, you hereby waive all claims relating to any and all charges not disputed by you during the dispute period (this does not affect your credit card issuer rights).
+all amounts payable to joyent for cloud services are exclusive of any tax, levy or similar governmental charge that may be assessed by any jurisdiction, whether based on gross revenue, the delivery, sale or use of the cloud services or otherwise arising out of the execution or performance of this tos, and including without limitation, all sales, use, excise, import or export, value added, governmental permit fees, license fees, and customs; provided, however, that you shall have no liability for any net income, net worth or franchise taxes assessed on joyent.
+joyent reserves the right to change its fees and charges for the cloud services at any time.  any such changes will be effective when such changes are posted on the joyent website, unless we indicate otherwise.  similarly, we may introduce pricing and charges for new products, features or services at any time by posting on the joyent website.
+for free trials, each customer is eligible to participate in one free trial.  if we discover that a customer has multiple free trial accounts, we reserved the right to terminate all but one free trial account of our choice in our sole discretion.
+8. no refunds
+all charges are non-refundable unless expressly stated otherwise, or otherwise provided by applicable law.
+9. if you are delinquent on your payment, joyent may suspend or terminate your access to the cloud services
+we reserve the right to suspend or terminate your access to and use of the cloud services if you are delinquent on your account.
+10. your cancellation of cloud services
+you may terminate your use of the cloud services at any time by following the procedures below:
+as soon as you delete an instance or service, you will lose all customer data on that instance or service. as a reminder, you are responsible for backing up all customer data you use with the cloud services. termination of the cloud services by you will not alter your obligations to pay all charges due to joyent.
+for compute service, you may cancel your service at any time by deleting your billable instances through the joyent cloud portal (currently at: my.joyent.com). stopping an instance does not stop the incurring of your usage fees. you must delete the compute instance to stop incurring usage fees. the final charges for your compute instances will be included on the invoice issued at the beginning of the next calendar month.
+for network storage (“nfs”), you may cancel your service by submitting a support request (currently at: help.joyent.com) to have your nfs share deleted. your final invoice, issued at the beginning of the next calendar month, will include a prorated credit reflecting the cancellation.
+11. support services
+joyent support services offerings are described on joyent’s website joyent.com/developers/support/support-levels with additional information and detail available in supporting documentation.  basic support is included with your joyent cloud service, which provides for support assistance if you are experiencing problems with your cloud service (e.g. machine not provisioning, not responding, etc.)  additional levels of support service may be purchased from joyent.
+if you purchase joyent support services you must do so for the entire set of machines under your account.  customers who have multiple accounts can select the appropriate support service tier for individual accounts, but cannot mix and match support service tiers within an account.
+support services are delivered under the terms and conditions of this tos and the joyent support services policy.
+12. service level agreement (“sla”)
+your use of the cloud services is subject to the terms and conditions of our sla which can be found at: joyent.com/about/policies/cloud-hosting-service-level-agreement.
+13. modifications to and discontinuation of cloud services:
+a. cloud services. we may modify or discontinue the cloud services including adding, removing or changing features or functionality of the cloud services from time to time. we will make information available regarding any material change to or discontinuation of the cloud services.
+b. new applications. we may make new applications, tools, features or functionality available from time to time through the cloud services, the use of which may be contingent upon your agreement to additional terms.
+c. apis. we may modify or discontinue any apis to the cloud services from time to time.
+d. tos, sla, aup and policies. we reserve the right to modify the terms and conditions of our tos, sla and policies (including, but not limited to, our security and privacy policy and acceptable use policy) from time to time. we will make information available regarding any material changes.
+14. intellectual property rights
+the cloud services, including all intellectual property rights therein and thereto, and any modification thereof, are and shall remain the exclusive property of joyent and its licensors. you shall not take any action that jeopardizes joyent’s or its licensors’ proprietary rights or acquires any right in the cloud services or joyent’s confidential information, except the limited rights expressly granted in this tos. “intellectual property rights” means any and all (by whatever name or term known or designated) tangible and intangible and now known or hereafter existing (i) rights associated with works of authorship throughout the universe, including, but not limited to, all exclusive exploitation rights, copyrights, neighboring rights, moral rights and mask-works, (ii) trademark, trade dress, and trade name rights and similar rights, (iii) trade secret rights, (iv) patents, designs, algorithms and other industrial property rights, (v) all other intellectual and industrial property and proprietary rights (of every kind and nature throughout the universe and however designated), whether arising by operation of law, contract, license or otherwise, and (vi) all registrations, applications, renewals, extensions, continuations, divisions or reissues thereof now or hereafter in force throughout the universe.
+you hereby grant to joyent a royalty-free, worldwide, transferable, sublicenseable, irrevocable, perpetual license to use or incorporate into the cloud services any suggestions, enhancement requests, recommendations or other feedback related to the cloud service tos provided by you to joyent.
+15. indemnification
+you agree to hold harmless and indemnify joyent, and its subsidiaries, affiliates, officers, agents, and employees, advertisers or partners, from and against any third party claim arising from or in any way related to customer data, your use of the cloud services, or violation of these tos, aup or any other actions connected with your use of the cloud services, including any liability or expense arising from all claims, losses, damages (actual and consequential), suits, judgments, settlements, litigation costs and reasonable attorneys’ fees, of every kind and nature. in such a case, joyent will provide you with written notice of such claim, suit or action and reasonable assistance at your cost.
+16. disclaimer of warranties
+you expressly understand and agree that your use of the cloud services is at your sole risk. cloud services are provided on an “as is” and “as available” basis. any use of the cloud services is done at your own risk and you will be solely responsible for any damage to your computer system or other device or loss of data that results from using the cloud services. joyent makes no, and hererby expressly disclaims (to the greatest extent permissible under applicable law) all warranties, express, implied or otherwise, arising from course of dealing or usage of trade, or statute, as to the cloud services or any matter whatsoever. in particular, any and all warranties of merchantability, fitness for a particular purpose and non-infringement are expressly excluded. joyent does not warrant that the operation of the cloud services will be completely secure, error free or uninterrupted, or that all errors will be corrected. you assume all risk of delays or interuptions in access to or use of the cloud services resulting from use of the internet and/or telecommunications to access the cloud services, and joyent shall have no liability for any such delays or interuption.
+17. limitation of liability
+under no circumstances shall joyent or its affiliates be liable for any special, indirect, incidental, exemplary or consequential damages of any kind or nature whatsoever, or for cost of procurment of subsitute services, arising out of or in any way related to this tos or the cloud services. such limitation on damages includes, but is not limited to, lost goodwill, lost profits, loss of data or software or work stoppage, regardless of the legal theory on which the claim is brought, even if joyent has been advised of the possibility of such damage or if such damage could have been reasonably foreseen, and notwithstanding any failure of essential purpose of any exclusive remedy provided in this tos. joyent’s maximum liability for any damages arising out of or related to this tos or the cloud services, whether based on contract, warranty, tort (including negligence), strict liability or otherwise, shall be limited to the amount you paid to joyent directly attributable to the joyent cloud service provided under this tos during the twelve (12) months immediately preceding the first event giving rise to liability under this tos. joyent shall have no liability or responsibility for any customer data or third party software. the foregoing limitation of liability is independent of, and shall not be deemed to modify joyent’s obligation under any exclusive remedies for breach of warranty set forth in this tos.
+18. export compliance and excluded data
+you acknowledge and agree that the cloud services are subject to applicable export control and trade sanctions laws, regulations, legislative and regulatory requirements, rules and licenses (collectively “export laws”), including without limit those of the u.s. (e.g., the sanctions administered by the u.s. department of treasury’s office of foreign assets control (31 cfr part 500 et seq.), the export administration regulations (ear, 15 cfr part 730 et seq.) administered by the us department of commerce’s bureau of industry and security (bis), laws and regulations targeting proliferation activities, and the restricted persons lists maintained by the us government including but not limited to the denied persons list, unverified list, entity list, specially designated nationals list, debarred list and non-proliferation sanctions). you agree to comply with these export laws and agree that you alone are responsible for ensuring compliance with export laws. in particular, but without limitation to the foregoing, you will not, and will obtain assurances that none of your affiliates, employees, contractors, agents or users will not, use, sell, resell, export, re-export, import dispose of, disclose or otherwise deal with the tos, directly or indirectly, to any country, destination or person without first obtaining any required export license or other governmental, legislative or regulatory approval, and completing such formalities as may be required by the export laws. you further shall not do anything that would cause joyent to be in breach of the export laws.
+for clarity, you are solely responsible for compliance relating to the manner in which you choose to use the cloud services, including your transfer, processing and provisioning of your customer data or any other data, content or software to your end users and any control laws of the country in which the cloud services are rendered or received by you. customer data, software or any of your solution that you provide in connection with the cloud services will not (i) be classified or listed on the u.s. munitions list; (ii) contain defense articles or defense services; or (iii) contain itar-related data (items (i) — (iii) collectively, the “excluded data”).
+19. notices
+19.1. notices to you. notices by joyent may be given to you under this tos in any of the following manners: a) by sending notices to your email address registered with your joyent account; b) by overnight courier, personal delivery, or registered or certified mail; or c) posting such notices on the joyent website. notices will be effective upon posting or when sent, as applicable.
+19.2. notices to us. notices by you to joyent must be given in either of the following manners: a) by facsimile to (415) 788-3010; or b) by overnight courier, personal delivery, or registered or certified mail to: joyent, inc., attn: tos, 655 montgomery street, suite 1600, san francisco, ca 94111. notices are effective 3 business days after being sent.
+20. entire agreement
+this tos, aup, sla and including any policies or amendments that may be presented to you from time to time constitute the entire agreement between you and joyent and shall govern your use of the cloud services, including any prior (written or verbal) offers and statements.
+21. governing law
+the terms of service and the relationship between you and joyent, solely relating to the delivery and use of the cloud services, shall be governed by the laws of the state of california without regard to its conflict of law provisions. you and joyent agree to submit to the personal and exclusive jurisdiction of the courts located within the county of san francisco, california.
+22. nature of relationship
+the terms of service do not create or imply any partnership, agency or joint venture between you and joyent.
+23. feedback, comments and questions
+we are always looking for ways to improve our services. if you have feedback, comments and/or questions regarding the cloud services, please feel free to contact us at:
+joyent, inc.
+655 montgomery street, suite 1600
+san francisco, ca 94111
+tos addendum
+as of september 5, 2013
+reserved pricing
+customer may designate the number and type of joyent compute instances (“reserved instance”) to be subject to the reserved pricing and payment terms (“reserved pricing”). customer may purchase reserved instances by contacting joyent sales at &#115;&#x61;&#x6c;&#101;&#x73;&#x40;&#106;&#111;&#x79;&#101;&#110;&#116;&#46;&#99;&#111;&#x6d; and completing an order form. the term of the reserved pricing will start on the start date as specified in the applicable order form and will expire based on the term for each reserved instance on the order form.  for all reserved instances, customer must designate an availability zone, reserved instance type, and quantity for the applicable reserved instances. joyent may change reserved pricing at any time but price changes will not apply to previously designated reserved instances, except as described herein. only joyent compute instances are eligible for reserved pricing. if any reserved instances include a third party product (such as microsoft windows) and such third party supplier changes its fees, joyent will pass through such fee change to the customer. for any increase in the applicable fees for reserved instances with optional third-party software, joyent will provide 30 days’ notice via customer’s registered e-mail account with joyent. within such 30-day notice period, customer may: (a) continue to use customer’s reserved instances with such third-party software with the new price; or (b) convert customer’s reserved instances with third-party software to comparable reserved instances with smartos or linux. we may terminate the reserved pricing program at any time but such termination will not apply to previously purchased reserved instances. reserved instances are nontransferable. all amounts paid in connection with the reserved instances are nonrefundable. upon expiration or termination of the term of reserved instances, the reserved instance pricing will expire and the standard on-demand usage prices will automatically apply unless customer renews its reserved instances at the then current reserved pricing fees and related charges by signing and submitting a new order form. in addition to being subject to reserved pricing, reserved instances are subject to all data transfer and other fees and charges applicable under the agreement.
+joyent manta service
+
+
+you may use the joyent manta service (“service”) only to store and retrieve objects, and only to run compute on objects in the service for the purposes of processing and computation. you may not use the service for the purposes of reverse engineering the service and you may not attempt to run the system and service on infrastructures other than the joyent cloud service. you may not access the service for the purpose of bringing an intellectual property infringement claim against service or for the purpose of creating a product or service competitive with the service.
+
+joyent has documented the purpose and proper use of resources and services via a series of user guides and other web-based documents available on the joyent web site apidocs.joyent.com/manta/index.html and joyent user portal my.joyent.com. you assume the responsibility for becoming familiar with this documentation, particularly relating to issues such as adherence to resource limits, proper and considerate use of the job system, understanding the purpose and proper use of storage services, and proper use of the service.
+
+api requests
+there is no default api rate limit imposed upon you in using the service, however the system reserves the right to throttle requests if necessary to protect the service. for high-volume web assets, you should use a content delivery network (cdn).
+there are three classes of api requests. class i only has the http delete method. class ii is the get, head, option methods. class iii is the put, push and list methods. joyent reserves the right to differentially charge for these classes and to reclassify http methods.
+data storage
+when submitting an object to the service, you can specify the number of copies stored, from one (1) to six (6). when the number of copies requested is greater than one, the system will ensure that at least two copies by default are placed in two different availability zones. the underlying objects are stored on devices using zfs and erasure coded across disks.
+the system is designed to support an arbitrarily large number of objects and an arbitrarily large number of directories. however, it bounds the number of objects in a single directory so that &quot;list&quot; operations can be performed efficiently. we reserve the right to change that upper bound and the system meters the amount of directories you generate. joyent reserves the right to charge for directories if used excessively.
+the system does not have any designed limit on the size of a single object, but it may return a &quot;no space&quot; error if the requested object size is larger or nearly larger than can be contained in a single physical node. in practice, this number will be in tens of terabytes.
+joyent’s standard service level goal over a month applies to the joyent manta service when such object is stored with a redundancy level of two (2) or higher. the joyent cloud hosting service level agreement is applicable and can be found at joyent.com/about/policies/cloud-hosting-service-level-agreement.
+billing for data storage is based upon object size in bytes and per hours of duration. storage is billed at minimum of 128kib per object per hour and the sum of your objects is billed at a minimum of 1 gib hour per day. for example, if you write a 1mib object with the default number of copies (2), you will be billed for 2mib of storage per hour on a monthly basis. usage records will be generated on your behalf, and will be stored in your account in the reports directory and will incur a charge.
+snaplinks allow you to create an alternate name for a point-in-time reference to an object. immediately upon creation, snaplinks do not consume any extra bytes of billable storage, as they do not create a new copy of data. they simply create an extra name that points at existing object data. joyent meters the extra names and reserves the right to charge if the demands on resources are excessive. because objects in the system have copy-on-write behavior, when the object that was the target of a snaplink is overwritten, the snaplink becomes a copy of the old object, consuming billable storage.  if you perform cross-account snaplinks (for example, /user_1/public/original-object to /user_2/public/snaplink-object), the user performing the snaplink, user_2 in the example, will pay for the space consumed by the snaplink, if the situation arises.
+joyent charges fees for outbound bandwidth for accessing or submitting objects to the system. bandwidth pricing can be found at: joyent.com/object-storage/pricing.
+data compute
+usage charges for the compute portion of the service are based on a) time, b) number of objects and c) number of resources dedicated for each task.  resources are a combination of gib of ram and gib of task-specific disk space, which may be billed in tiers.  you may specify resource amounts that override the defaults. time is the amount of seconds from the time a job starts to the time the job ends regardless if the job completes with or without errors.  errors with any job, or other conditions in the system that may cause a need to recalculate will cause data compute charges to be incurred.  joyent will use commercially reasonable efforts to assure that job processing is available but cannot guarantee any or each individual task may complete in a timely manner.  joyent also reserves the rights to cancel any running jobs without notice to protect the availability of the system. you are responsible for canceling and cleaning up any jobs if you do not wish to be billed for usage. you can cancel all jobs running on your account with the mjob list -s running | xargs mjob cancel command.
+joyent charges fees for outbound bandwidth to the compute running on the object store.
+joyent manta service pricing
+current pricing for joyent manta service and bandwidth fees are available at joyent.com/object-storage/pricing.            
+        
+    
+
+        
+
+    
+        
+            
+                
+            
+            
+                joyent delivers container-native infrastructure, offering organizations high-performance, yet simple public cloud and private cloud software solutions for today’s demanding real-time web and mobile applications.
+            
+            
+                connect with joyent
+                
+    
+    
+    
+    
+    
+
+            
+        
+    
+    
+        
+            
+                products
+                
+                    node.js production support
+                    triton containers as a service
+                    manta object storage
+                
+            
+            
+                open source
+                
+                    containerpilot
+                    triton
+                    smartos
+                    node.js
+                    github/joyent
+                    github/autopilotpattern
+                
+            
+            
+                documentation
+                
+                    blog
+                    node.js
+                    manta
+                    triton containerpilot
+                    triton datacenter
+                    triton smartos
+                
+            
+            
+                about
+                
+                    overview
+                    press room
+                    events
+                    management
+                    careers
+                    contact us
+                
+            
+            
+                support
+                
+                    help desk
+                    system status
+                    site feedback
+                    site search
+                
+            
+        
+        
+            
+                © 2017 joyent, inc. | policies | compliance            
+        
+    
+    
+
+
+adroll_adv_id = "xmbt7qvu7ve43ojhlzfldn";
+adroll_pix_id = "uiyxmpbf5jg6nnoccyy34u";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createelement("script");
+   var host = "//s.adroll.com";
+   scr.setattribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getelementsbytagname('head') || [null])[0] ||
+    document.getelementsbytagname('script')[0].parentnode).appendchild(scr);
+   if(oldonload){oldonload()}};
+}());
+
+
+
+
+
+try { mktomunchkin("993-rjq-253"); } catch(err) { }
+
+
+(function(d,b,a,s,e){ var t = b.createelement(a),
+    fs = b.getelementsbytagname(a)[0]; t.async=1; t.id=e;
+    t.src=('https:'==document.location.protocol ? 'https://' : 'http://') + s;
+    fs.parentnode.insertbefore(t, fs); })
+(window,document,'script','scripts.demandbase.com/rt9idbtd.min.js','demandbase_js_lib');
+
+
+/*{literal}<![cdata[*/window.olark||(function(i){var e=window,h=document,a=e.location.protocol=="https:"?"https:":"http:",g=i.name,b="load";(function(){e[g]=function(){(c.s=c.s||[]).push(arguments)};var c=e[g]._={},f=i.methods.length; while(f--){(function(j){e[g][j]=function(){e[g]("call",j,arguments)}})(i.methods[f])} c.l=i.loader;c.i=arguments.callee;c.f=settimeout(function(){if(c.f){(new image).src=a+"//"+c.l.replace(".js",".png")+"&"+escape(e.location.href)}c.f=null},20000);c.p={0:+new date};c.p=function(j){c.p[j]=new date-c.p[0]};function d(){c.p(b);e[g](b)}e.addeventlistener?e.addeventlistener(b,d,false):e.attachevent("on"+b,d); (function(){function l(j){j="head";return[""].join("")}var z="body",s=h[z];if(!s){return settimeout(arguments.callee,100)}c.p(1);var y="appendchild",a="createelement",u="src",r=h[a]("div"),g=r[y](h[a](g)),d=h[a]("iframe"),b="document",c="domain",q;r.style.display="none";s.insertbefore(r,s.firstchild).id=g;d.frameborder="0";d.id=g+"-loader";if(/msie[ ]+6/.test(navigator.useragent)){d.src="javascript:false"} d.allowtransparency="true";g[y](d);try{d.contentwindow[b].open()}catch(f){i[c]=h[c];q="javascript:var d="+b+".open();d.domain='"+h.domain+"';";d[u]=q+"void(0);"}try{var h=d.contentwindow[b];h.write(l());h.close()}catch(e){d[u]=q+'d.write("'+l().replace(/"/g,string.fromcharcode(92)+'"')+'");d.close();'}c.p(2)})()})()})({loader:(function(a){return "static.olark.com/jsclient/loader0.js?ts="+(a?a[1]:(+new date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]});
+olark.identify('3485-546-10-5485');/*]]>{/literal}*/
+
+    
+
+
+    
+        
+            
+                ×
+                joyent.com feedback
+            
+            
+              
+                  thank you
+                  thank you for helping us improve joyent.com.
+              
+                
+                    forms are blocked
+                    it appears you have an ad or script blocker that won't allow us to load our feedback form from app-sjf.marketo.com. to submit feedback, you can either temporarily unblock that domain, or email marketing@joyent.com. email may take longer to get to the relevant people.
+                
+              
+              
+                try {
+                mktoforms2.loadform("//app-sjf.marketo.com", "993-rjq-253", 1244, function(form){
+                    form.onsuccess(function(values, followupurl){
+                      //get the form's jquery element and hide it
+                      form.getformelem().hide();
+                      //return false to prevent the submission handler from taking the lead to the follow up url.
+                      $('.thankyou').show();
+                      return false;
+                    });
+                  });
+                } catch(err) {
+                    $('.alert-danger.feedback').show();
+                }
+              
+            
+        
+    
+
+
+
+!function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createelement(u),
+t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getelementsbytagname(u)[0],
+s.parentnode.insertbefore(t,s))}(window,document,'script');
+// insert twitter pixel id and standard event data below
+twq('init','nvay1');
+twq('track','pageview');
+
+

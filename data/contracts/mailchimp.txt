@@ -1,0 +1,218 @@
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new date().gettime(),event:'gtm.js'});var f=d.getelementsbytagname(s)[0],
+j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbefore(j,f);
+})(window,document,'script','datalayer','gtm-mcztkl');
+
+.st0{fill:#694d46;} .st1{fill:#0c8ac0;} .st2{fill:#f6ddbb;} .st3{fill:#ffffff;} .st4{fill:#46b8e3;} .st5{fill:#132031;} .st6{fill:#ebbf8e;} .st7{fill:#9d7356;} .st8{fill:#ffd250;}
+featurespricingsupportblogsign up freelog in
+  search
+  
+
+
+  menu
+  
+
+
+  close
+  
+
+legalterms of usethanks for using mailchimp.
+
+please read these terms carefully. by using mailchimp or signing up for an account, you’re agreeing to these terms. this is a legal agreement.
+we’ll start with the basics, including a few definitions that should help you understand this agreement. mailchimp (“mailchimp” or the “service”) is an email service offered through the url www.mailchimp.com (we’ll refer to it as the “website”) that allows you to create, send, and manage email newsletters (each message is called an “email”) to individual recipients. mailchimp is owned and operated by the rocket science group, llc d/b/a mailchimp, a georgia limited liability corporation (“mailchimp,” “we,” or “us”). mailchimp has employees, independent contractors, and representatives (“our team”). as a customer of the service or a representative of an entity that’s a customer of the service, you’re a “member” according to this agreement (or “you”).
+
+these terms of use (“terms,” including our privacy policy, acceptable use policy, api guidelines, copyright policy and brand guidelines) define the terms and conditions under which you’re allowed to use mailchimp, and how we’ll treat your account while you’re a member. if you have any questions about our terms, feel free to contact us.
+
+account
+
+1. eligibility
+
+in order to use mailchimp, you must:
+be at least eighteen (18) years old and able to enter into contracts;complete the registration process;agree to the terms; andprovide true, complete, and up to date contact information.
+by using mailchimp, you represent and warrant that you meet all the requirements listed above, and that you won’t use mailchimp in a way that violates any laws or regulations. (representing and warranting is like making a legally enforceable promise.) mailchimp may refuse service, close accounts of any users, and change eligibility requirements at any time.
+
+2. term
+
+the term begins when you sign up for mailchimp and continues as long as you use the service. clicking the button and entering your username means that you’ve officially “signed” the terms. if you sign up for mailchimp on behalf of a company or other entity, you represent and warrant that you have the authority to accept these terms on their behalf.
+
+3. closing your account
+
+you or mailchimp may terminate this agreement at any time and for any reason by giving notice to the other party. we may suspend our service to you at any time, with or without cause. if we terminate your account without cause, we’ll refund a prorated portion of your monthly prepayment or reimburse you for unused email credits. we won’t refund or reimburse you if there’s cause, like a violation of these terms or our acceptable use policy. once terminated, we may permanently delete your account and all the data associated with it, including your emails from our website. if you don’t log in to your account for 12 or more months, we may treat your account as “inactive” and permanently delete the account and all the data associated with it.
+
+4. changes
+
+we may change any of the terms by posting revised terms of use on our website and/or by sending an email to the last email address you gave us. unless you terminate your account within ten (10) days, the new terms will be effective immediately and apply to any continued or new use of mailchimp. we may change the website, the service, or any features of the service at any time.
+
+5. account and password
+
+you’re responsible for keeping your account name and password confidential. you’re also responsible for any account that you have access to, whether or not you authorized the use. you’ll immediately notify us of any unauthorized use of your accounts. we’re not responsible for any losses due to stolen or hacked passwords. we don’t have access to your current password, and for security reasons, we may only reset your password.
+
+6. account disputes
+
+we don’t know the inner workings of your organization or the nature of your personal relationships, and we don’t arbitrate disputes over who owns an account. you won’t request access to or information about an account that’s not yours, and you’ll resolve any account-related disputes directly with the other party. we decide who owns an account based on the content of the emails in that account, and if multiple people or entities are identified in the content, then we’ll rely on the contact information listed for that account.
+
+payment
+
+7. monthly plans
+
+our charges for monthly plans are posted on our website and may be changed from time to time. if any part of a month is included in the term, then payment is due for the full month. payments are due for any month on the same or closest date to the day you made your first monthly payment (the “pay date”). if you go over your sending limit and reach another pricing level, then you’ll have to pay at the higher level on or before the next pay date. if the term ends before that payment is due, you’ll still be required to make one payment at the higher level.
+
+8. pay as you go plans
+
+you may buy email credits to use our services instead of signing up for a monthly plan. this is explained on the pricing page of our website. if you choose a pay as you go plan, you’ll still be considered a member, and other than the monthly payment requirement, all the terms of this agreement will still apply to you. email credits for pay as you go accounts roll over and don’t expire, but if your account is inactive for more than 12 months, it may be deleted.
+
+9. credit cards
+
+as long as you’re a member or have an outstanding balance with us, you’ll provide us with valid credit card information and authorize us to deduct the monthly charges against that credit card. you’ll replace the information for any credit card that expires with information for a valid one. anyone using a credit card represents and warrants that they are authorized to use that credit card, and that any and all charges may be billed to that credit card and won’t be rejected. if we’re unable to process your credit card order, we’ll try to contact you by email and suspend your account until your payment can be processed.
+
+10. refunds
+
+we’ll give you a refund for a prepaid month if we stop providing our services to you for a reason that’s not laid out in these terms or our acceptable use policy. you won’t be entitled to a refund from us under any other circumstances. we may offer a refund if a member applies for one based on the requirements posted on the website.
+
+11. charges for add-ons
+
+some features are offered as add-ons to your mailchimp account. if you add on a feature that has a charge, then you’ll be billed that additional amount with each billing cycle for as long as the add-on is active. some add-ons, like mandrill, are intended for particular use cases and may have additional terms or restrictions (“additional terms.”) if you use an add-on in a way that violates these terms or the additional terms, then we may terminate your account. if you use mandrill to send bulk emails, in violation of our acceptable use policy, then we may charge you at the comparable mailchimp pricing tier or terminate your account.
+
+12. billing changes
+
+we may change our fees at any time by posting a new pricing structure to our website and/or sending you a notification by email.
+
+rights
+
+13. proprietary rights owned by us
+
+you will respect our proprietary rights in the website and the software used to provide mailchimp (proprietary rights include patents, trademarks, service marks, trade secrets, and copyrights). you may only use our brand assets according to our brand guidelines.
+
+14. proprietary rights owned by you
+
+you represent and warrant that you either own or have permission to use all of the material in your emails. you retain ownership of the materials that you upload to the service. we may use or disclose your materials only as described in these terms and our privacy policy.
+
+15. privacy policy
+
+we may use and disclose your information according to our privacy policy. our privacy policy will be treated as part of these terms.
+
+16. right to review email campaigns
+
+we may view, copy, and internally distribute content from your emails and account to create algorithms and programs (“tools”) that help us spot problem accounts. we use these tools to find members who violate these terms or laws. for example, we study data internally to make our email genome project smarter and create better experiences for senders and subscribers.
+
+rules and abuse
+
+17. general rules
+
+you promise to follow these rules:
+you won’t send spam! by “spam,” we mean the definition on the spamhaus website.you won’t use purchased, rented, or third-party lists of email addresses.you won’t violate our acceptable use policy, which is part of this agreement.if you use our api, you’ll comply with our api use policy.
+if you violate any of these rules, then we may suspend or terminate your account.
+
+18. reporting abuse
+
+if you think anyone is violating any of these terms, please notify us immediately. if you received spam you think came from a mailchimp user, please report it to our abuse team. (the best way to tell whether an email was sent through mailchimp is that every mailchimp campaign has an embedded campaign tracking id in the header that makes it easy to report suspected spam.) if you think anyone has posted material that violates any copyrights, then you can notify us according to our copyright policy.
+
+19. bandwidth abuse/throttling
+
+you may only use our bandwidth for your mailchimp emails. we provide image and data hosting only for your email campaigns, so you may not host images on our servers for anything else (like a website). we may throttle your sending or connection through our api at our discretion.
+
+20. compliance with laws
+
+you represent and warrant that your use of mailchimp will comply with all applicable laws and regulations. you’re responsible for determining whether our services are suitable for you to use in light of any regulations like hipaa, glb, eu data privacy laws, or other laws. if you’re subject to regulations (like hipaa) and you use our service, then we won’t be liable if our service doesn’t meet those requirements. you may not use our service for any unlawful or discriminatory activities, including acts prohibited by the federal trade commission act, fair credit reporting act, equal credit opportunity act, or other laws that apply to commerce.
+
+if you’re located in the european economic area (eea) or send to anyone in the eea, you represent and warrant that in creating your email distribution list, sending emails via mailchimp, and collecting information as a result of sending emails, you:
+will clearly describe in writing how you plan to use any data collected, including for your use of mailchimp. you’ll get express consent to transfer data to mailchimp and be processed, and you’ll otherwise comply with whatever privacy policy you have posted.have complied, and will comply, with all regulations, as well as data protection, electronic communication, and privacy laws that apply to the countries where you’re sending any form of email through mailchimp.have collected, stored, used, and transferred all data relating to any individual in compliance with all data protection laws and regulations. you have the necessary permission to allow mailchimp to receive and process data and send communications to that individual on your behalf.agree to indemnify and hold us harmless from any losses, including attorney fees, that result from your breach of any part of these warranties.have signed our data processing agreement.
+21. u.s. export controls
+
+the software that supports the services (the “software”) is subject to united states export controls. export laws are set up by the government to keep certain goods and services from reaching other countries, usually because of security concerns or trade agreements. none of the software may be downloaded or otherwise exported or re-exported in violation of united states export laws. you’re downloading and using the software at your own risk.
+
+liability
+
+22. limitation of liability
+
+to the maximum extent permitted by law, you assume full responsibility for any loss that results from your use of the website and the services, including any downloads from the website. we and our team won’t be liable for any indirect, punitive, special, or consequential damages under any circumstances, even if they’re based on negligence or we’ve been advised of the possibility of those damages. our total liability for all claims made about the service in any month will be no more than what you paid us for the service the month before.
+
+23. no warranties
+
+to the maximum extent permitted by law, we provide the material on the website and the service as is. that means we don’t provide warranties of any kind, either express or implied, including but not limited to warranties of merchantability and fitness for a particular purpose. since people use mailchimp for a variety of reasons, we can’t guarantee that it will meet your specific needs.
+
+24. indemnity
+
+you agree to indemnify and hold us and our team harmless from any losses, including attorney fees that result from any claims you make that aren’t allowed under these terms due to a “limitation of liability” or other provision. (indemnity is an agreement to compensate someone for a loss.) you also agree to indemnify and hold us harmless from any losses, including attorney fees, that result from third-party claims that you or someone using your password did something that, if true, would violate any of these terms.
+
+25. attorney fees
+
+if we file an action against you claiming you breached these terms and we prevail, we’re entitled to recover reasonable attorney fees and any damages or other relief we may be awarded.
+
+26. equitable relief
+
+if you violate these terms then we may seek injunctive relief (meaning we may request a court order to stop you) or other equitable relief.
+
+27. subpoena fees
+
+if we have to provide information in response to a subpoena related to your account, then we may charge you for our costs. these fees may include attorney and employee time spent retrieving the records, preparing documents, and participating in a deposition.
+
+28. disclaimers
+
+we and our team aren’t responsible for the behavior of any advertisers, linked websites, or other members.
+
+fine print
+
+29. notice to u.s. government end users
+
+the software and website, including all documentation, are “commercial items,” as that term is defined at 48 c.f.r. §2.101, and consist of “commercial computer software” and “commercial computer software documentation.” the commercial computer software and commercial computer software documentation are licensed to u.s. government end users:
+only as commercial items,with the same rights as all other end users, andaccording to the terms
+published and unpublished rights are reserved under the copyright laws of the united states. manufacturer is the rocket science group, llc, 675 ponce de leon ave ne, suite 5000, atlanta, georgia 30308.
+
+30. assignments
+
+you may not assign any of your rights under this agreement to anyone else. we may assign our rights to any other individual or entity at our discretion.
+
+31. choice of law
+
+the state of georgia’s laws, except for conflict of laws rules, will apply to any dispute related to these terms or the service. any dispute related to the terms, the privacy policy, or the service itself will be decided by the state and federal courts in fulton county, georgia, and each party will be subject to the jurisdiction of those courts.
+
+32. force majeure
+
+we won’t be held liable for any delays or failure in performance of any part of the service, from any cause beyond our control. this includes, but is not limited to, acts of god, changes to law or regulations, embargoes, war, terrorist acts, riots, fires, earthquakes, nuclear accidents, zombie apocalypse, floods, strikes, power blackouts, volcanic action, unusually severe weather conditions, and acts of hackers or third-party internet service providers.
+
+33. survivability
+
+even if this agreement is terminated, the following sections will continue to apply: proprietary rights owned by us, proprietary rights owned by you, compliance with laws, limitation of liability, no warranties, indemnity, choice of law, severability, and entire agreement.
+
+34. severability
+
+if it turns out that a section of this agreement isn’t enforceable, then that section will be removed or edited as little as necessary, and the rest of the terms will still be valid.
+
+35. interpretation
+
+the headers and sidebar text are provided only to make this agreement easier to read and understand. the fact that we wrote these terms won’t affect the way this agreement is interpreted.
+
+36. amendments and waiver
+
+amendments or changes to these terms won’t be effective until we post revised terms on the website. if we don’t immediately take action on a violation of these terms, we’re not giving up any rights under the terms, and we may still take action at some point.
+
+37. no changes in terms at request of member
+
+because we have so many members, we can’t change these terms for any one member or group.
+
+38. further actions
+
+you’ll provide all documents and take any actions necessary to meet your obligations under these terms.
+
+39. notification of security breach
+
+in the event of a security breach that may affect you or anyone on your email distribution lists (each a “list”), we’ll notify you of the breach and provide a description of what happened. if we determine, and notify you, that you need to forward all or part of that information to anyone on your lists, you’ll promptly do so.
+
+40. notices
+
+any notice to you will be effective when we send it to the last email or physical address you gave us or posted on our website. any notice to us will be effective when delivered to us along with a copy to our legal counsel: attn. legal department, mailchimp, 675 ponce de leon ave ne, suite 5000, atlanta, ga, 30308, or any addresses as we may later post on the website.
+
+41. entire agreement
+
+these terms, our privacy policy, acceptable use policy, api guidelines (all of which are incorporated into these terms by reference), and any additional terms you’ve agreed to by turning on specific features (“additional terms”) make up the entire agreement and supersede all prior agreements, representations, and understandings. any additional terms will be considered incorporated into these terms when you activate the feature.
+
+where there’s a conflict between these terms and the additional terms, the additional terms will control.
+
+congratulations! you’ve reached the end. thanks for taking the time to learn about mailchimp’s policies.
+terms of useacceptable useprivacy policyapi use policycopyright policycookie statementtoolsintegrationsemail design referenceapi docsstatusresourcesguidesresearchexpertsagenciesaboutabout mailchimpjobsbrand assetsinvestor relationsterms of servicecontact uscontact mailchimpabuse deskpress resourcesapplication feedback
+©2001-2016 all rights reserved. mailchimp® is a registered trademark of the rocket science group. privacy and terms
+

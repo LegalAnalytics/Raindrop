@@ -1,0 +1,367 @@
+'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","appwise.zendesk.com");
+		/*]]>*/
+	
+
+	
+	{ "@context" : "http://schema.org",
+	  "@type" : "organization",
+	  "name" : "xendo, inc.",
+	  "url" : "http://xen.do",
+	  "logo" : "https://storm-bucket.s3.amazonaws.com/images/home/logo.png",
+	  "sameas" : [ "http://www.facebook.com/goxendo",
+	    "http://www.twitter.com/goxendo"] 
+	}
+		
+
+	
+    
+      window.heap=window.heap||[],heap.load=function(t,e){window.heap.appid=t,window.heap.config=e;var a=document.createelement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+t+".js";var n=document.getelementsbytagname("script")[0];n.parentnode.insertbefore(a,n);for(var o=function(t){return function(){heap.push([t].concat(array.prototype.slice.call(arguments,0)))}},p=["cleareventproperties","identify","seteventproperties","track","unseteventproperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+      heap.load("117147120");
+    
+
+    	
+
+	
+	
+
+
+
+
+	
+	
+		
+			
+				
+					
+						
+					
+				
+				
+					
+					
+						
+							
+							
+								
+								get the xendo chrome extension
+								
+								
+							
+							
+							
+								how it works
+							
+							
+								
+									
+										plans
+									
+								
+							
+							
+								
+								login
+								sign up
+								
+							
+							
+					
+				
+			
+		
+	
+
+
+<!-- 		
+			
+				
+					
+						
+					
+					
+						sign up
+						login
+					
+				
+			
+		
+	
+ -->	
+ 	
+
+	
+	
+		  
+					home >
+			       	terms of service
+	  				last revised: november 2015
+	  				welcome to xendo! these terms of service (the “terms”) constitute a legally binding agreement between you and the provider of the xendo services, xendo, inc. (“we”, “us”, “our”, “xendo”).  these terms cover your access and use of xendo and apply to all visitors, users, and others who access the service ("users").  before you begin, please take a moment to review these terms and the current xendo privacy policy which is incorporated in these terms. it is important that you understand both the benefits we provide, as well as our limitations.  this agreement contains disclaimers and other provisions that limit our liability to you.  
+
+					you represent and warrant for the benefit of xendo, xendo’s suppliers, and any third parties mentioned on the service that you possess the legal right and ability to enter into, or if you are acting on behalf of a company or entity that you have the authority to bind such entity, and make the representations and warranties contained in these terms.  you may not use xendo and you may not accept these terms if you are not of a legal age to form a binding contract with xendo.
+					by using xendo or any service provided by us (the “service”), you signify that you have read, understood, and agree to be bound by these terms as they may be amended from time to time.  each time you use the service, you agree to these terms and the privacy policy.  if you do not accept these terms or if you are under 13 years of age, you cannot use xendo and must exit xendo immediately.
+					
+					we reserve the right to amend these terms at any time and without notice. if we do this, we will post the amended terms on this page and indicate at the top of the page the date the terms were last revised.  any changes or modifications will be effective immediately upon the posting of such revisions or when such revisions are made available via the service, and you waive any right to specific notice of such changes or modifications. your continued use of the service (or any portion thereof) after any such changes constitutes your acceptance of the new terms. therefore, you should frequently review the terms and the privacy policy.
+					
+					objectives of xendo
+					xendo’s objective is to help business users find and act upon their content in cloud-based services.
+					
+					privacy policy
+					your use of the service is governed by the xendo privacy policy located at xen.do/privacy, which is incorporated in these terms. your use of the services indicates you acceptance of the terms of the privacy policy and you agree to xendo's collection, use and sharing of your information as set forth in the privacy policy, so please review it carefully.  the policy may be updated from time to time at our discretion.  changes will be effective upon posting on our website.
+					xendo is controlled and operated from its facilities in the united states.  if you are using xendo from the european union or other regions with laws governing data collection and use that may differ from united states law, please note that you are transferring your personal data to the united states and by providing your personal data, you consent to that transfer.
+					
+					registration data
+					you agree to: (i) provide accurate, current and complete information about you on the xendo sign-up form ("registration data"); (ii) maintain and promptly update the registration data, and any other information you provide to xendo, in order to keep it accurate, current and complete; and (iii) accept all risk of unauthorized access to the registration data and any other information you provide to xendo.  you may use your account settings to control your user profile.
+					you are solely responsible for the activity that occurs on your account, and you must keep your account password secure. you must notify xendo immediately of any breach of security or unauthorized use of your account. although xendo will not be liable for your losses caused by any unauthorized use of your account, you shall be liable for the losses of xendo or others due to such unauthorized use.
+					by providing xendo your email address you consent to our using the email address to send you service-related notices, including any notices required by law, in lieu of communication by postal mail.  you agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing. it is your responsibility to update or change that address, as appropriate.
+					we may also use your email address to send you other messages, including changes to features of the service and special offers. if you do not want to receive such email messages, you may opt out by contacting xendo at opt-out@xen.do, though we reserve the right to send you service-related announcements about your account as necessary. opting out may prevent you from receiving email messages regarding updates, improvements, or offers.  when you register for permanent opt-out, you provide us with a validated e-mail address at which you no longer wish to receive xendo emails. if necessary, we will send you an opt-out confirmation e-mail to the address you entered.  this information will only be used to honor your opt-out request and will not be shared with any third-party.
+	  			
+	  				account information from third party sites
+	  				with the service, users may direct xendo to retrieve their own information maintained online by third-party service providers with which they have customer relationships or maintain accounts (“account information”). xendo works with one or more online service providers under contract to access this account information. xendo makes no effort to review the account information for any purpose, including but not limited to accuracy, legality or non-infringement. xendo is not responsible for the products and services offered by or on third-party sites.
+	  				xendo cannot always foresee or anticipate technical or other difficulties which may result in failure to obtain data or loss of data, personalization settings or other service interruptions. xendo cannot assume responsibility for the timeliness, accuracy, deletion, non-delivery or failure to store any user data, communications or personalization settings. for example, when displayed through the service, account information is only as fresh as the time shown, which reflects when the information is obtained from such sites. such information may be more up-to-date when obtained directly from the relevant sites.
+	  			
+	  				security
+	  				we have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure, as described in our privacy policy. however, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. you acknowledge that you provide your personal information at your own risk.
+	  				
+	  				children
+	  				this service is intended solely for users who are thirteen (13) years of age or older, and any registration, use or access to the service by anyone under 13 is unauthorized, unlicensed, and in violation of these terms. xendo may terminate your account, delete any content or information that you have posted on the service, and/or prohibit you from using or accessing the service (or any portion, aspect or feature of the service) for any reason, at any time in its sole discretion, with or without notice, including without limitation if it believes that you are under 13. if you are under 18 years of age you may use the service only if you either are an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these terms, and to abide by and comply with these terms.
+	  				
+	  				grant of license and restrictions
+	  				subject to the terms and conditions of these terms, you are hereby granted a non-exclusive, revocable, personal license to access and use xendo the service for the purposes of the xendo objectives or otherwise as envisaged by these terms. use of the service for any purpose not set forth in these terms or for commercial purposes is strictly prohibited.  the terms of the license will also govern any upgrades provided by xendo that replace and/or supplement the original service unless such upgrade is accompanied by a separate license, in which case the terms of that license will govern.
+	  				you agree not to do, or authorize or permit any third-party to do, any of the following: (i) distribute or make xendo available over a network where it could be used by multiple devices at the same time; (ii) rent, lease, lend, sell, redistribute or sublicense xendo; (iii) copy, distribute, decompile, reverse engineer, disassemble, attempt to derive the source code of, modify, or create derivative works of xendo, any updates, or any part thereof; or (iv) remove, alter or obscure any copyright, trademark or other proprietary rights notice on or in xendo. if you violate any of the foregoing restrictions, your use of xendo and the service will immediately cease and you will have infringed the copyright and other rights of xendo, which may subject you to prosecution and damages.  xendo reserves all rights not expressly granted to you in the terms.
+	  				
+	  				rights you grant to us
+	  				when you add an account to xendo, for most of the services, with the exception of sugarsync and microsoft exchange, we use a technology called oauth to authorize xendo to access that account. oauth is a secure protocol that gives us access to your data without actually giving us your password, through the use of a token that xendo will securely store until you revoke it or it expires. you can revoke oauth access either within xendo or within the third party account. when oauth is not available for accessing a third party account, such as for sugarsync, we will securely store passwords for those accounts. users may revoke access at any time and xendo will completely delete all records of the password.
+	  				by adding a service on xendo, you are giving xendo the right to use oauth or your password, as applicable, for the purpose of providing the service.  by requesting the addition of a service, you represent that you are entitled to do so, without any obligation by xendo to pay any fees or other limitations and you expressly authorize xendo to access and retrieve account information maintained by identified third parties on your behalf as your agent, and not as the agent or on behalf of the third party.
+	  				in addition, by sending us any questions, comments, suggestions, ideas, feedback or other information about the service, including without limitation about how to improve the service or our products (“submissions”), you understand that those submissions are non-confidential and that you are granting xendo and its affiliates and licensees a worldwide, unrestricted, royalty-free, perpetual, irrevocable, non-exclusive right and license to use, reproduce, publicly display, publicly perform, modify, sublicense, and distribute those submissions, and incorporate it in other works, in whole or in part, in any manner and any media now known or hereafter developed, including in connection with xendo business, without acknowledgment or compensation to you. xendo will not sell, publish or share your feedback in a way that could identify you without your explicit permission.  you represent and warrant that you own such content or otherwise have sufficient rights in the content to grant to xendo the license set forth in this section without infringing or violating the rights of any third party.
+	  				
+	  				publicity
+					you agree that xendo, inc., in its sole discretion, may use your trade names, trademarks, service marks, logos, domain names and other distinctive brand features in presentations, marketing materials, customer lists, financial reports and web site listings (including links to your website) for the purpose of advertising or publicizing your use of xendo, inc. products or services.
+
+	  				product ideas
+					you may choose to or we may invite you to submit comments or ideas about current or future offerings from xendo, inc., including without limitation potential improvements to xendo, inc. products (“ideas”). by submitting any idea, you agree that your disclosure is gratuitous, unsolicited and without restriction and will not place xendo, inc. under any fiduciary or other obligation, and that we are free to use the idea without any additional compensation to you, and/or to disclose the idea on a non-confidential basis or otherwise to anyone.
+
+	  				payment
+	  				when you subscribe to the service for a fee, you are redirected to stripe (a payment processing service) which will receive your payment information, process your payment and confirm your purchase.  xendo will never receive your financial information or process your payment.  xendo will not be liable for any damage or loss incurred as a result of your use of stripe, including but not limited to, any attempt by third parties to gain unauthorized access to or use your financial information.
+	  				
+	  				code of conduct
+	  				you agree that you are solely responsible for your conduct while using the service, and you agree that you will not do any of the following in connection with the service:
+	  				use the service in any manner that could damage, disable, overburden or impair the functioning of the service in any manner (including via a denial-of-service attack or a distributed denial-of-service attack);
+	  				impersonate any person or entity (including any employee or representative of xendo) or misrepresent yourself in any way or otherwise use or attempt to use another person's registration or create a false identity on xendo;
+	  				use the service for any commercial purpose;
+	  				use the service for any illegal or unauthorized purpose or engage in, encourage, or promote any illegal activity, or any activity that violates the terms or any other rules or policies established from time-to-time by xendo;
+	  				
+	  				violate any applicable laws or these terms;
+					modify, adapt, hack or emulate the service;
+					use automated scripts to collect information from or otherwise interact with xendo;
+					circumvent or attempt to circumvent or modify any filtering, security measures or other features designed to protect the service or users of the service or third- parties; 
+					introduce or attempt to introduce software viruses or any other computer code, files or programs designed or intended to damage, interrupt, destroy or limit the functionality of the service or any computer software or hardware or telecommunications equipment or to damage or obtain unauthorized access to any data or other information of any third party;
+					infringe upon or violate the rights of xendo, its users or any third-party including copyright, database rights, trade marks, designs, patents or other intellectual property, privacy, publicity or other personal or proprietary rights; or
+					provide a link to any of the above.
+					the prohibited actions described in this section shall constitute a material breach of these terms.  xendo may permanently or temporarily terminate, suspend, or otherwise refuse to permit your access to the service without notice and liability, if, in xendo's sole determination, you violate any of the terms, including the code of conduct and we will cooperate fully with third parties and any law enforcement officials and/or agencies in the investigation of any violator or violators.  enforcement of the conduct rules set forth in the terms is solely at xendo's discretion, and failure to enforce such rules in some instances does not constitute a waiver of our right to enforce such rules in other instances.  upon termination for any reason, you continue to be bound by these terms.
+	  				
+	  				third-party interactions
+	  				when using xendo’s services, you may encounter links to sites operated by third parties.  these links are offered solely as a convenience to users.  the linked sites are not under xendo’s control and we make no representations, warranties, or endorsements of any such linked sites or of any business listed to xendo or the information, materials, products or services contained on such linked sites or accessible through other linked sites. you acknowledge and agree that xendo is not responsible or liable in any manner for the privacy practices,  content or operation of such third-party sites or for any loss, damage or harm of any sort that may arise from your use of them.  if you access a third party website from xendo, you do so at your own risk, and you understand that these terms and xendo’s privacy policy do not apply to your use of such sites. your use or download of any services, software or goods from third-party links may be subject to separate terms between you and the third party. if so, the terms do not affect your legal relationship with third parties.
+					we encourage you to be aware of when you leave the service, and to read the terms and conditions and privacy policy of any third-party website or service that you visit.
+	  				
+	  			
+	  				proprietary rights
+					the service contains the valuable proprietary content of xendo and its licensors and is protected by copyright and other intellectual property laws and treaties. you agree not to use the service except in its intended manner and in accordance with the terms. 
+					all elements and content comprising the services, including without limitation, the software, text, site design, logos, graphics, icons and images, as well as the selection, assembly and arrangement thereof, are the sole property of xendo or its licensors and is protected by us and international copyright laws. permission is granted to electronically display and electronically copy and print hard copy portions of the site for your own personal, non-commercial use. any other use, including the reproduction, modification, distribution, transmission, republication, display or performance of any content of the site is strictly prohibited.
+					except as explicitly provided herein, nothing in these terms shall be deemed to create a license in or under any such intellectual property rights, and you agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works from any materials or content accessible on the service.
+					the trademarks, service marks, trade names, trade dress, logos, designs, all copyrights, database rights and other intellectual property rights associated with the services are owned by xendo or its affiliated companies or its licensors and may not be used without xendo’s prior written permission.  
+	  			
+	  				modification and termination
+					the services are in beta stage testing at this time and are being offered solely as a trial. in its sole and absolute discretion, with or without notice to you, xendo may (i) change, suspend, remove, discontinue or disable access to the service including revise and/or delete features or other information, temporarily or permanently, at any time without notice, or (ii) suspend or terminate your account. in no event will xendo be liable to you or any third party for any claims or damages arising out the removal of or disabling of access to any portion or feature of the service or its termination or suspension. 
+					you acknowledge that xendo may from time to time issue upgraded versions of xendo. you agree that the terms apply to all such upgrades.
+	  			
+	  				termination
+					if you breach any of the terms or conditions of the terms or if xendo discontinues the service, the terms will automatically terminate. in the event of the termination of the terms for any reason: (i) the license granted to you in the terms will immediately terminate; and (ii) you must immediately cease all use of the service. all of the sections of the terms will survive any termination of the terms except the license section. any use of the service after termination is unlicensed and is in violation of the copyright and other rights of xendo. xendo and its affiliates reserve the right to refuse service, terminate accounts in their sole discretion.
+	  				
+	  				unlawful activity
+					we reserve the right to investigate complaints or reported violations of the terms and to take any action we deem appropriate including, but not limited to, reporting any suspected unlawful activity to law enforcement officials, regulators, or other third-parties and disclosing any information necessary or appropriate to such persons or entities relating to your registration data, usage history, ip addresses and traffic information.
+	  			
+	  				disclaimer of warranty
+					xendo and the services are provided on an ”as is” and “as available” basis without representation or warranty of any kind. xendo, its affiliates, agents and licensors expressly disclaims any and all representations and warranties, express or implied, of any kind with respect to the application and the services, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, title, accuracy and freedom from computer viruses or other harmful components. 
+					without limiting the foregoing, xendo, its affiliates, and its licensors do not warrant that the service will (1) be uninterrupted, secure or available at any particular time or location; (2) be free from inaccuracies, errors, viruses or other harmful components or that any defects or errors will be corrected; (3) meet your requirements; or (4) operate in the configuration or with the hardware or software you use. your use of the service is solely at your risk.
+					xendo does not warrant, endorse, guarantee, or assume responsibility for any product or service advertised or offered by a third party through the xendo service or any hyperlinked website or service, or featured in any banner or other advertising, and xendo will not be a party to or in any way monitor any transaction between you and third-party providers of products or services.
+					the service is controlled and operated from the united states. xendo makes no representations that the service is appropriate or available for use in other locations. those who access or use the service from other jurisdictions do so at their own volition and are entirely responsible for compliance with local law, including but not limited to export and import regulations. 
+	  				
+	  				
+	  				limitation of liability
+					xendo, its affiliates, its licensors and their respective officers, directors, employees, agents, shareholders, representatives, suppliers or content or service providers will not be liable to you or any third party for damages of any kind, including without limitation, any direct, indirect, punitive, incidental, special, compensatory, consequential damages (including damages for loss of profits, revenues, business opportunities goodwill, use, data or other intangible losses) or any damages whatsoever that result from your use of, inability to use or performance of the service. this limitation applies whether the alleged liability is based on contract, tort, negligence (whether active, passive or imputed), strict liability, or any other legal theory, and even if xendo has been advised of the possibility of such damage. 
+					without limiting the foregoing, xendo will not be liable for any loss or damage arising out of (1) your failure to comply with the terms of service; (2) any errors, inaccuracies or omissions in any content or for any loss or damage incurred as a result of the use of any content posted, emailed, transmitted, or otherwise made available through the service by you or any third party; (3) any reliance placed on any information found on xendo; (4) personal injury or property damage, of any nature whatsoever, resulting from your access to and use of our service; (5) any bugs, viruses, trojan horses, or the like that may be transmitted to or through our service by any third party; (6) any interruption or cessation of transmission to or from the service; (7) hacking, tampering or other unauthorized access or use of the service or your account or the information contained therein; (8) your dealings with any third party; or (9) material and/or data downloaded or otherwise obtained through your use of xendo, including any resulting damage to your computer system or loss of data.
+					in no event shall xendo, its affiliates, directors, employees, or licensors be liable to you for any claims, proceedings, liabilities, obligations, damages, losses or costs  arising out of or relating to the use of or inability to use the service in an amount exceeding $100.00 united states dollars.
+					because some jurisdictions do not allow for the exclusion of damages, xendo’s liability in such jurisdictions shall be limited to the greatest extent permitted by the law of such jurisdictions.  in addition, because some jurisdictions do not permit the disclaimer of certain warranties, the disclaimers set forth herein may not apply to you. nothing in these terms shall operate to limit or exclude our liability for death or personal injury caused by our negligence or for fraud (including, but not limited to, fraudulent misrepresentation) or for that which cannot lawfully be excluded.
+	  				
+	  				indemnification
+					you agree to indemnify, defend, and hold harmless xendo, its affiliates and their respective officers, directors, employees, agents, shareholders, representatives, suppliers and content and service providers (the “indemnified parties”) from and against any and all losses, claims, obligations, fines, judgments, settlements, expenses, damages, costs, debt, expenses and other liabilities (including, but not limited to, reasonable attorney fees, costs, penalties, interest and disbursements) suffered or incurred by any of the indemnified parties and arising out of, in connection with, attributable to or in any way incidental to: (i) your use of and access to the service, including any data or work transmitted or received by you; (ii) your violation of these terms, including without limitation, your breach of any of the representations and warranties above; (iii) your violation of any third-party right, including without limitation any right of privacy, publicity rights or intellectual property rights; (iv) your violation of any law, rule or regulation of the united states or any other country; or (v) any other party’s access and use of the service with your unique username, password or other appropriate security code; except to the extent that any such costs, expenses, losses, damages or other liabilities were caused or contributed to by any negligence or breach of these terms by xendo.
+					if you are obligated to indemnify xendo, we may, in our sole and absolute discretion, control the defense and disposition (including its possible settlement) of any claim at your sole cost and expense. without limitation of the foregoing, you will not settle, compromise or in any other manner dispose of any claim without the written consent of xendo.
+	  				
+					copyright infringement 
+					xendo respects the intellectual property of others, and we ask our users to do the same.  we respond to notices of alleged copyright infringement and terminate accounts of repeat infringers according to the process set out in the u.s. digital millennium copyright act (“dmca”). we may also in our sole discretion limit access to the service and/or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement. notwithstanding the foregoing, xendo does not ensure that any infringing content will be edited or removed.
+					if you believe that any material made available via the service infringes upon any copyright which you own or control, or that any link made available via the service directs users to material that infringes upon any copyright which you own or control, you may file a notification of such infringement by providing us with information about the abuse at dmca@xen.do.  we will respond to notices that comply with the dmca.  please provide our designated copyright agent (below) with a notice containing the following information:
+					your name, address, telephone number and email address;
+					identification of the intellectual property that you claim has been infringed;
+					an electronic or physical signature of the person authorized to act on behalf of the owner of the intellectual property;
+					identification of where the content that you claim is infringing is located (i.e., the complete url of all content on xendo you believe violates the copyrighted work);
+					your statement that: “i have a good faith belief that use of the copyrighted materials described above as allegedly infringing is not authorized by the copyright owner, its agent, or the law.”;
+					your statement that: “i swear, under penalty of perjury, that the information in this notice is accurate and that i am the copyright owner or am authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.”;
+					sign the notice; and send the written communication to xendo’s designated copyright agent at dmca@xen.do.
+	  				you should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages including, but not limited to, costs and attorneys' fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing. 
+					if xendo has deleted or suspended access to any content you uploaded to xendo because of a complaint that the posting infringed someone else’s intellectual property and you disagree and want the content returned to you, please provide xendo with a written response which contains the following within 10 days after receiving notification that the content has been deleted:
+					your physical or electronic signature;
+					identification of the content that was deleted or made inaccessible;
+					your statement that: “i swear, under penalty of perjury, that i have a good faith belief that each search result, message, or other item of content identified above was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled, or that the material identified by the complainant has been removed or disabled at the url identified and will no longer be shown.”;
+					sign the paper;
+					your name, address and telephone number and a statement that you consent to jurisdiction of federal district court for the judicial district in which your address is located, and that you will accept service of process from the person who complained that posting the content constituted an intellectual property right infringement or from an agent of that person; and
+					send the written communication to xendo’s designated copyright agent at dmca@xen.do.
+	  				
+	  				export controls
+					xendo’s website originates in the united states, and is subject to united states export laws and regulations.  the xendo application may not be exported or re-exported to certain countries or those persons or entities prohibited from receiving exports from the united states.  in addition, xendo’s website may be subject to the import and export laws of other countries.  you agree to comply with all united states and foreign laws related to the use of the xendo and its services.  by using the application, you represent and warrant that you are not located in any such country or on any such list. you also agree that you will not use xendo for any purposes prohibited by united states law including, but not limited to, the development, design, manufacture or production of nuclear missiles, or chemical or biological weapons.
+					applicable law and venue
+					use of the services shall be governed by and construed in accordance with the laws of the state of california without regard to its choice of law principles. you agree to submit to the exclusive jurisdiction of the state and federal courts located in the county of san francisco, california with respect to any legal proceedings arising out of these terms or your use of the xendo. you agree that regardless of any statute or law to the contrary, any cause of action or claim you may have with respect to the xendo services must be commenced within one (1) year after the cause of action or claim arises or forever be barred.  these terms will not be governed by the united nations convention of contracts for the international sale of goods, the application of which is hereby expressly excluded.
+					waiver
+					no delay or failure by xendo to insist upon or enforce performance of any provision of the terms or to exercise any right or remedies under the terms will be deemed to be a waiver of such right or provision nor will any single or partial exercise of any right or remedy preclude any other or further exercise thereof or the exercise of any other right or remedy or in any way prejudice xendo’s rights under these terms.
+					severance
+					if any provision in these terms is declared void or unenforceable by any court or other body of competent jurisdiction, or is otherwise rendered so by any applicable law, such provision shall to the extent of such invalidity or unenforceability be deemed severable and all other provisions of these terms not affected by such invalidity or unenforceability shall remain in full force and effect.
+					assignment
+					this agreement, and any rights and licenses granted hereunder, and any obligations arising hereunder may not be transferred or assigned by you, but may be assigned by xendo without restriction.
+					entire agreement
+					these terms, as amended, together with any other legal notices and agreement published by xendo and the disclosures provided by xendo and the consents provided by you, constitute the entire agreement between you and xendo.
+					notification procedures 
+					xendo may provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our website, as determined by xendo in our sole discretion. xendo reserves the right to determine the form and means of providing notifications to our users, provided that you may opt out of certain means of notification as described in these terms.
+					effective date
+					xendo may revise and update these terms at any time; please periodically review the terms. your continued use of xendo indicates your agreement with any changes in the terms.  these terms were last updated in april 2015.
+					contact
+					please contact us at legal@xen.do with any questions regarding these terms.
+			 	
+			 
+
+	
+	
+	
+			
+				
+				
+			
+			
+				
+					
+						home
+						blog
+						press
+						jobs
+						partners
+					
+				
+				
+					
+						help
+						security
+						developers api
+						integrations
+						about us
+						contact us
+					
+				
+				
+					
+						terms of service
+						privacy policy
+					
+				
+				
+					&copy; 2017 xendo, an appdirect company.  all rights reserved.
+					various trademarks held by their respective owners.
+				
+			
+	
+	
+
+	
+	
+	
+	
+	
+	
+		(function(){
+			if(typeof chrome !== 'undefined' && typeof xendoextensioninstalled === 'undefined') {
+				if (document.getelementbyid("get-chrome-extension") !== null)
+					document.getelementbyid("get-chrome-extension").style.display = "inline";
+			}
+		})();
+	
+
+	
+		
+		
+		
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setaccount', 'ua-29749679-1']);
+		  _gaq.push(['_setdomainname', 'xen.do']);
+		  _gaq.push(['_trackpageview']);
+		 
+		  (function() {
+		    var ga = document.createelement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getelementsbytagname('script')[0]; s.parentnode.insertbefore(ga, s);
+		  })();
+		
+				
+
+		
+		  
+		    (function(d,s,i,r) {
+		      if (d.getelementbyid(i)){return;}
+		      var n=d.createelement(s),e=d.getelementsbytagname(s)[0];
+		      n.id=i;n.src='//js.hs-analytics.net/analytics/'+(math.ceil(new date()/r)*r)+'/1700264.js';
+		      e.parentnode.insertbefore(n, e);
+		    })(document,"script","hs-analytics",300000);
+		  
+				
+
+	
+
+	
+	(function(f,b){if(!b.__sv){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.tostring=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.tostring=function(){return c.tostring(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+		for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__sv=1.2;a=f.createelement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getelementsbytagname("script")[0];e.parentnode.insertbefore(a,e)}})(document,window.mixpanel||[]);
+		mixpanel.init("2dbb1230dbfdd2d9a091c7428a279c41");
+			
+
+	
+		mixpanel.track_links("#signup-topnav","signup button in top nav"); 
+		mixpanel.track_links("#signup-cta","signup button in cta"); 
+		mixpanel.track_links("#signup-bottom-cta","signup button (bottom) in cta"); 
+		mixpanel.track_links("#signup-cta-m","signup button in mobile cta"); 
+
+		mixpanel.identify("");
+		mixpanel.people.set({
+			"$first_name": "",
+			"$last_name": "",
+			"$username": "",
+		    "$email": "",		    
+		    "$created": "",
+		    "$is_trial": "false",		    
+		    "$last_login": new date()
+		});
+
+	
+
+	
+	
+
+	
+	{
+	  "@context" : "http://schema.org",
+	  "@type" : "organization",
+	  "name" : "xendo, inc.",
+	  "url" : "https://xen.do",
+	  "logo": "https://storm-bucket.s3.amazonaws.com/images/logos/xendo-white-tile-basic.png",
+	  "sameas" : [
+	    "http://www.facebook.com/goxendo",
+	    "http://www.twitter.com/goxendo",
+	    "http://plus.google.com/+xendo1"
+	  ]
+	}
+		
+

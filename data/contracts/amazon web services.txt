@@ -1,0 +1,3774 @@
+ 
+   
+    
+     
+      
+       
+        
+         
+         menu 
+         
+         
+         click here to return to amazon web services homepage 
+         
+         
+         
+        
+        
+         
+          
+          sign up 
+          
+         
+         
+         my account 
+          
+         
+         
+         english 
+          
+         
+         
+          
+          
+         
+        
+       
+       
+        
+        
+        
+        
+       
+       
+       explore aws solutions and products 
+        
+        
+        
+       
+       
+        
+        deutsch 
+        english 
+        espa&ntilde;ol 
+        fran&ccedil;ais 
+        italiano 
+        portugu&ecirc;s 
+        Ρусский 
+        日本語 
+        한국어 
+        中文 (简体) 
+        中文 (繁體) 
+        
+        
+        
+       
+       
+        
+        my account 
+        aws management console 
+        account settings 
+        billing &amp; cost management 
+        security credentials 
+        aws personal health dashboard 
+        
+        
+        
+       
+       
+        
+         
+          
+          aws &amp; cloud computing 
+          
+          
+          solutions 
+          
+          
+          products 
+          
+          
+          developers 
+          
+          
+          partners 
+          
+          
+          training &amp; resources 
+          
+          
+          documentation 
+          
+          
+          support &amp; services 
+          
+          
+          
+          contact us 
+          
+          
+           
+            
+             
+             
+              
+             
+            
+           
+          
+          
+           
+           
+          
+         
+        
+       
+       
+        
+         
+          aws &amp; cloud computing 
+         
+           introduction to aws 
+          
+          
+          what is cloud computing? 
+          
+          
+          choosing a cloud platform 
+          
+          
+          events &amp; webinars 
+          
+          
+          customer success 
+          
+          
+          global infrastructure 
+          
+         
+           getting started 
+          
+          
+          getting started 
+          
+          
+          aws free tier 
+          
+         
+           news 
+          
+          
+          what's new 
+          
+          
+          aws blog 
+          
+          
+          aws in the news 
+          
+          
+          analyst reports 
+          
+         
+        
+        
+         
+          solutions  
+          
+          websites &amp; web apps 
+          
+          
+          mobile services 
+          
+          
+          backup, storage, &amp; archive 
+          
+          
+          big data &amp; hpc 
+          
+          
+          financial services 
+          
+          
+          game development 
+          
+          
+          digital media 
+          
+          
+          healthcare &amp; life sciences 
+          
+          
+          business apps 
+          
+          
+          
+          start-upsstart-ups use aws for everything their app needs.   
+          
+          
+          enterprisesenterprises use aws to deliver it innovation globally while reducing costs.   
+          
+          
+          government &amp; educationpublic sector organizations use aws to improve agility while reducing costs.  
+          
+         
+        
+        
+         
+          products  
+          
+          compute 
+          
+          
+          storage 
+          
+          
+          databases 
+          
+          
+          migration 
+          
+          
+          networking &amp; content delivery 
+          
+          
+          developer tools 
+          
+          
+          management tools 
+          
+          
+          security, identity &amp; compliance 
+          
+          
+          analytics 
+          
+          
+          artificial intelligence 
+          
+          
+          mobile services 
+          
+          
+          application services 
+          
+          
+          messaging 
+          
+          
+          business productivity 
+          
+          
+          desktop &amp; app streaming 
+          
+          
+          internet of things 
+          
+          
+          game development 
+          
+          
+          aws marketplace software 
+          
+         
+        
+        
+         
+          developers 
+          
+          get startedstart developing on amazon web services using one of our pre-built sample apps.   
+          
+          
+          toolssdks, ide toolkits, command line tools, and developer tools for aws.  
+          
+          
+          devopstooling and infrastructure resources for devops.  
+          
+          
+          forums 
+          
+          
+          user groups 
+          
+          
+          
+          java 
+          
+          
+          javascript 
+          
+          
+          mobile 
+          
+          
+          php 
+          
+          
+          ruby 
+          
+          
+          python 
+          
+          
+          windows &amp; .net 
+          
+         
+        
+        
+         
+          training &amp; resources 
+         
+           training &amp; certification 
+          
+          
+          training 
+          
+          
+          self-paced labs 
+          
+          
+          certification 
+          
+          
+          
+          resource centers 
+          
+         
+           other resources 
+          
+          
+          whitepapers 
+          
+          
+          analyst reports 
+          
+          
+          forums 
+          
+          
+          aws youtube channel 
+          
+          
+          events &amp; webinars 
+          
+         
+        
+        
+         
+          support &amp; services 
+         
+           aws support 
+          
+          
+          aws support information 
+          
+          
+          support center 
+          
+          
+          aws trusted advisor 
+          
+          
+          technical faqs 
+          
+          
+          forums 
+          
+          
+          aws personal health dashboard 
+          
+          
+          service health dashboard 
+          
+          
+          contact us 
+          
+          
+         
+           aws professional services 
+          
+          
+          aws professional services   
+          
+          
+          cloud adoption framework   
+          
+          
+         
+           aws managed services 
+          
+          
+          aws managed services   
+          
+         
+        
+        
+         
+          partners  
+          
+          aws partner networklearn more about the aws partner network and supporting partner programs  
+          
+          
+          
+          find aws partnersfind qualified apn partners to help you with your aws projects   
+          
+          
+          premier consulting partnerslearn more about top apn consulting partners globally  
+          
+          
+          apn partner solutionsfind validated partner solutions that run on or integrate with aws, by key vertical and solution areas.  
+          
+          
+          
+          log in to the apn portaldownload content, access training, and engage with aws through the partner-only aws site  
+          
+          
+          visit the apn blog 
+          
+         
+        
+        
+         
+          documentation  
+          
+          compute 
+          
+          
+          storage 
+          
+          
+          database 
+          
+          
+          networking &amp; content delivery 
+          
+          
+          migration 
+          
+          
+          developer tools 
+          
+          
+          management tools 
+          
+          
+          security, identity &amp; compliance 
+          
+          
+          analytics 
+          
+          
+          artificial intelligence 
+          
+          
+          internet of things 
+          
+          
+          game development 
+          
+          
+          mobile services 
+          
+          
+          application services 
+          
+          
+          messaging 
+          
+          
+          business productivity 
+          
+          
+          desktop &amp; app streaming 
+          
+          
+          sdks &amp; toolkits 
+          
+          
+          additional software &amp; services 
+          
+          
+          aws general reference 
+          
+          
+          aws management console 
+          
+          
+          resources 
+          
+         
+        
+       
+       
+        
+         
+          websites &amp; web apps 
+          
+          websites &amp; website hostingpower web, social, and mobile apps in the cloud  
+          
+          
+          devopstooling and infrastructure resources for devops  
+          
+          
+          ecommerce applicationsbuild secure and scalable online storefronts  
+          
+          
+          digital marketinghighly scalable online advertising and marketing services in the cloud  
+          
+          
+          aws marketplace  
+          
+          
+          wordpress powered by amimoto 
+          
+          
+          movable type 6 
+          
+          
+          drupal powered by bitnami 
+          
+          
+          view all related products (95+) 
+          
+         
+        
+        
+         
+          backup, storage, &amp; archive 
+          
+          backup &amp; recoverystore and retrieve any data, anywhere, any time  
+          
+          
+          data archivearchive your data for long-term retention  
+          
+          
+          disaster recoveryrecover your systems and data quickly from a disaster  
+          
+          
+          aws marketplace  
+          
+          
+          cloud protection manager standard edition 
+          
+          
+          softnas cloud 
+          
+          
+          ontap cloud for aws 
+          
+          
+          view all related products (35+) 
+          
+         
+        
+        
+         
+          big data &amp; hpc 
+          
+          big datastore and process large datasets to solve business problems  
+          
+          
+          high performance computingrun tightly-coupled and io-intensive workloads to solve complex science, engineering and business problems  
+          
+          
+          internet of thingsquickly build connected devices with backend services   
+          
+          
+          aws marketplace  
+          
+          
+          tibco jaspersoft reporting and analytics for aws (hourly) 
+          
+          
+          matillion etl 
+          
+          
+          zoomdata 
+          
+          
+          view more bi solutions 
+          
+         
+        
+        
+         
+          financial services 
+          
+          financial servicescustomer applications, data analytics, storage, compliance, and security in the cloud.  
+          
+          
+          aws marketplace  
+          
+          
+          tibco spotfire 
+          
+          
+          informatica cloud advanced for amazon redshift 
+          
+          
+          view all related products (25+) 
+          
+         
+        
+        
+         
+          game development 
+          
+          game development and operationservices and infrastructure for mobile, web, pc, and console games  
+          
+          
+          amazon for game developerscross-platform building blocks to help you make games  
+          
+          
+          aws marketplace  
+          
+          
+          orbx cloud game console  
+          
+          
+          windows server 2008r2 with nvidia grid gpu driver  
+          
+          
+          red5 media server  
+          
+          
+          view all related products (25+) 
+          
+         
+        
+        
+         
+          digital media 
+          
+          digital mediamedia storage, archiving, processing, and delivery from the cloud  
+          
+          
+          aws marketplace  
+          
+          
+          adobe media server 5 extended 
+          
+          
+          wowza streaming engine 4: pro edition 
+          
+          
+          vantage transcode server 
+          
+          
+          view more media solutions 
+          
+         
+        
+        
+         
+          healthcare &amp; life sciences 
+          
+          healthcaredeliver improved care to patients with reduced time and effort  
+          
+          
+          life sciencesservices and infrastructure to help your company solve complex problems   
+          
+          
+          genomicsaccess powerful computing tools to run genomics workloads  
+          
+          
+          aws marketplace  
+          
+          
+          ncbi blast 
+          
+          
+          view all related products (25+) 
+          
+         
+        
+        
+         
+          business apps 
+          
+          business appsrun business-critical applications in a secure and robust environment  
+          
+          
+          oraclerun your oracle applications on the aws cloud  
+          
+          
+          saprun your sap workloads and applications on aws’s scalable infrastructure  
+          
+          
+          microsoftall of your microsoft applications in the aws cloud  
+          
+          
+          aws marketplace  
+          
+          
+          sap hana one 
+          
+          
+          oddo 
+          
+          
+          microsoft sharepoint foundation 2013 
+          
+          
+          view all related products (845+) 
+          
+         
+        
+        
+         
+          compute  
+          
+          amazon ec2virtual servers in the cloud  
+          
+          
+          amazon ec2 container registrystore and retrieve docker images  
+          
+          
+          amazon ec2 container servicerun and manage docker containers  
+          
+          
+          amazon lightsaillaunch and manage virtual private servers  
+          
+          
+          amazon vpcisolated cloud resources  
+          
+          
+          aws batchrun batch jobs at any scale  
+          
+          
+          aws elastic beanstalkrun and manage web apps  
+          
+          
+          aws lambda run code without thinking about servers  
+          
+          
+          auto scaling 
+          
+          
+          elastic load balancing 
+          
+          
+          aws marketplace  
+          
+          
+          centos 7 
+          
+          
+          debian gnu/linux 8 (jessie) 
+          
+          
+          alces flight 
+          
+          
+          view all related products (1800+) 
+          
+         
+        
+        
+         
+          storage  
+          
+          amazon simple storage service (s3)scalable storage in the cloud  
+          
+          
+          amazon elastic block storage (ebs)ec2 block storage volumes  
+          
+          
+          amazon elastic file system (efs)fully managed file system for ec2  
+          
+          
+          amazon glacierlow-cost archive storage in the cloud  
+          
+          
+          aws storage gatewayhybrid storage integration  
+          
+          
+          aws snowballpetabyte-scale data transport  
+          
+          
+          aws snowball edgepetabyte-scale data transport with on-board compute  
+          
+          
+          aws snowmobileexabyte-scale data transport  
+          
+          
+          aws marketplace  
+          
+          
+          softnas cloud 
+          
+          
+          cloud protection manager standard edition 
+          
+          
+          panzura global nas plus appliance 
+          
+          
+          view more storage solutions 
+          
+         
+        
+        
+         
+          databases  
+          
+          amazon aurorahigh performance managed relational database  
+          
+          
+          amazon rdsmanaged relational database service for mysql, postgresql, oracle, sql server, and mariadb  
+          
+          
+          amazon dynamodbmanaged nosql database  
+          
+          
+          amazon elasticachein-memory caching service  
+          
+          
+          amazon redshiftfast, simple, cost-effective data warehousing  
+          
+          
+          aws database migration servicemigrate databases with minimal downtime  
+          
+          
+          aws marketplace  
+          
+          
+          sap hana one 
+          
+          
+          couchbase 
+          
+          
+          teradata 
+          
+          
+          view more database software 
+          
+         
+        
+        
+         
+          migration  
+          
+          aws discovery servicesdiscover on-premises applications to streamline migration  
+          
+          
+          aws database migration servicemigrate databases with minimal downtime  
+          
+          
+          aws server migration servicemigrate on-premises servers to aws  
+          
+          
+          aws snowballpetabyte-scale data transport  
+          
+          
+          aws snowball edgepetabyte-scale data transport with on-board compute  
+          
+          
+          aws snowmobileexabyte-scale data transport  
+          
+         
+        
+        
+         
+          networking &amp; content delivery  
+          
+          amazon vpcisolated cloud resources   
+          
+          
+          amazon cloudfrontglobal content delivery network  
+          
+          
+          amazon route 53scalable domain name system (dns)  
+          
+          
+          aws direct connectdedicated network connection to aws   
+          
+          
+          elastic load balancing 
+          
+          
+          aws marketplace  
+          
+          
+          cisco cloud services router 
+          
+          
+          brocade 
+          
+          
+          f5 big-ip 
+          
+          
+          view more networking solutions 
+          
+         
+        
+        
+         
+          developer tools  
+          
+          aws codecommitstore code in private git repositories  
+          
+          
+          aws codebuildbuild and test code  
+          
+          
+          aws codedeployautomate code deployments  
+          
+          
+          aws codepipelinerelease software using continuous delivery  
+          
+          
+          aws x-rayanalyze and debug your applications  
+          
+          
+          aws command line interfaceunified tool to manage aws services  
+          
+          
+          aws marketplace  
+          
+          
+          zend server 
+          
+          
+          coldfusion 
+          
+          
+          chef server 
+          
+          
+          view more developer tools 
+          
+         
+        
+        
+         
+          management tools  
+          
+          amazon cloudwatchmonitor resources and applications  
+          
+          
+          amazon ec2 systems managerconfigure and manage ec2 instances and on-premises servers  
+          
+          
+          aws cloudformationcreate and manage resources with templates  
+          
+          
+          aws cloudtrailtrack user activity and api usage  
+          
+          
+          aws configtrack resource inventory and changes  
+          
+          
+          aws opsworksautomate operations with chef  
+          
+          
+          aws service catalogcreate and use standardized products  
+          
+          
+          aws trusted advisoroptimize performance and security  
+          
+          
+          aws personal health dashboardpersonalized view of aws service health  
+          
+          
+          aws command line interfaceunified tool to manage aws services  
+          
+          
+          aws management consoleweb-based user interface  
+          
+          
+          aws managed servicesinfrastructure operations management for aws  
+          
+          
+          aws marketplace  
+          
+          
+          gencore 
+          
+          
+          kurian 
+          
+          
+          kumolus 
+          
+          
+          view all related solutions 
+          
+         
+        
+        
+         
+          security, identity &amp; compliance  
+          
+          aws identity and access management (iam)manage user access and encryption keys  
+          
+          
+          amazon inspectoranalyze application security  
+          
+          
+          aws certificate managerprovision, manage, and deploy ssl/tls certificates  
+          
+          
+          aws cloudhsmhardware-based key storage for regulatory compliance  
+          
+          
+          aws directory servicehost and manage active directory  
+          
+          
+          aws key management servicemanaged creation and control of encryption keys  
+          
+          
+          aws organizationsmanage settings for multiple accounts  
+          
+          
+          aws shieldddos protection  
+          
+          
+          aws waffilter malicious web traffic  
+          
+          
+          aws artifact 
+          
+          
+          aws marketplace  
+          
+          
+          trend micro deep security 
+          
+          
+          barracuda web application firewall 
+          
+          
+          gemalto safenet 
+          
+          
+          view more security solutions 
+          
+         
+        
+        
+         
+          analytics  
+          
+          amazon athenaquery data in s3 using sql  
+          
+          
+          amazon emrhosted hadoop framework   
+          
+          
+          amazon cloudsearchmanaged search service  
+          
+          
+          amazon elasticsearch servicerun and scale elasticsearch clusters  
+          
+          
+          amazon kinesiswork with real-time streaming data  
+          
+          
+          amazon redshiftfast, simple, cost-effective data warehousing  
+          
+          
+          amazon quicksightfast business analytics service  
+          
+          
+          aws data pipelineorchestration service for periodic, data-driven workflows   
+          
+          
+          aws glueprepare and load data  
+          
+          
+          aws marketplace  
+          
+          
+          tibco jaspersoft reporting and analytics for aws (hourly) 
+          
+          
+          attunity cloudbeam for amazon redshift  
+          
+          
+          matillion etl for redshift 
+          
+          
+          view more bi solutions 
+          
+         
+        
+        
+         
+          artificial intelligence  
+          
+          amazon lexbuild voice and text chatbots  
+          
+          
+          amazon pollyturn text into lifelike speech  
+          
+          
+          amazon rekognitionsearch and analyze images  
+          
+          
+          amazon machine learningmachine learning for developers  
+          
+         
+        
+        
+         
+          mobile services  
+          
+          aws mobile hubbuild, test, and monitor mobile apps  
+          
+          
+          amazon api gatewaybuild, deploy, and manage apis   
+          
+          
+          amazon cognitouser identity and app data synchronization  
+          
+          
+          amazon pinpointpush notifications for mobile apps  
+          
+          
+          aws device farmtest android, ios, and web apps on real devices in the aws cloud  
+          
+          
+          aws mobile sdkbuild high quality mobile apps quickly and easily  
+          
+          
+          aws marketplace  
+          
+          
+          bitfusion mobile deep learning 
+          
+          
+          kony mobilefabric 
+          
+          
+          hpe mobile center 
+          
+          
+          view more mobile solutions 
+          
+         
+        
+        
+         
+          mobile services  
+          
+          aws mobile hubbuild, test, and monitor mobile apps  
+          
+          
+          amazon api gatewaybuild, deploy, and manage apis  
+          
+          
+          amazon cognitouser identity and app data synchronization  
+          
+          
+          amazon pinpointpush notifications for mobile apps  
+          
+          
+          aws device farmtest android, ios, and web apps on real devices in the aws cloud  
+          
+          
+          aws mobile sdkbuild high quality mobile apps quickly and easily   
+          
+         
+        
+        
+         
+          application services  
+          
+          aws step functionscoordinate distributed applications  
+          
+          
+          amazon api gatewaybuild, publish and manage apis   
+          
+          
+          amazon elastic transcodereasy-to-use scalable media transcoding  
+          
+          
+          amazon appstreamlow-latency application streaming  
+          
+          
+          aws marketplace  
+          
+          
+          adobe coldfusion 11  
+          
+          
+          nginx  
+          
+          
+          citrix netscaler  
+          
+          
+          view all related products (260+) 
+          
+         
+        
+        
+         
+          messaging  
+          
+          amazon sqsmessage queue service  
+          
+          
+          amazon pinpointpush notifications for mobile apps  
+          
+          
+          amazon sesemail sending and receiving service  
+          
+          
+          amazon snspush notification service   
+          
+         
+        
+        
+         
+          business productivity  
+          
+          amazon workdocssecure enterprise document storage and sharing   
+          
+          
+          amazon workmailsecure email and calendaring  
+          
+         
+        
+        
+         
+          desktop &amp; app streaming  
+          
+          amazon workspacesvirtual desktops in the cloud   
+          
+          
+          amazon appstream 2.0stream desktop applications securely to a browser  
+          
+         
+        
+        
+         
+          internet of things  
+          
+          aws iot platformconnect devices to the cloud  
+          
+          
+          aws greengrasslocal compute, messaging, and sync for devices  
+          
+          
+          aws iot buttoncloud programmable dash button  
+          
+          
+          aws marketplace  
+          
+          
+          sirqul iot platform 
+          
+          
+          opendof iot router 
+          
+          
+          view all related products 
+          
+         
+        
+        
+         
+          game development 
+          
+          amazon lumberyarda free cross-platform 3d game engine, with full source, integrated with aws and twitch  
+          
+         
+        
+        
+         
+          aws marketplace software  
+          
+          infrastructure software (1300+) 
+          
+          
+          application development 
+          
+          
+          application servers 
+          
+          
+          application stacks 
+          
+          
+          big data  
+          
+          
+          databases &amp; caching 
+          
+          
+          network infrastructure 
+          
+          
+          operating systems 
+          
+          
+          security 
+          
+          
+          business software (845+) 
+          
+          
+          business intelligence 
+          
+          
+          collaboration 
+          
+          
+          content management 
+          
+          
+          crm 
+          
+          
+          ecommerce  
+          
+          
+          education &amp; research  
+          
+          
+          financial services 
+          
+          
+          high performance computing 
+          
+          
+          media 
+          
+          
+          project management 
+          
+          
+          storage &amp; backup 
+          
+          
+          developer tools (220+) 
+          
+          
+          issue &amp; bug tracking 
+          
+          
+          monitoring 
+          
+          
+          log analysis 
+          
+          
+          source control 
+          
+          
+          testing 
+          
+         
+        
+        
+         
+          resource center 
+          
+          economics centerfind calculators and other tools to help you lower costs with the aws cloud.   
+          
+          
+          security centerlearn about aws cloud security and how to build secure applications.   
+          
+          
+          compliance centerlearn about the compliance programs on the aws cloud and establishing controls  
+          
+          
+          architecture centerlearn how to build scalable and reliable applications in the aws cloud.   
+          
+          
+          knowledge centerget answers to frequently asked technical support questions.  
+          
+          
+          aws answersget clear guidance from aws architects and engineers on common user questions.  
+          
+         
+        
+        
+         
+          compute 
+          
+          amazon ec2 
+          
+          
+          amazon ecr 
+          
+          
+          amazon ecs 
+          
+          
+          amazon lightsail 
+          
+          
+          amazon vpc 
+          
+          
+          aws elastic beanstalk 
+          
+          
+          aws lambda 
+          
+          
+          auto scaling 
+          
+          
+          elastic load balancing 
+          
+         
+        
+        
+         
+          storage 
+          
+          amazon s3 
+          
+          
+          amazon ebs 
+          
+          
+          amazon efs 
+          
+          
+          amazon glacier 
+          
+          
+          aws snowball 
+          
+          
+          aws storage gateway 
+          
+         
+        
+        
+         
+          database 
+          
+          amazon rds 
+          
+          
+          amazon dynamodb 
+          
+          
+          amazon elasticache 
+          
+          
+          amazon redshift 
+          
+         
+        
+        
+         
+          networking &amp; content delivery 
+          
+          amazon vpc 
+          
+          
+          amazon cloudfront 
+          
+          
+          aws direct connect 
+          
+          
+          elastic load balancing 
+          
+          
+          amazon route 53 
+          
+         
+        
+        
+         
+          migration 
+          
+          aws database migration service 
+          
+          
+          aws server migration service 
+          
+          
+          aws schema conversion tool 
+          
+          
+          aws import/export 
+          
+          
+          aws application discovery service 
+          
+         
+        
+        
+         
+          developer tools 
+          
+          aws codecommit 
+          
+          
+          aws codebuild 
+          
+          
+          aws codedeploy 
+          
+          
+          aws codepipeline 
+          
+          
+          aws x-ray 
+          
+          
+          aws tools &amp; sdks 
+          
+         
+        
+        
+         
+          management tools 
+          
+          amazon cloudwatch 
+          
+          
+          aws cloudformation 
+          
+          
+          aws cloudtrail 
+          
+          
+          aws config 
+          
+          
+          aws opsworks 
+          
+          
+          aws service catalog 
+          
+          
+          aws trusted advisor 
+          
+          
+          aws health 
+          
+          
+          aws management console 
+          
+          
+          aws command line interface 
+          
+          
+          aws tools for powershell 
+          
+         
+        
+        
+         
+          security, identity &amp; compliance 
+          
+          aws identity and access management (iam) 
+          
+          
+          amazon inspector 
+          
+          
+          aws artifact 
+          
+          
+          aws certificate manager 
+          
+          
+          aws directory service 
+          
+          
+          aws cloudhsm 
+          
+          
+          aws kms 
+          
+          
+          aws shield 
+          
+          
+          aws waf 
+          
+         
+        
+        
+         
+          analytics 
+          
+          amazon athena 
+          
+          
+          amazon emr 
+          
+          
+          amazon cloudsearch 
+          
+          
+          amazon elasticsearch service 
+          
+          
+          amazon kinesis 
+          
+          
+          amazon redshift 
+          
+          
+          amazon quicksight 
+          
+          
+          aws data pipeline 
+          
+         
+        
+        
+         
+          artificial intelligence 
+          
+          amazon lex 
+          
+          
+          amazon polly 
+          
+          
+          amazon rekognition 
+          
+          
+          amazon machine learning 
+          
+         
+        
+        
+         
+          internet of things 
+          
+          aws iot 
+          
+         
+        
+        
+         
+          game development 
+          
+          amazon lumberyard 
+          
+          
+          amazon gamelift 
+          
+         
+        
+        
+         
+          mobile services 
+          
+          aws mobile hub 
+          
+          
+          amazon api gateway 
+          
+          
+          amazon cognito 
+          
+          
+          aws device farm 
+          
+          
+          amazon mobile analytics 
+          
+          
+          amazon pinpoint 
+          
+          
+          aws mobile sdk for android 
+          
+          
+          aws mobile sdk for ios 
+          
+          
+          aws mobile sdk for unity 
+          
+          
+          aws mobile sdk for xamarin 
+          
+          
+          amazon sns 
+          
+         
+        
+        
+         
+          application services 
+          
+          amazon api gateway 
+          
+          
+          amazon elastic transcoder 
+          
+          
+          amazon swf 
+          
+          
+          aws step functions 
+          
+         
+        
+        
+         
+          messaging 
+          
+          amazon sns 
+          
+          
+          amazon ses 
+          
+          
+          amazon sqs 
+          
+         
+        
+        
+         
+          business productivity 
+          
+          amazon workdocs 
+          
+          
+          amazon workmail 
+          
+         
+        
+        
+         
+          desktop &amp; app streaming 
+          
+          amazon workspaces 
+          
+          
+          amazon wam 
+          
+          
+          amazon appstream 2.0 
+          
+         
+        
+        
+         
+          sdks &amp; toolkits 
+          
+          aws sdk for c++ 
+          
+          
+          aws sdk for go 
+          
+          
+          aws sdk for java 
+          
+          
+          aws sdk for javascript 
+          
+          
+          aws sdk for .net 
+          
+          
+          aws sdk for php 
+          
+          
+          aws sdk for python (boto) 
+          
+          
+          aws sdk for ruby 
+          
+          
+          aws toolkit for eclipse 
+          
+          
+          aws toolkit for visual studio 
+          
+         
+        
+        
+         
+          additional software &amp; services 
+          
+          aws billing and cost management 
+          
+          
+          aws marketplace 
+          
+          
+          aws support 
+          
+          
+          alexa top sites 
+          
+          
+          alexa web information service 
+          
+          
+          amazon silk 
+          
+          
+          aws govcloud (us) 
+          
+         
+        
+        
+         
+          aws general reference 
+          
+          regions and endpoints 
+          
+          
+          security credentials 
+          
+          
+          arns &amp; service namespaces 
+          
+          
+          service limits 
+          
+          
+          aws glossary 
+          
+         
+        
+        
+         
+          aws management console 
+          
+          resource groups 
+          
+          
+          tag editor 
+          
+         
+        
+        
+         
+          resources 
+          
+          aws quick starts 
+          
+          
+          aws whitepapers 
+          
+          
+          aws training &amp; certification 
+          
+          
+          aws case studies 
+          
+          
+          aws documentation on kindle 
+          
+          
+          aws documentation archive 
+          
+         
+        
+       
+       
+        
+         
+          
+           
+            compute 
+           
+           
+           amazon ec2 
+           amazon ec2 container registry 
+           amazon ec2 container service 
+           amazon lightsail 
+           amazon vpc 
+           aws batch 
+           aws elastic beanstalk 
+           aws lambda 
+           auto scaling 
+           elastic load balancing 
+           
+          
+          
+           
+            storage 
+           
+           
+           amazon simple storage service (s3) 
+           amazon elastic block storage (ebs) 
+           amazon elastic file system (efs) 
+           amazon glacier 
+           aws storage gateway 
+           aws snowball 
+           aws snowball edge 
+           aws snowmobile 
+           
+          
+          
+           
+            database 
+           
+           
+           amazon aurora 
+           amazon rds 
+           amazon dynamodb 
+           amazon elasticache 
+           amazon redshift 
+           aws database migration service 
+           
+          
+         
+         
+          
+           
+            migration 
+           
+           
+           aws discovery services 
+           aws database migration service 
+           aws server migration service 
+           aws snowball 
+           aws snowball edge 
+           aws snowmobile 
+           
+          
+          
+           
+            networking &amp; content delivery 
+           
+           
+           amazon vpc 
+           amazon cloudfront 
+           amazon route 53 
+           aws direct connect 
+           elastic load balancing 
+           
+          
+          
+           
+            developer tools 
+           
+           
+           aws codecommit 
+           aws codebuild 
+           aws codedeploy 
+           aws codepipeline 
+           aws x-ray 
+           aws command line interface 
+           
+          
+          
+           
+            management tools 
+           
+           
+           amazon cloudwatch 
+           amazon ec2 systems manager 
+           aws cloudformation 
+           aws cloudtrail 
+           aws config 
+           aws opsworks 
+           aws service catalog 
+           aws trusted advisor 
+           aws personal health dashboard 
+           aws command line interface 
+           aws management console 
+           aws managed services 
+           
+          
+         
+         
+          
+           
+            security, identity &amp; compliance 
+           
+           
+           aws identity and access management (iam) 
+           amazon inspector 
+           aws certificate manager 
+           aws cloudhsm 
+           aws directory service 
+           aws key management service 
+           aws organizations 
+           aws shield 
+           aws waf 
+           aws artifact 
+           
+          
+          
+           
+            analytics 
+           
+           
+           amazon athena 
+           amazon emr 
+           amazon cloudsearch 
+           amazon elasticsearch service 
+           amazon kinesis 
+           amazon redshift 
+           amazon quicksight 
+           aws data pipeline 
+           aws glue 
+           
+          
+          
+           
+            artificial intelligence 
+           
+           
+           amazon lex 
+           amazon polly 
+           amazon rekognition 
+           amazon machine learning 
+           
+          
+          
+           
+            mobile services 
+           
+           
+           aws mobile hub 
+           amazon api gateway 
+           amazon cognito 
+           amazon pinpoint 
+           aws device farm 
+           aws mobile sdk 
+           
+          
+         
+         
+          
+           
+            application services 
+           
+           
+           aws step functions 
+           amazon api gateway 
+           amazon elastic transcoder 
+           amazon appstream 
+           
+          
+          
+           
+            messaging 
+           
+           
+           amazon sqs 
+           amazon pinpoint 
+           amazon ses 
+           amazon sns 
+           
+          
+          
+           
+            business productivity 
+           
+           
+           amazon workdocs 
+           amazon workmail 
+           
+          
+          
+           
+            desktop &amp; app streaming 
+           
+           
+           amazon workspaces 
+           amazon appstream 2.0 
+           
+          
+          
+           
+            software 
+           
+           
+           aws marketplace 
+           
+          
+          
+           
+            internet of things 
+           
+           
+           aws iot platform 
+           aws greengrass 
+           aws iot button 
+           
+          
+          
+          
+            game development 
+           
+           
+           amazon lumberyard 
+           
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+          click here to return to amazon web services homepage 
+          
+          
+           
+           
+          
+         
+        
+        
+         
+          
+           
+           
+            
+           
+          
+         
+        
+        
+         
+          
+          aws &amp; cloud computing 
+           
+            
+            what is cloud computing 
+            
+            
+            choosing a cloud platform 
+            
+            
+            events &amp; webinars 
+            
+            
+            customer success 
+            
+            
+            global infrastructure 
+            
+            
+            getting started 
+            
+            
+            aws free tier 
+            
+            
+            what's new 
+            
+            
+            aws blog 
+            
+            
+            aws in the news 
+            
+            
+            analyst reports 
+            
+           
+          
+          
+          solutions 
+           
+            
+            websites &amp; web apps 
+             
+              
+              websites &amp; website hosting 
+              
+              
+              development and test 
+              
+              
+              ecommerce applications 
+              
+              
+              mobile services 
+              
+              
+              digital marketing 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            backup, storage, &amp; archive 
+             
+              
+              backup &amp; recovery 
+              
+              
+              data archive 
+              
+              
+              disaster recovery 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            big data &amp; hpc 
+             
+              
+              big data 
+              
+              
+              high performance computing 
+              
+              
+              internet of things 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            financial services 
+            
+            
+            game development 
+             
+              
+              game development and operation 
+              
+              
+              amazon for game developers 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            digital media 
+             
+              
+              digital media 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            healthcare &amp; life sciences 
+             
+              
+              healthcare 
+              
+              
+              life sciences 
+              
+              
+              genomics 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            business apps 
+             
+              
+              business apps 
+              
+              
+              oracle 
+              
+              
+              sap 
+              
+              
+              microsoft 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            enterprise 
+            
+            
+            start-ups 
+            
+            
+            public sector 
+            
+           
+          
+          
+          products 
+           
+            
+            compute 
+             
+              
+              amazon ec2 
+              
+              
+              amazon ec2 container registry 
+              
+              
+              amazon ec2 container service 
+              
+              
+              amazon lightsail 
+              
+              
+              amazon vpc 
+              
+              
+              aws batch 
+              
+              
+              aws elastic beanstalk 
+              
+              
+              aws lambda 
+              
+              
+              auto scaling 
+              
+              
+              elastic load balancing 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            storage 
+             
+              
+              amazon simple storage service (s3) 
+              
+              
+              amazon elastic block storage (ebs) 
+              
+              
+              amazon elastic file system (efs) 
+              
+              
+              amazon glacier 
+              
+              
+              aws storage gateway 
+              
+              
+              aws snowball 
+              
+              
+              aws snowball edge 
+              
+              
+              aws snowmobile 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            databases 
+             
+              
+              amazon aurora 
+              
+              
+              amazon rds 
+              
+              
+              amazon dynamodb 
+              
+              
+              amazon elasticache 
+              
+              
+              amazon redshift 
+              
+              
+              aws database migration service 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            migration 
+             
+              
+              aws discovery services 
+              
+              
+              aws database migration service 
+              
+              
+              aws server migration service 
+              
+              
+              aws snowball 
+              
+              
+              aws snowball edge 
+              
+              
+              aws snowmobile 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            networking &amp; content delivery 
+             
+              
+              amazon vpc 
+              
+              
+              amazon cloudfront 
+              
+              
+              amazon route 53 
+              
+              
+              aws direct connect 
+              
+              
+              elastic load balancing 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            developer tools 
+             
+              
+              aws codecommit 
+              
+              
+              aws codebuild 
+              
+              
+              aws codedeploy 
+              
+              
+              aws codepipeline 
+              
+              
+              aws x-ray 
+              
+              
+              aws command line interface 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            management tools 
+             
+              
+              amazon cloudwatch 
+              
+              
+              amazon ec2 systems manager 
+              
+              
+              aws cloudformation 
+              
+              
+              aws cloudtrail 
+              
+              
+              aws config 
+              
+              
+              aws opsworks 
+              
+              
+              aws service catalog 
+              
+              
+              aws trusted advisor 
+              
+              
+              aws personal health dashboard 
+              
+              
+              aws command line interface 
+              
+              
+              aws management console 
+              
+              
+              aws managed services 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            security, identity &amp; compliance 
+             
+              
+              aws identity and access management (iam) 
+              
+              
+              amazon inspector 
+              
+              
+              aws certificate manager 
+              
+              
+              aws cloudhsm 
+              
+              
+              aws directory service 
+              
+              
+              aws key management service 
+              
+              
+              aws organizations 
+              
+              
+              aws shield 
+              
+              
+              aws waf 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            analytics 
+             
+              
+              amazon athena 
+              
+              
+              amazon emr 
+              
+              
+              amazon cloudsearch 
+              
+              
+              amazon elasticsearch service 
+              
+              
+              amazon kinesis 
+              
+              
+              amazon redshift 
+              
+              
+              amazon quicksight 
+              
+              
+              aws data pipeline 
+              
+              
+              aws glue 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            artificial intelligence 
+             
+              
+              amazon lex 
+              
+              
+              amazon polly 
+              
+              
+              amazon rekognition 
+              
+              
+              amazon machine learning 
+              
+             
+            
+            
+            mobile 
+             
+              
+              aws mobile hub 
+              
+              
+              amazon api gateway 
+              
+              
+              amazon cognito 
+              
+              
+              amazon pinpoint 
+              
+              
+              aws device farm 
+              
+              
+              aws mobile sdk 
+              
+             
+            
+            
+            application services 
+             
+              
+              aws step functions 
+              
+              
+              amazon api gateway 
+              
+              
+              amazon elastic transcoder 
+              
+              
+              amazon appstream 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            messaging 
+             
+              
+              amazon sqs 
+              
+              
+              amazon pinpoint 
+              
+              
+              amazon ses 
+              
+              
+              amazon sns 
+              
+              
+              aws marketplace 
+              
+             
+            
+            
+            business productivity 
+             
+              
+              amazon workdocs 
+              
+              
+              amazon workmail 
+              
+             
+            
+            
+            desktop &amp; app streaming 
+             
+              
+              amazon workspaces 
+              
+              
+              amazon appstream 2.0 
+              
+             
+            
+            
+            internet of things 
+             
+              
+              aws iot platform 
+              
+              
+              aws greengrass 
+              
+              
+              aws iot button 
+              
+             
+            
+            
+            game development 
+             
+              
+              amazon lumberyard 
+              
+             
+            
+            
+            aws marketplace software 
+             
+              
+              infrastructure software (1300+) 
+              
+              
+              business software (845+) 
+              
+              
+              developer tools (220+) 
+              
+             
+            
+           
+          
+          
+          developers 
+           
+            
+            get started 
+            
+            
+            tools 
+            
+            
+            devops 
+            
+            
+            forums 
+            
+            
+            java 
+            
+            
+            javascript 
+            
+            
+            mobile 
+            
+            
+            php 
+            
+            
+            ruby 
+            
+            
+            python 
+            
+            
+            windows &amp; .net 
+            
+           
+          
+          
+          training &amp; resources 
+           
+            
+            training 
+            
+            
+            self-paced labs 
+            
+            
+            certification 
+            
+            
+            economics center 
+            
+            
+            security center 
+            
+            
+            architecture center 
+            
+            
+            knowledge center 
+            
+            
+            whitepapers 
+            
+            
+            aws answers 
+            
+            
+            analyst reports 
+            
+            
+            forums 
+            
+            
+            aws youtube channel 
+            
+            
+            events &amp; webinars 
+            
+           
+          
+          
+          documentation 
+           
+            
+            compute 
+             
+              
+              amazon ec2 
+              
+              
+              amazon ecr 
+              
+              
+              amazon ecs 
+              
+              
+              amazon lightsail 
+              
+              
+              amazon vpc 
+              
+              
+              aws elastic beanstalk 
+              
+              
+              aws lambda 
+              
+              
+              auto scaling 
+              
+              
+              elastic load balancing 
+              
+             
+            
+            
+            storage 
+             
+              
+              amazon s3 
+              
+              
+              amazon ebs 
+              
+              
+              amazon efs 
+              
+              
+              amazon glacier 
+              
+              
+              aws snowball 
+              
+              
+              aws storage gateway 
+              
+             
+            
+            
+            databases 
+             
+              
+              amazon rds 
+              
+              
+              amazon dynamodb 
+              
+              
+              amazon elasticache 
+              
+              
+              amazon redshift 
+              
+             
+            
+            
+            networking &amp; content delivery 
+             
+              
+              amazon vpc 
+              
+              
+              amazon cloudfront 
+              
+              
+              aws direct connect 
+              
+              
+              elastic load balancing 
+              
+              
+              amazon route 53 
+              
+             
+            
+            
+            migration 
+             
+              
+              aws database migration service 
+              
+              
+              aws server migration service 
+              
+              
+              aws schema conversion tool 
+              
+              
+              aws import/export 
+              
+              
+              aws application discovery service 
+              
+             
+            
+            
+            developer tools 
+             
+              
+              aws codecommit 
+              
+              
+              aws codebuild 
+              
+              
+              aws codedeploy 
+              
+              
+              aws codepipeline 
+              
+              
+              aws x-ray 
+              
+              
+              aws tools &amp; sdks 
+              
+             
+            
+            
+            management tools 
+             
+              
+              amazon cloudwatch 
+              
+              
+              aws cloudformation 
+              
+              
+              aws cloudtrail 
+              
+              
+              aws config 
+              
+              
+              aws opsworks 
+              
+              
+              aws service catalog 
+              
+              
+              trusted advisor 
+              
+              
+              aws health 
+              
+              
+              aws management console 
+              
+              
+              aws command line interface 
+              
+              
+              aws tools for powershell 
+              
+             
+            
+            
+            security, identity &amp; compliance 
+             
+              
+              aws identity and access management (iam) 
+              
+              
+              amazon inspector 
+              
+              
+              aws artifact 
+              
+              
+              aws certificate manager 
+              
+              
+              aws directory service 
+              
+              
+              aws cloudhsm 
+              
+              
+              aws kms 
+              
+              
+              aws shield 
+              
+              
+              aws waf 
+              
+             
+            
+            
+            analytics 
+             
+              
+              amazon athena 
+              
+              
+              amazon emr 
+              
+              
+              amazon cloudsearch 
+              
+              
+              amazon elasticsearch service 
+              
+              
+              amazon kinesis 
+              
+              
+              amazon redshift 
+              
+              
+              amazon quicksight 
+              
+              
+              aws data pipeline 
+              
+             
+            
+            
+            artificial intelligence 
+             
+              
+              amazon lex 
+              
+              
+              amazon polly 
+              
+              
+              aws rekognition 
+              
+              
+              amazon machine learning 
+              
+             
+            
+            
+            internet of things 
+             
+              
+              aws iot 
+              
+             
+            
+            
+            game development 
+             
+              
+              amazon lumberyard 
+              
+              
+              amazon gamelift 
+              
+             
+            
+            
+            mobile services 
+             
+              
+              aws mobile hub 
+              
+              
+              amazon api gateway 
+              
+              
+              amazon cognito 
+              
+              
+              aws device farm 
+              
+              
+              amazon mobile analytics 
+              
+              
+              amazon pinpoint 
+              
+              
+              aws mobile sdk for android 
+              
+              
+              aws mobile sdk for ios 
+              
+              
+              aws mobile sdk for unity 
+              
+              
+              aws mobile sdk for xamarin 
+              
+              
+              amazon sns 
+              
+             
+            
+            
+            application services 
+             
+              
+              amazon api gateway 
+              
+              
+              amazon elastic transcoder 
+              
+              
+              amazon swf 
+              
+              
+              aws step functions 
+              
+             
+            
+            
+            messaging 
+             
+              
+              amazon sns 
+              
+              
+              amazon ses 
+              
+              
+              amazon sqs 
+              
+             
+            
+            
+            business productivity 
+             
+              
+              amazon workdocs 
+              
+              
+              amazon workmail 
+              
+             
+            
+            
+            desktop &amp; app streaming 
+             
+              
+              amazon workspaces 
+              
+              
+              amazon wam 
+              
+              
+              amazon appstream 2.0 
+              
+             
+            
+            
+            sdks &amp; toolkits 
+             
+              
+              aws sdk for c++ 
+              
+              
+              aws sdk for go 
+              
+              
+              aws sdk for java 
+              
+              
+              aws sdk for javascript 
+              
+              
+              aws sdk for .net 
+              
+              
+              aws sdk for php 
+              
+              
+              aws sdk for python (boto) 
+              
+              
+              aws sdk for ruby 
+              
+              
+              aws toolkit for eclipse 
+              
+              
+              aws toolkit for visual studio 
+              
+             
+            
+            
+            additional software &amp; services 
+             
+              
+              aws billing and cost management 
+              
+              
+              aws marketplace 
+              
+              
+              aws support 
+              
+              
+              alexa top sites 
+              
+              
+              alexa web information service 
+              
+              
+              amazon silk 
+              
+              
+              aws govcloud (us) 
+              
+             
+            
+            
+            aws general reference 
+             
+              
+              regions and endpoints 
+              
+              
+              security credentials 
+              
+              
+              arns &amp; service namespaces 
+              
+              
+              service limits 
+              
+              
+              aws glossary 
+              
+             
+            
+            
+            aws management console 
+             
+              
+              resource groups 
+              
+              
+              tag editor 
+              
+             
+            
+            
+            resources 
+             
+              
+              aws quick starts 
+              
+              
+              aws whitepapers 
+              
+              
+              aws training &amp; certification 
+              
+              
+              aws case studies 
+              
+              
+              aws documentation on kindle 
+              
+              
+              aws documentation archive 
+              
+             
+            
+           
+          
+          
+          support 
+           
+            
+            aws support information 
+            
+            
+            support center 
+            
+            
+            aws trusted advisor 
+            
+            
+            technical faqs 
+            
+            
+            forums 
+            
+            
+            service health dashboard 
+            
+            
+            aws personal health dashboard 
+            
+            
+            aws managed services 
+            
+            
+            contact us 
+            
+           
+          
+          
+          partners 
+           
+            
+            aws partner network 
+            
+            
+            find aws partners 
+            
+            
+            premier consulting partners 
+            
+            
+            apn competency partners 
+            
+            
+            apn partner solutions 
+            
+            
+            login to the apn portal 
+            
+           
+          
+          
+          contact us 
+          
+          
+          sign in to the console 
+          
+          
+          download the mobile app 
+          
+         
+        
+       
+      
+     
+    
+   
+   
+    
+     
+      
+       
+        
+         
+          
+           
+            
+             
+             
+               amazon web services 
+              
+            
+           legal 
+           
+           
+            
+           
+          
+          
+            aws site terms    
+          
+         
+  require(["jquery", "scripts"], function($) {
+    $.awscomponent.leftsidebar();
+  });
+ 
+         
+        
+        
+         
+        
+        
+         
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+            aws site terms  
+          
+         
+        
+        
+         
+         
+        
+        
+         
+          
+          
+           
+            
+             
+             last updated: december 23, 2011. 
+              welcome to the amazon web services site (the “aws site”). amazon web services, inc. and/or its affiliates (“aws”) provides the aws site to you subject to the following terms of use (“site terms”). by visiting the aws site, you accept the site terms. please read them carefully. in addition, when you use any current or future aws services, content or other materials, you also will be subject to the aws customer agreement or other agreement governing your use of our services (the “agreement”).  
+             
+            
+            
+             
+              
+                privacy   
+              
+             
+             
+             please review our privacy policy, which also governs your visit to the aws site, to understand our practices.  
+             
+             
+              
+                electronic communications   
+              
+             
+             
+             when you visit the aws site or send e-mails to us, you are communicating with us electronically. you consent to receive communications from us electronically. we will communicate with you by e-mail or by posting notices on the aws site. you agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.  
+             
+             
+              
+                copyright   
+              
+             
+             
+             all content included on the aws site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the property of aws or its content suppliers and protected by united states and international copyright laws. the compilation of all content on the aws site is the exclusive property of aws and protected by u.s. and international copyright laws. all software used on the aws site is the property of aws or its software suppliers and protected by united states and international copyright laws.  
+             
+             
+              
+                trademarks   
+              
+             
+             
+             “amazon web services”, “aws”, “amazon ec2”, “ec2”, “amazon elastic compute cloud”, “amazon virtual private cloud”, “amazon vpc”, “amazon simpledb”, “simpledb”, “amazon s3”, “amazon simple storage service”, “amazon cloudfront”, “cloudfront”, “amazon sqs”, “sqs”, “amazon simple queue service”, “amazon simple email service”, “amazon elastic beanstalk”, “amazon simple notification service”, “amazon route 53”, “amazon rds”, “amazon relational database”, “amazon cloudwatch”, “aws premium support”, “aws import/export”, “amazon fps”, “amazon flexible payments service”, “amazon devpay”, “devpay”, “amazon mechanical turk”, “mechanical turk”, “alexa web search”, “alexa web information service”, “alexa top sites”, “alexa site thumbnail”, “amazon fws”, “amazon fulfillment web service”, “amazon associates web service”, and other aws graphics, logos, page headers, button icons, scripts, and service names are trademarks, registered trademarks or trade dress of aws in the u.s. and/or other countries. aws’s trademarks and trade dress may not be used in connection with any product or service that is not aws’s, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits aws. all other trademarks not owned by aws that appear on this site are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by aws.  
+             
+             
+              
+                patents   
+              
+             
+             
+             one or more patents owned by amazon.com, inc. or its affiliates may apply to the aws site and to the features and services accessible via the aws site. portions of the aws site may operate under license of one or more patents. click here to see a non-exhaustive list of applicable amazon patents and applicable licensed patents.&nbsp;  
+             
+             
+              
+                license and site access   
+              
+             
+             
+             aws grants you a limited license to access and make personal use of the aws site and not to download (other than page caching) or modify it, or any portion of it, except with express written consent of aws. this license does not include any resale or commercial use of the aws site or its contents; any derivative use of the aws site or its contents; any downloading or copying of account information; or any use of data mining, robots, or similar data gathering and extraction tools. unless otherwise specified by aws in a separate license, your right to use any software, data, documentation or other materials that you access or download through the aws site is subject to these site terms or, if you have an aws account, the agreement. 
+              the aws site or any portion of the aws site may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without express written consent of aws. you may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of aws without express written consent. you may not use any meta tags or any other “hidden text” utilizing aws’s name or trademarks without the express written consent of aws. any unauthorized use terminates the permission or license granted by aws. you are granted a limited, revocable, and nonexclusive right to create a hyperlink to the home page of the aws site, so long as the link does not portray aws, or its products or services in a false, misleading, derogatory, or otherwise offensive matter. you may not use any aws logo or other proprietary graphic or trademark as part of the link without express written permission.  
+             
+             
+              
+                your account   
+              
+             
+             
+             if you use the aws site, you are responsible for maintaining the confidentiality of your aws account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. aws reserves the right to refuse service, terminate accounts, remove or edit content in its sole discretion.  
+             
+             
+              
+                reviews, comments, communications, and other content   
+              
+             
+             
+             visitors may post reviews, comments and other content; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or otherwise injurious to third parties or objectionable and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of “spam.” you may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of a card or other content. aws reserves the right (but not the obligation) to remove or edit such content, but does not regularly review posted content. if you do post content or submit material, and unless we indicate otherwise, you grant aws a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media. you grant aws and sublicensees the right to use the name that you submit in connection with such content, if they choose. 
+              you and third parties may be permitted to upload certain software (including machine images), data, text, audio, video, images or other content (“third party content”) to community areas of the aws site. you acknowledge that (a) aws has not tested or screened third party content, (b) you use any third party content is at your sole risk, and&copy; third party content may be subject to separate license terms as determined by the person posting such content. 
+              you represent and warrant that you own or otherwise control all of the rights to the content, including any third party content, that you post; that the content is accurate; that use of the content you supply does not violate this policy and will not cause injury to any person or entity; and that you will indemnify aws for all claims resulting from content you supply. aws has the right but not the obligation to monitor and edit or remove any activity or content. aws takes no responsibility and assumes no liability for any content posted by you or any third party.  
+             
+             
+              
+                copyright complaints   
+              
+             
+             
+             aws respects the intellectual property of others. if you believe that your work has been copied in a way that constitutes copyright infringement, please follow our notice and procedure for making claims of copyright infringement.  
+             
+             
+              
+                disclaimer of warranties and limitation of liability   
+              
+             
+             
+             the aws site and all information, content, materials, products (including any software) and services included on or otherwise made available to you through this site are provided by aws on an “as is” and “as available” basis, unless otherwise specified in the agreement. aws makes no representations or warranties of any kind, express or implied, as to the operation of this site or the information, content, materials, products (including any software) or services included on or otherwise made available to you through the aws site, unless otherwise specified in writing. you expressly agree that your use of this site is at your sole risk. to the full extent permissible by applicable law, aws disclaims all warranties, express or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose. aws does not warrant that this site; information, content, materials, products (including any software) or services included on or otherwise made available to you through the aws site; its servers; or e-mail sent from aws are free of viruses or other harmful components. aws will not be liable for any damages of any kind arising from the use of the aws site or from any information, content, materials, products (including software) or services included on or otherwise made available to you through the aws site, including, but not limited to direct, indirect, incidental, punitive, and consequential damages, unless otherwise specified in the agreement. certain state laws do not allow limitations on implied warranties or the exclusion or limitation of certain damages. if these laws apply to you, some or all of the above disclaimers, exclusions, or limitations may not apply to you, and you might have additional rights.  
+             
+             
+              
+                applicable law   
+              
+             
+             
+             by visiting the aws site, you agree that the laws of the state of washington, without regard to principles of conflict of laws, will govern these site terms and any dispute of any sort that might arise between you and aws.  
+             
+             
+              
+                disputes   
+              
+             
+             
+             any dispute relating in any way to your visit to the aws site or to services provided by aws or through the aws site in which the aggregate total claim for relief sought on behalf of one or more parties exceeds $7,500 shall be adjudicated in any state or federal court in king county, washington, and you consent to exclusive jurisdiction and venue in such courts.  
+             
+             
+              
+                site policies, modification, and severability   
+              
+             
+             
+             please review our other policies on the aws site. these policies also govern your visit to the aws site. we reserve the right to make changes to the aws site, policies, and these site terms at any time. if any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.  
+             
+             
+              
+                our address   
+              
+             
+             
+             amazon web services, inc.  p.o. box 81226  seattle, wa 98108-1226  http://aws.amazon.com  
+             
+             
+              
+               notice and procedure for making claims of copyright infringement  
+              
+             
+             
+             if you believe that your work has been copied in a way that constitutes copyright infringement, please provide our copyright agent the written information specified below. please note that this procedure is exclusively for notifying aws that your copyrighted material has been infringed. 
+              
+              an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; 
+              a description of the copyrighted work that you claim has been infringed upon; 
+              a description of where the material that you claim is infringing is located on the site; 
+              your address, telephone number, and e-mail address; 
+              a statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; 
+              a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf. 
+              
+              aws’s copyright agent for notice of claims of copyright infringement can be reached as follows: 
+             copyright agent/amazon web services amazon.com legal department p.o. box 81226 seattle, wa 98108 phone: (206) 266-4064 fax: (206) 266-7010 e-mail: copyright@amazon.com 
+             courier address: copyright agent/amazon web services amazon.com legal department 410 terry avenue north seattle, wa 98109-5210 usa  
+             
+             
+            
+            
+            
+          
+           
+           
+          
+         
+        
+       
+      
+     
+    
+   
+   
+    
+     
+      
+      create a free account 
+      
+     
+     
+      
+       &nbsp;aws on twitter 
+       &nbsp;aws on facebook 
+       &nbsp;aws on google+ 
+       &nbsp;aws blog 
+       &nbsp;what's new? rss 
+      
+     
+    
+    
+     
+      
+       
+       
+         aws &amp; cloud computing 
+        
+        
+        what is cloud computing? 
+        products &amp; services 
+        customer success 
+        economics center 
+        architecture center 
+        security center 
+        what's new 
+        whitepapers 
+        aws blog 
+        events 
+        sustainable energy 
+        press releases 
+        aws in the news 
+        analyst reports 
+        legal 
+        
+       
+       
+       
+         solutions 
+        
+        
+        websites &amp; website hosting 
+        business applications 
+        backup &amp; recovery 
+        disaster recovery 
+        data archive 
+        devops 
+        big data 
+        high performance computing 
+        mobile services 
+        digital marketing 
+        game development 
+        digital media 
+        government &amp; education 
+        health 
+        financial services 
+        windows on aws 
+        
+       
+       
+       
+         resources &amp; training 
+        
+        
+        developers 
+        java on aws 
+        javascript on aws 
+        mobile on aws 
+        php on aws 
+        python on aws 
+        ruby on aws 
+        windows &amp; .net on aws 
+        sdks &amp; tools 
+        aws marketplace 
+        user groups 
+        support plans 
+        service health dashboard 
+        discussion forums 
+        faqs 
+        documentation 
+        articles &amp; tutorials 
+        test drives 
+        aws business builder 
+        
+       
+       
+       
+         manage your account 
+        
+        
+        management console 
+        billing &amp; cost management 
+        subscribe to updates 
+        personal information 
+        payment method 
+        aws identity &amp; access management 
+        security credentials 
+        request service limit increases 
+        contact us 
+        
+       
+      
+     
+     
+      
+       
+       amazon web services is hiring. 
+       amazon web services (aws) is a dynamic, growing business unit within amazon.com. we are currently hiring software development engineers, product managers, account managers, solutions architects, support engineers, system engineers, designers and more. visit our careers page or our developer-specific careers page to learn more. 
+        
+       amazon web services is an equal opportunity employer. 
+        
+        
+       
+      
+      
+      an amazon.com company 
+      
+      
+      
+    require(['scripts'], function() {
+      $.awscomponent.trackingpixel({
+        src: '\/\/googleads.g.doubleclick.net\/pagead\/viewthroughconversion\/952612511\/?guid=on&script=0',
+        remove: true
+      });
+    });
+   
+      
+     
+    
+    
+     
+      
+      language 
+      deutsch 
+      english 
+      espa&ntilde;ol 
+      fran&ccedil;ais 
+      italiano 
+      portugu&ecirc;s 
+      Ρусский 
+      日本語 
+      한국어 
+      中文 (简体) 
+      中文 (繁體) 
+      
+      
+      
+     
+    
+    
+     
+      
+      site terms 
+      | 
+      privacy 
+      
+     
+     
+     
+       &copy; 2017, amazon web services, inc. or its affiliates. all rights reserved. 
+      
+     
+    
+   
+   
+  require(['jquery', 'scripts']); 
+   
+   
+   
+  =0)document.write(unescape('%3c')+'\!-'+'-')
+//--> 
+   
+    
+   
+   
+   
+    
+ 

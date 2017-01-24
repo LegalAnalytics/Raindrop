@@ -1,0 +1,126 @@
+
+  zoho
+   sign up for zoho sign in 
+
+
+  
+    
+      terms of service
+       updated on: 19th march 2015.
+      effective date: 19th april 2015.
+      
+      
+      
+      this is an agreement between you or the entity that you represent (hereinafter “you” or “your”) and zoho corporation (hereinafter “zoho”) governing your use of zoho suite of online business productivity and collaboration software.
+      
+        parts of this agreement
+        this agreement consists of the following terms and conditions (hereinafter the “general terms”) and terms and conditions, if any, specific to use of individual services (hereinafter the “service specific terms”). the general terms and service specific terms are collectively referred to as the “terms”. in the event of a conflict between the general terms and service specific terms, the service specific terms shall prevail.
+      
+      
+        acceptance of the terms
+        you must be of legal age to enter into a binding agreement in order to accept the terms. if you do not agree to the general terms, do not use any of our services. if you agree to the general terms and do not agree to any service specific terms, do not use the corresponding service. you can accept the terms by checking a checkbox or clicking on a button indicating your acceptance of the terms or by actually using the services.
+      
+      
+        description of service
+        we provide an array of services for online collaboration and management including word processor, spreadsheet, presentation tool, database application creator, email client, chat client, organizer, customer relationship management application and project management application ("service" or "services"). you may use the services for your personal and business use or for internal business purpose in the organization that you represent. you may connect to the services using any internet browser supported by the services. you are responsible for obtaining access to the internet and the equipment necessary to use the services. you can create and edit content with your user account and if you choose to do so, you can publish and share such content.
+      
+      
+        subscription to beta service
+        we may offer certain services as closed or open beta services ("beta service" or “beta services”) for the purpose of testing and evaluation. you agree that we have the sole authority and discretion to determine the period of time for testing and evaluation of beta services. we will be the sole judge of the success of such testing and the decision, if any, to offer the beta services as commercial services. you will be under no obligation to acquire a subscription to use any paid service as a result of your subscription to any beta service. we reserve the right to fully or partially discontinue, at any time and from time to time, temporarily or permanently, any of the beta services with or without notice to you. you agree that zoho will not be liable to you or to any third party for any harm related to, arising out of, or caused by the modification, suspension or discontinuance of any of the beta services for any reason.
+      
+      
+        modification of terms of service
+        we may modify the terms upon notice to you at any time through a service announcement or by sending email to your primary email address. if we make significant changes to the terms that affect your rights, you will be provided with at least 30 days advance notice of the changes by email to your primary email address. you may terminate your use of the services by providing zoho notice by email within 30 days of being notified of the availability of the modified terms if the terms are modified in a manner that substantially affects your rights in connection with use of the services. in the event of such termination, you will be entitled to prorated refund of the unused portion of any prepaid fees. your continued use of the service after the effective date of any change to the terms will be deemed to be your agreement to the modified terms.
+      
+      
+        user sign up obligations
+        you need to sign up for a user account by providing all required information in order to access or use the services. if you represent an organization and wish to use the services for corporate internal use, we recommend that you, and all other users from your organization, sign up for user accounts by providing your corporate contact information. in particular, we recommend that you use your corporate email address. you agree to: a) provide true, accurate, current and complete information about yourself as prompted by the sign up process; and b) maintain and promptly update the information provided during sign up to keep it true, accurate, current, and complete. if you provide any information that is untrue, inaccurate, outdated, or incomplete, or if zoho has reasonable grounds to suspect that such information is untrue, inaccurate, outdated, or incomplete, zoho may terminate your user account and refuse current or future use of any or all of the services.
+      
+      
+        organization accounts and administrators 
+        when you sign up for an account for your organization you may specify one or more administrators. the administrators will have the right to configure the services based on your requirements and manage end users in your organization account. if your organization account is created and configured on your behalf by a third party, it is likely that such third party has assumed administrator role for your organization. make sure that you enter into a suitable agreement with such third party specifying such party’s roles and restrictions as an administrator of your organization account.
+        you are responsible for i) ensuring confidentiality of your organization account password, ii) appointing competent individuals as administrators for managing your organization account, and iii) ensuring that all activities that occur in connection with your organization account comply with this agreement. you understand that zoho is not responsible for account administration and internal management of the services for you.
+        you are responsible for taking necessary steps for ensuring that your organization does not lose control of the administrator accounts. you may specify a process to be followed for recovering control in the event of such loss of control of the administrator accounts by sending an email to &#108;&#101;&#103;&#097;&#108;&#064;&#122;&#111;&#104;&#111;&#099;&#111;&#114;&#112;&#046;&#099;&#111;&#109;, provided that the process is acceptable to zoho. in the absence of any specified administrator account recovery process, zoho may provide control of an administrator account to an individual providing proof satisfactory to zoho demonstrating authorization to act on behalf of the organization. you agree not to hold zoho liable for the consequences of any action taken by zoho in good faith in this regard. 
+      
+      
+        personal information and privacy
+        personal information you provide to zoho through the service is governed by zoho privacy policy. your election to use the service indicates your acceptance of the terms of the zoho privacy policy. you are responsible for maintaining confidentiality of your username, password and other sensitive information. you are responsible for all activities that occur in your user account and you agree to inform us immediately of any unauthorized use of your user account by email to &#097;&#099;&#099;&#111;&#117;&#110;&#116;&#115;&#064;&#122;&#111;&#104;&#111;&#099;&#111;&#114;&#112;&#046;&#099;&#111;&#109; or by calling us on any of the numbers listed on https://www.zoho.com/contact.html. we are not responsible for any loss or damage to you or to any third party incurred as a result of any unauthorized access and/or use of your user account, or otherwise.
+      
+      
+        communications from zoho
+        the service may include certain communications from zoho, such as service announcements, administrative messages and newsletters. you understand that these communications shall be considered part of using the services. as part of our policy to provide you total privacy, we also provide you the option of opting out from receiving newsletters from us. however, you will not be able to opt-out from receiving service announcements and administrative messages.
+      
+      
+        complaints
+        if we receive a complaint from any person against you with respect to your activities as part of use of the services, we will forward the complaint to the primary email address of your user account. you must respond to the complainant directly within 10 days of receiving the complaint forwarded by us and copy zoho in the communication. if you do not respond to the complainant within 10 days from the date of our email to you, we may disclose your name and contact information to the complainant for enabling the complainant to take legal action against you. you understand that your failure to respond to the forwarded complaint within the 10 days’ time limit will be construed as your consent to disclosure of your name and contact information by zoho to the complainant.
+      
+      
+        fees and payments
+        the services are available under subscription plans of various durations. payments for subscription plans of duration of less than a year can be made only by credit card. your subscription will be automatically renewed at the end of each subscription period unless you downgrade your paid subscription plan to a free plan or inform us that you do not wish to renew the subscription. at the time of automatic renewal, the subscription fee will be charged to the credit card last used by you. we provide you the option of changing the details if you would like the payment for the renewal to be made through a different credit card. if you do not wish to renew the subscription, you must inform us at least seven days prior to the renewal date. if you have not downgraded to a free plan and if you have not informed us that you do not wish to renew the subscription, you will be presumed to have authorized zoho to charge the subscription fee to the credit card last used by you. please click here to know about our refund policy.
+        from time to time, we may change the price of any service or charge for use of services that are currently available free of charge. any increase in charges will not apply until the expiry of your then current billing cycle. you will not be charged for using any service unless you have opted for a paid subscription plan.
+      
+      
+        restrictions on use
+        in addition to all other terms and conditions of this agreement, you shall not: (i) transfer the services or otherwise make it available to any third party; (ii) provide any service based on the services without prior written permission; (iii) use the third party links to sites without agreeing to their website terms & conditions; (iv) post links to third party sites or use their logo, company name, etc. without their prior written permission; (v) publish any personal or confidential information belonging to any person or entity without obtaining consent from such person or entity; (vi) use the services in any manner that could damage, disable, overburden, impair or harm any server, network, computer system, resource of zoho; (vii) violate any applicable local, state, national or international law; and (viii) create a false identity to mislead any person as to the identity or origin of any communication.
+      
+      
+        spamming and illegal activities
+        you agree to be solely responsible for the contents of your transmissions through the services. you agree not to use the services for illegal purposes or for the transmission of material that is unlawful, defamatory, harassing, libelous, invasive of another's privacy, abusive, threatening, harmful, vulgar, pornographic, obscene, or is otherwise objectionable, offends religious sentiments, promotes racism, contains viruses or malicious code, or that which infringes or may infringe intellectual property or other rights of another. you agree not to use the services for the transmission of "junk mail", "spam", "chain letters", “phishing” or unsolicited mass distribution of email. we reserve the right to terminate your access to the services if there are reasonable grounds to believe that you have used the services for any illegal or unauthorized activity.
+      
+      
+        inactive user accounts policy
+        we reserve the right to terminate unpaid user accounts that are inactive for a continuous period of 120 days. in the event of such termination, all data associated with such user account will be deleted. we will provide you prior notice of such termination and option to back-up your data. the data deletion policy may be implemented with respect to any or all of the services. each service will be considered an independent and separate service for the purpose of calculating the period of inactivity. in other words, activity in one of the services is not sufficient to keep your user account in another service active. in case of accounts with more than one user, if at least one of the users is active, the account will not be considered inactive.
+      
+      
+        data ownership
+        we respect your right to ownership of content created or stored by you. you own the content created or stored by you. unless specifically permitted by you, your use of the services does not grant zoho the license to use, reproduce, adapt, modify, publish or distribute the content created by you or stored in your user account for zoho’s commercial, marketing or any similar purpose. but you grant zoho permission to access, copy, distribute, store, transmit, reformat, publicly display and publicly perform the content of your user account solely as required for the purpose of providing the services to you.
+      
+      
+        user generated content
+        you may transmit or publish content created by you using any of the services or otherwise. however, you shall be solely responsible for such content and the consequences of its transmission or publication. any content made public will be publicly accessible through the internet and may be crawled and indexed by search engines. you are responsible for ensuring that you do not accidentally make any private content publicly available. any content that you may receive from other users of the services, is provided to you as is for your information and personal use only and you agree not to use, copy, reproduce, distribute, transmit, broadcast, display, sell, license or otherwise exploit such content for any purpose, without the express written consent of the person who owns the rights to such content. in the course of using any of the services, if you come across any content with copyright notice(s) or any copy protection feature(s), you agree not to remove such copyright notice(s) or disable such copy protection feature(s) as the case may be. by making any copyrighted/copyrightable content available on any of the services you affirm that you have the consent, authorization or permission, as the case may be from every person who may claim any rights in such content to make such content available in such manner. further, by making any content available in the manner aforementioned, you expressly agree that zoho will have the right to block access to or remove such content made available by you if zoho receives complaints concerning any illegality or infringement of third party rights in such content. by using any of the services and transmitting or publishing any content using such service, you expressly consent to determination of questions of illegality or infringement of third party rights in such content by the agent designated by zoho for this purpose. 
+      
+      for procedure relating to complaints of illegality or infringement of third party rights in content transmitted or published using the services, click here.
+      if you wish to protest any blocking or removal of content by zoho, you may do so in the manner provided here.
+      
+        sample files and applications
+        zoho may provide sample files and applications for the purpose of demonstrating the possibility of using the services effectively for specific purposes. the information contained in any such sample files and applications consists of random data. zoho makes no warranty, either express or implied, as to the accuracy, usefulness, completeness or reliability of the information or the sample files and applications.
+      
+      
+        trademark
+        zoho, zoho logo, the names of individual services and their logos are trademarks of zoho corporation. you agree not to display or use, in any manner, the zoho trademarks, without zoho’s prior permission.
+      
+      
+        disclaimer of warranties
+        you expressly understand and agree that the use of the services is at your sole risk. the services are provided on an as-is-and-as-available basis. zoho expressly disclaims all warranties of any kind, whether express or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. zoho makes no warranty that the services will be uninterrupted, timely, secure, or error free. use of any material downloaded or obtained through the use of the services shall be at your own discretion and risk and you will be solely responsible for any damage to your computer system, mobile telephone, wireless device or data that results from the use of the services or the download of any such material. no advice or information, whether written or oral, obtained by you from zoho, its employees or representatives shall create any warranty not expressly stated in the terms.
+      
+      
+        limitation of liability
+        you agree that zoho shall, in no event, be liable for any consequential, incidental, indirect, special, punitive, or other loss or damage whatsoever or for loss of business profits, business interruption, computer failure, loss of business information, or other loss arising out of or caused by your use of or inability to use the service, even if zoho has been advised of the possibility of such damage. in no event shall zoho’s entire liability to you in respect of any service, whether direct or indirect, exceed the fees paid by you towards such service.
+      
+      
+        indemnification
+        you agree to indemnify and hold harmless zoho, its officers, directors, employees, suppliers, and affiliates, from and against any losses, damages, fines and expenses (including attorney's fees and costs) arising out of or relating to any claims that you have used the services in violation of another party's rights, in violation of any law, in violations of any provisions of the terms, or any other claim related to your use of the services, except where such use is authorized by zoho.
+      
+      
+        arbitration
+        any controversy or claim arising out of or relating to the terms shall be settled by binding arbitration in accordance with the commercial arbitration rules of the american arbitration association. any such controversy or claim shall be arbitrated on an individual basis, and shall not be consolidated in any arbitration with any claim or controversy of any other party. the decision of the arbitrator shall be final and unappealable. the arbitration shall be conducted in california and judgment on the arbitration award may be entered into any court having jurisdiction thereof. notwithstanding anything to the contrary, zoho may at any time seek injunctions or other forms of equitable relief from any court of competent jurisdiction.
+      
+      
+        suspension and termination
+        we may suspend your user account or temporarily disable access to whole or part of any service in the event of any suspected illegal activity, extended periods of inactivity or requests by law enforcement or other government agencies. objections to suspension or disabling of user accounts should be made to &#108;&#101;&#103;&#097;&#108;&#064;&#122;&#111;&#104;&#111;&#099;&#111;&#114;&#112;&#046;&#099;&#111;&#109; within thirty days of being notified about the suspension. we may terminate a suspended or disabled user account after thirty days. we will also terminate your user account on your request. 
+        in addition, we reserve the right to terminate your user account and deny the services upon reasonable belief that you have violated the terms and to terminate your access to any beta service in case of unexpected technical issues or discontinuation of the beta service. you have the right to terminate your user account if zoho breaches its obligations under these terms and in such event, you will be entitled to prorated refund of any prepaid fees. termination of user account will include denial of access to all services, deletion of information in your user account such as your email address and password and deletion of all data in your user account.
+      
+      
+        end of terms of service
+        if you have any questions or concerns regarding this agreement, please contact us at &#108;&#101;&#103;&#097;&#108;&#064;&#122;&#111;&#104;&#111;&#099;&#111;&#114;&#112;&#046;&#099;&#111;&#109;.
+      
+    
+  
+
+ 
+   
+settimeout(function(){var a=document.createelement("script"); 
+var b=document.getelementsbytagname("script")[0]; 
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0010/2590.js?"+math.floor(new date().gettime()/3600000);
+a.async=true;a.type="text/javascript";b.parentnode.insertbefore(a,b)}, 1); 
+

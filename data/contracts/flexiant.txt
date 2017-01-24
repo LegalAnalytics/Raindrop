@@ -1,0 +1,375 @@
+
+
+      
+		  
+	  
+	  
+	    
+	      
+	      
+		search
+	      
+	    
+	  
+	  explore
+	
+	
+	  
+	    
+	    explore
+	  
+	our solutions
+
+	software
+	about flexiant concerto
+	
+		concerto use cases
+		concerto frequently asked questions
+	
+
+
+
+learning zone
+blog
+ 
+	
+      
+      
+      
+   		
+        	
+            	home  terms of use            
+        
+    
+    
+    
+    
+    	
+	  		terms of use
+            
+        
+    
+    
+ 
+			      			      
+		    
+        
+
+
+    
+    	
+            
+		
+		   the contents of this website are only for general information or use by our clients or potential clients. all and any rights to the contents of this website, and the software running it, is owned by flexiant limited and/or its suppliers. the authors of the material contained in the website assert their moral rights.
+all information on this website is provided on an “as is” basis only and should not be relied on. we do not accept any responsibility for any loss which may arise from reliance on any information contained in this website. we will not be liable for any damages (including, without limitation, damages for any consequential loss or loss of business opportunities or projects, or loss of profits) howsoever arising and whether in contract, tort or otherwise from the use of or inability to use this website, or any of its contents and materials, or from any action or omission taken as a result of using the website or any such contents.
+in any event, all liability is excluded to the fullest extent permitted by applicable law including any implied terms as the contents of this website is provided “as is” without warranties of any kind. your use of this website and any issues arising from it are governed by english law subject to the exclusive jurisdiction of the english courts. we control and operate this website from our offices in the united kingdom. your use of this website constitutes acceptance of these terms. if you do not agree with the governing law or these terms, please do not use this website.
+		  
+		
+		
+            
+                     
+     
+    
+    
+    	
+        	            
+            	learn what flexiant can do for you
+            	tap into the potential of flexiant cloud orchestrator
+                get in touch today
+            
+        
+    
+    
+    	
+        	
+        	 home
+about flexiant
+research
+partners
+news
+careers
+press room
+locations
+terms of use
+privacy statement
+troubleshooting
+contact us
+            
+			      	latest from the blog
+                private ip address space management: self-serve management tools to distribute and assign ip addresses
+                for some cloud customers, it is important for end customers to have self-serve management tools that help them to distribute&hellip;		read more
+			
+	                 
+		
+		
+		
+		
+		
+		    
+		
+		
+	    
+		 
+            <!--
+          		
+                sitemap    |    jobs   |   t&amp;cs    |    privacy
+                
+              -->
+         
+        
+        	
+            	
+            		t: +44 115 778 8640   |   &copy; 2017 flexiant is a trading name of flexiscale technologies limited
+               		
+	      				
+					    
+					    
+					    twit
+					    linked
+	      				
+	    			 
+                 
+             
+         
+     
+    
+	 
+	search
+search the flexiant site here.
+
+
+    
+        
+        
+        search
+    
+
+
+
+    
+    
+      
+      cloud orchestrator
+
+	business benefits tour
+	cloud orchestrator how it works
+	use case videos
+	your guide to v5
+	marketplace
+	
+		fco plugins
+		other plugins
+		images
+		utilities and tools
+		about plugins
+		request a plugin
+	
+
+	faqs
+	
+		about flexiant cloud orchestrator v5
+		development &#038; automation
+		integrations
+		technology
+		metering &#038; billing
+	
+
+	features &#038; pricing
+	support
+
+
+concerto
+
+	pricing
+	using concerto
+	who uses concerto
+	resources
+	faqs
+	service providers
+
+
+learning zone
+
+	editors picks
+	browse by topic
+	browse by media type
+
+
+about flexiant
+
+	about flexiant
+	heritage
+	development philosophy
+	customers
+
+
+research
+
+	fp7 &#038; horizon2020
+	academic licenses
+	research partners
+
+
+partners
+
+	technology partners
+	channel partners
+	odin asset portal
+
+
+news &#038; events
+blog
+support
+launch your iaas business today with odin and flexiant
+
+	flexiant &#038; parallels
+	flexiant and parallels white paper
+	thinkgrid ceano- case study
+	flexiant and parallels data sheet
+	odin faqs
+
+
+      
+      log in       
+      
+	      
+		    
+		    twit
+		    linked
+	      
+	   
+ 
+    
+
+
+/*  */
+
+
+
+
+
+
+
+
+var _hsq = _hsq || [];
+_hsq.push(["setcontenttype", "standard-page"]);
+(function(d,s,i,r) {
+  if (d.getelementbyid(i)){return;}
+  var n = d.createelement(s),e = document.getelementsbytagname(s)[0];
+  n.id=i;n.src = '//js.hs-analytics.net/analytics/'+(math.ceil(new date()/r)*r)+'/154734.js';
+  e.parentnode.insertbefore(n, e);
+})(document, "script", "hs-analytics", 300000);
+
+
+
+		var rightnow = new date();
+		var humandate = rightnow.todatestring();
+
+		mixpanel.register_once({
+			'first_wp_page': document.title,
+			'first_wp_contact': humandate
+		});
+		mixpanel.track("viewed page", {
+			'page name': document.title, 'page url': window.location.pathname
+		});
+		      
+        /* <![cdata[ */
+        jquery(document).ready(function($) {
+          $("a[rel^='wp-video-lightbox']").prettyphoto({
+            animation_speed: 'fast',
+            horizontal_padding: 20,
+            opacity: 0.70,
+            allow_resize: true,
+            counter_separator_label: '/',
+            theme: 'pp_default',
+            wmode: 'opaque',
+            autoplay: true,
+            hideflash: false,
+            modal: false,
+            changepicturecallback: function(){},
+            callback: function(){},
+            ie6_fallback: true,
+            markup: ' \
+						&nbsp; \
+						 \
+							 \
+							 \
+							 \
+						 \
+						 \
+							 \
+							 \
+								 \
+									 \
+									 \
+										expand \
+										 \
+											next \
+											previous \
+										 \
+										 \
+										 \
+											 \
+												previous \
+												0/0 \
+												next \
+											 \
+											 \
+											{pp_social} \
+											close \
+										 \
+									 \
+								 \
+							 \
+							 \
+						 \
+						 \
+							 \
+							 \
+							 \
+						 \
+					 \
+					',
+            image_markup: '',
+            flash_markup: '',
+            quicktime_markup: '',
+            iframe_markup: '',
+            inline_markup: '{content}',
+            custom_markup: '',
+            social_tools: false
+          });
+        });
+				/* ]]> */
+      
+/*  */
+
+
+
+
+
+
+    
+        (function(d,s,i,r) {
+            if (d.getelementbyid(i)){return;}
+            var n=d.createelement(s),e=d.getelementsbytagname(s)[0];
+            n.id=i;n.src='//js.hubspot.com/analytics/'+(math.ceil(new date()/r)*r)+'/154734.js';
+            e.parentnode.insertbefore(n, e);
+        })(document,"script","hs-analytics",300000);
+    
+
+
+
+
+//<![cdata[
+wistiaembeds.onfind(function(video) {
+  var email = wistia.localstorage("golden-ticket");
+  if (email) {
+    video.setemail(email);
+  }
+});
+wistiaembeds.bind("conversion", function(video, type, data) {
+  if (/^(pre|mid|post)-roll-email$/.test(type)) {
+    wistia.localstorage("golden-ticket", data);
+    for (var i = 0; i 
+
+  

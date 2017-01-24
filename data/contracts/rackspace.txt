@@ -1,0 +1,745 @@
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new date().gettime(),event:'gtm.js'});var f=d.getelementsbytagname(s)[0];var j=d.createelement(s);var dl=l!='datalayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentnode.insertbefore(j,f);})(window,document,'script','datalayer','gtm-m8lwjf');
+
+    
+        
+
+
+  
+    
+      
+        ×
+        
+        
+          
+            hi. how can we help you?
+          
+        
+        
+        
+          
+            i have a general question.
+          
+          
+            i have a support question.
+          
+        
+        
+        
+      
+    
+  
+
+
+
+
+
+
+  
+    
+      
+        
+          
+            support:
+            0208 734 2700
+          
+          
+            sales:
+            02087348107
+          
+          
+            email us
+          
+          
+            sales chat
+          
+        
+      
+      
+        
+          
+            sign up
+            
+              rackspace cloud
+              email & apps
+              fanatical support for aws
+              office 365
+            
+          
+          
+            log in
+            
+              myrackspace portal
+              cloud control panel
+              fanatical support for aws control panel
+              rackspace webmail login
+              email admin login
+            
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+        
+        
+        rackspace the #1 managed cloud company
+        
+        02087348107
+      
+      
+      
+        aboutwhy rackspace
+expertise
+service
+enterprise
+customer stories
+partners
+
+dedicated hosting
+cloudcloud overview
+public cloudamazon web services
+microsoft azure
+openstack
+
+private cloudmicrosoft
+openstack
+vmware 
+
+hybrid cloud
+fanatical support for office 365
+
+infrastructurededicated hosting
+computevirtual cloud servers
+onmetal cloud servers
+vmware virtual servers
+dedicated servers
+microsoft hyper-v
+
+network cloud networks
+cloud load balancers
+cloud dns
+custom networking
+
+storagecloud block storage
+cloud backup
+custom storage
+cloud files
+rackspace cdn
+
+infrastructure & developer toolscloud orchestration
+auto scale
+mailgun email automation
+rackspace monitoring
+cloud queues
+
+database & data analyticscloud databases
+managed cloud big data
+dba services
+managed dedicated big data
+
+productivity and collaborationoffice 365
+sharepoint
+
+simple websites
+
+solutionsecommerce
+managed security services &amp; compliance
+email hosting
+productivity and collaboration
+web content management
+data services
+web and mobile apps
+professional services
+managed services for digital apps
+
+supportsupport home
+how-to
+community
+api documentation
+system status
+
+      
+    
+  
+  
+    
+    
+      
+        
+        
+        search
+        
+      
+    
+  
+
+
+
+
+  
+    
+      
+        
+          
+            100% complete
+          
+        
+        
+          &times;
+          create your cloud account
+        
+        
+          
+            email
+            
+            please enter a valid email address.
+          
+          <!--
+          
+            username
+            
+            use 6-16 alphanumeric characters.
+          
+          -->
+          
+            password
+            
+            
+              password requirements
+              
+                length must be between 8 and 100 characters.
+                password must contain at least one uppercase, lowercase, and numeric characters.
+                can start with or include any of the following special characters:
+                ~ ! @ # $ % ^ &amp; * _ - + = ` | \ ( ) { } [ ] : ; " ' &lt;&gt; , . ? / £
+                password cannot begin with a space, but it can contain a space.
+              
+            
+          
+          
+            confirm password
+            
+            passwords should match
+          
+        
+        
+          close
+          signup
+        
+      
+    
+  
+
+
+
+  
+    
+    
+
+    
+  
+    
+  
+    
+      
+                
+          
+            print version
+          
+        
+        
+        website terms of use
+                
+  
+    us website terms of use | international website terms of use
+
+&nbsp;
+
+&nbsp;
+
+rackspace website terms of use
+
+welcome to the rackspace website. &nbsp;by accessing, browsing or using our websites, you are agreeing to comply with and be bound by the following terms of use (the “terms”) and all terms and conditions incorporated by reference. &nbsp;please review these terms carefully before using the website and information provided by rackspace us, inc., its subsidiaries and affiliates (hereinafter, “rackspace”). &nbsp;if you do not agree to these terms, you should not use our websites.&nbsp;
+
+rackspace may, without notice to you, at any time amend these terms and any other information contained on this website. &nbsp;the latest terms will be posted on our websites, and you should review the terms prior to using the website. &nbsp;your continued use of the websites after any changes to these terms are posted will be considered acceptance of those changes.&nbsp;
+
+&nbsp;
+
+scope of terms&nbsp;
+
+these terms apply to the rackspace websites located at www.rackspace.com and all rackspace owned and/or operated websites that are linked to www.rackspace.com by rackspace and its subsidiaries, including rackspace websites around the world and secure areas of the websites (the “rackspace websites”). &nbsp;these terms also apply to any and all online resources, materials, download areas, tools and interactive venues provided on the rackspace websites, including without limitation, blogs, community forums, chat rooms, discussion sites, knowledge centers, service offerings information (hereinafter, “online mediums”), both now and in the future. &nbsp;rackspace may also publish medium-specific terms of use in which event, these terms shall remain in full force and effect to the extent that the terms do not conflict with the medium-specific terms of use.&nbsp;
+
+&nbsp;
+
+table of content
+
+ownership of content
+
+trademarks
+
+your use of the websites
+
+other terms and conditions
+
+linking to rackspace websites
+
+links to third party websites
+
+forward looking statement
+
+disclaimer of warranties
+
+limitation of liability
+
+indemnification&nbsp;
+
+&nbsp;
+
+ownership of content
+
+the rackspace websites; their past, present and future versions; all pages found within the rackspace websites; the material and information on the rackspace websites; all graphics, text, images, audio, videos, webinars, designs, compilation, advertising copy, articles, user interfaces, artwork, any computer applications, any and all copyrightable material (including source and object code) and all other materials, including without limitations the design, structure, “look and feel” and arrangement of such content contained on the rackspace websites (hereinafter, the “content”); trade names, trademarks, service marks, logos, domain names, and other distinctive brand elements, whether registered or not are owned, controlled or licensed by or to rackspace, and are protected by intellectual property laws (the “intellectual property laws”), including but not limited to copyright, trademark, trade dress, domain name, patent, trade secret, international treaties and other proprietary rights and unfair competition laws. in using the rackspace websites or the content, you acknowledge and agree to abide by all applicable intellectual property laws, as well as any specific notices contained on the websites. &nbsp;all rights not expressly granted are reserved.&nbsp;
+
+the rackspace websites and the content may not be copied, reproduced, modified, adapted, translated, transmitted, displayed, published, posted, resold, or otherwise distributed in any way, without rackspace’s express prior written authorization. you are granted permission to display on your computer, print and download the content on this website solely for your own personal, non-commercial and educational use. you must retain copyright and other notices on any copies of the content you make. certain content and documents available on this website are open source content and documents subject to the applicable open source license and are so marked. your use of those materials is governed by the individual applicable license. unauthorized use of the rackspace websites or the content contained on or available through the rackspace websites or any linked websites may violate applicable intellectual property laws or other laws.&nbsp;
+
+the rackspace websites, online mediums and content may contain user or third party submitted content, such as feedback and suggestions, post or submissions and other materials (hereinafter, the “submissions”) intended for review by general public, or by members of any public or private community. &nbsp;rackspace does not claim ownership of the third party submitted content and shall have no obligation or liability of any kind, including without limitation errors, omissions, or damages, with respect to submissions. &nbsp;submissions are not reviewed, approved or endorsed by rackspace and are provided solely for convenience to rackspace customers and users. &nbsp;rackspace reserves the right to monitor, restrict access to, edit or remove any content available via the online mediums.&nbsp;
+
+copyrights infringement complaints. you may not use the rackspace websites, content or online mediums for any purpose or in any manner that infringes the rights of any third parties. &nbsp;rackspace encourages you to report any content on the rackspace websites that you believe infringes your copyright. &nbsp;if you would like to submit a copyright infringement complaint, click here.
+
+&nbsp;
+
+trademarks
+
+the trademarks, service marks, logos, slogans and domain names (“marks”) referenced on the rackspace websites are either common-law service marks, trademarks or registered service marks or trademarks of rackspace us, inc. or its subsidiaries and are protected by trademark laws in the united states and other countries, and international laws and treaties. &nbsp;other names of actual companies and products mentioned on the rackspace websites may be the trademarks of their respective owners and reference to them does not suggest sponsorship, endorsement or association with rackspace. nothing contained on the rackspace websites should be construed as granting, by implication or otherwise, any license or right to use any marks displayed on the rackspace websites. &nbsp;you are not permitted to use any marks displayed on the websites, metatags or any other “hidden text” utilizing marks of rackspace and its licensors, without prior written permission of rackspace or such third party who may own the mark.&nbsp;
+
+for information on use of rackspace trademarks, click here.&nbsp;
+
+&nbsp;
+
+your use of the websites
+
+privacy statement.&nbsp;rackspace privacy statement, as it may change from time to time, applies to collection and use of your information and is made a part of these terms by this reference.&nbsp;
+
+password protected areas.&nbsp;access to and use of password protected areas of the rackspace websites is restricted to authorized users only. &nbsp;you agree that you: &nbsp;(i) will provide current, complete and accurate identification, contact and other information about you as you may be prompted by the registration process on the rackspace websites; &nbsp;(ii) are responsible to maintain, keep current and update any registration data and other information you provide to rackspace; &nbsp;(iii) are entirely responsible for maintaining the security of your password, identification and account and for any and all activity that occurs under your account; &nbsp; and (iv) will notify rackspace immediately of any unauthorized access or use of your account or password or any other breach of security. &nbsp;you understand that any person with your password will be able to access your account and any registration data, including, without limitation access to your servers and applications accessible through your account. &nbsp;you accept sole risk of unauthorized access to your account. &nbsp;rackspace will not be liable to you for any loss you may incur as a result of someone else using your password or account with or without your knowledge. &nbsp;you may be held liable for losses incurred by rackspace or any other user or visitor to the rackspace websites due to someone else using your password or account. &nbsp;you may not use anyone else’s account at any time, without the permission of the account holder.&nbsp;
+
+content you submit. rackspace appreciates hearing from you. &nbsp;blogs, community forums, chat rooms and other discussion sites may be made available to our customers and users. &nbsp;you acknowledge and agree, that as to any content you, as a user, may submit via the online mediums become public information and it shall be deemed to be provided on a non-confidential basis, except for resumes submitted solely for consideration for employment with rackspace which may be shared with rackspace on a “need to know” basis. &nbsp;you should always use caution when submitting personal identifiable information about yourself or third parties in any online mediums. &nbsp;rackspace is free to use or disseminate such contributed content on an unrestricted basis for any purpose, and you grant rackspace an irrevocable, worldwide, perpetual, royalty-free license to use, reproduce, modify, adapt, incorporate, transmit, display, publish, post, resell and otherwise distribute such submission and contributed content (including, without limitation, creative ideas, suggestions, materials, names, voices, likeness and other personal identifiable information contained in your submission) in any form and media now known or which shall become known in the future for any purposes whatsoever, including without limitation, using such information, ideas, inventions and creative ideas for development, marketing and promotional purposes, without any notice or compensation to you.&nbsp;
+
+rackspace is under no obligation to use the contributed content and your submissions and may remove any such content or submission at any time at its sole discretion. rackspace reserves the right to terminate your access to online mediums at any time, without notice, for any reason whatsoever.
+
+you represent and warrant that you own or otherwise have permission to submit any such materials and grant rackspace the rights described herein.&nbsp;
+
+no unlawful or prohibited use.&nbsp;you agree not to upload, post or otherwise transmit via the online mediums any content that: &nbsp;(i) is misleading, harmful, threatening, abusive, harassing, defamatory, offensive, violent, obscene, pornographic, vulgar, libelous, racially, ethnically, religiously or otherwise objectionable; &nbsp;(ii) constitutes unauthorized disclosure of personal or confidential information; &nbsp;(iii) infringes any patent, trademark, trade secret, publicity right, privacy right, copyright or other intellectual property or any rights of any party; &nbsp;(iv) contains viruses, trojan horses, worms, corrupted files or code, files and programs designed to impede or destroy the functionality of any computer software or hardware; spyware and malware designed for phishing and with a view to compromise the data security and integrity, and obtain sensitive personal or financial information.
+
+you also agree not to use the rackspace websites or online mediums to: &nbsp;(i) impersonate an employee or a representative of &nbsp;rackspace, its divisions and subsidiaries; &nbsp;(ii) misrepresent your identity or affiliation with a person or entity; &nbsp;(iii) send bulk mail, spam, “chain letters” and other unsolicited and unauthorized communication; &nbsp;(iv) attempt to gain unauthorized access to any portion or feature of the rackspace websites or any other system or networks connected to the rackspace website or any other services offered through the rackspace websites, and/or other accounts not belonging to you, or violate security of any portion of the rackspace websites, by hacking, password mining or any other means; &nbsp;(v) obtain or attempt to obtain any information, materials or documents not purposely made available through the rackspace website or online mediums through any means; &nbsp;(vi) attempt to interfere with the proper working of the rackspace websites or any transaction being conducted on the rackspace websites or to restrict or inhibit any other user from accessing or using the rackspace websites, by means of hacking or defacing any portion of the rackspace websites; &nbsp;(vii) violate any applicable local, state, national or international law, including without limitation regulations by the u.s. securities and exchange commission, and the office of foreign assets control.
+
+&nbsp;
+
+other terms and conditions
+
+your purchase of services and services availability. specific terms and conditions apply to your purchase of services from rackspace and to specific portions or features of the rackspace websites. &nbsp;rackspace’s obligations with regards to its services offered on the rackspace websites are governed solely by such terms and conditions and nothing contained on the rackspace websites or in these terms shall be construed to alter services specific terms and conditions. &nbsp;the materials on the websites with respect to services may be outdated and rackspace makes no commitment to update such material. &nbsp;not all services mentioned in these materials will be available in your country and such references do not imply that rackspace will make available such services in your country. &nbsp;please consult your local racker for information regarding the availability of particular services offering in your country.&nbsp;
+
+promotions. the websites may contain or offer sweepstakes, contests, promotions or other similar features, which may be subject to a separate set of rules that describe the contest or promotion and may have eligibility requirements, such as certain age or geographic area restrictions. &nbsp;it is your responsibility to read those rules to determine whether or not your participation, registration or entry will be valid or restricted, and to determine the sponsor’s requirements in connection with the applicable contest or promotion. &nbsp;
+
+&nbsp;
+
+linking to rackspace websites
+
+we greatly appreciate your efforts in letting your clients know about us. &nbsp;you may link to the rackspace websites by using a text link and linking to rackspace websites homepage. &nbsp;linking directly to any other webpage or content within the rackspace websites is prohibited without rackspace prior written permission. rackspace only consents to links in which the link and the pages that are activated by the link do not: &nbsp;(i) duplicate the website content; &nbsp;(ii) frame or create any other border around the website content or any pages on the websites or use other techniques that alter in any way the visual presentation or appearance of any content within the rackspace websites; &nbsp;(iii) misrepresent your relationship with rackspace or otherwise create a false affiliation, connection or association with rackspace; &nbsp;(iv) imply that rackspace approves or endorses you, your website, or your services or product offerings; &nbsp;(v) present false or misleading impression about rackspace or otherwise damage the goodwill associated with the rackspace name or trademarks; &nbsp;(v) use rackspace trademarks in page text, metatags and/or hidden text for purpose of gaining higher rankings from search engines; &nbsp;(vi) utilize rackspace name, trademarks, service marks, colors, logos or any other brand features of rackspace, nor your relationship with rackspace for purposes of or in any manner which intentionally gives rise to advertising or publicity without rackspace prior written permission. &nbsp; as a further condition to being permitted to link to the rackspace websites, you agree that rackspace may at any time, in its sole discretion, terminate permission to link to the rackspace websites. &nbsp;in such event, you agree to immediately remove all links to the rackspace websites and to cease using any rackspace trademark. &nbsp; rackspace reserves the right to disable any unauthorized links or frames and disclaims any responsibility for the content available on any other website reached by links to or from the rackspace websites.
+
+except for the link logos as provided by rackspace, you may not use the rackspace corporate logo or any other brand feature to link to rackspace. &nbsp;for information on use of rackspace trademarks, click here. &nbsp;
+
+&nbsp;
+
+links to third party websites
+
+the rackspace websites may contain links and references to non-rackspace websites and resources (“linked websites”) and are provided for convenience only. &nbsp;if you decide to leave rackspace websites and access linked websites, you do so at your own risk and rackspace will have no liability arising out of or related to such linked websites and/or their content or any damages or loss caused or alleged to be caused by or in connection of any purchase or use of any such content, goods or services available on or through any such linked website. &nbsp;rackspace has not reviewed the linked websites and we are not responsible for the content, accuracy or opinions expressed on these websites. inclusion of these links on our websites does not apply approval or endorsement by rackspace of the linked websites, their entities or products and services. &nbsp;please understand that the linked websites, even if they contain rackspace logo, are independent websites, and rackspace does not control the content on that linked website. additionally, rackspace is not a party to or responsible for any transaction you may enter into with any such third party, even if you learn of such third party from rackspace, by way of reference or link provided on the rackspace websites.
+
+&nbsp;
+
+forward-looking statements
+
+all statements on the rackspace websites other than statements of historical fact are statements that could be deemed forward-looking statements, including, but not limited to, any projections of financial information; any statements about historical results that may suggest trends for our business; any statements about operational improvements or third party data that may suggest trends for our business or industry; any statements of the plans, strategies, and objectives of rackspace for future operations or service offerings; any statements of expectation or belief regarding future events, potential markets or market size; technology developments; and any statements of assumptions underlying any of the items mentioned. &nbsp;risks, uncertainties and assumptions include the possibility that expected benefits from our operational improvements or service offerings may not materialize. these statements are based upon a number of assumptions and estimates which are subject to significant uncertainties that involve risks, many of which are beyond our control and not guarantees of future performance. if such risks or uncertainties materialize or such assumptions prove incorrect, the results of rackspace could differ materially from our current expectations as a result of many factors, including but not limited to: the unpredictable nature of our rapidly evolving market and quarterly fluctuations in our business; the effects of competition; and any adverse changes in our indirect channel relationships. these and other risks and uncertainties associated with our business are described in our quarterly and annual reports filed with the securities and exchange commission at www.edgar.gov. except as required by law, rackspace assumes no obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future.
+
+&nbsp;
+
+disclaimer of warranties&nbsp;
+
+your use of and access to the rackspace websites, online mediums and content posted by rackspace, its divisions, subsidiaries or user generated content posted by third parties is at your sole risk. &nbsp;the websites, online mediums and content are provided for informational purposes only on an “as is” and “as availbale” basis without any express or implied warranty of any kind, including warranties of merchantability, non-infringement, or fitness for any particular purpose. &nbsp;rackspace makes no representations, warranties or guarantees as to the quality, suitability, truth, accuracy or completeness of the content. &nbsp;rackspace further makes no representations, warranties or guarantees that the quality and reliability of any information, and hosting services obtained from the website, online mediums and/or content will meet your expectations and requirements, be virus-free, or perform error- and damage-free. &nbsp;you assume all risk and responsibility for any loss or damage whatsoever to your computer system, data and business arising out of your use of the website, online mediums and/or content. &nbsp;
+
+&nbsp;
+
+limitation of liability
+
+you expressly understand and agree that rackspace and any contributor to the user generated content via online mediums (“rackspace licensors”) shall not be liable to you for:
+
+1) any loss or damage which you may incur, including without limitation as a result of any reliance placed by you on the accuracy, completeness or suitability of the content, or any changes rackspace and rackspace licensors may make to the websites, online mediums and content, or any temporary interruption or permanent cessation in the provision of the online mediums and content, or, if applicable, your failure to safeguard your account details or passwords.
+
+2) to the full extent permitted by law, rackspace and rackspace licensors are not liable for any direct, indirect, special, incidental, consequential, punitive or exemplary damages arising out of or in connection with your use of or related to the websites, online mediums and content (including without limitation for loss of or damage to business, revenues, goodwill or data) even if rackspace and rackspace licensors had previously been advised of, or reasonably could have foreseen, the possibility of such damages, however they arise, whether in breach of contract, negligence or other tortuous action.&nbsp;
+
+3) since some jurisdictions prohibit the exclusion or limitation of liability for consequential or incidental damages, portions of the above limitation or exclusion may not apply to you.&nbsp;
+
+&nbsp;
+
+indemnification
+
+you agree to indemnify and hold rackspace, its subsidiaries, affiliates, shareholders, officers, directors, agents, employees and representative and rackspace licensors, their subsidiaries, affiliates, shareholders, officers, directors, agents, employees and representatives harmless from any claims and demands, including reasonable attorneys’ fees, made by any third party arising from or relating to: &nbsp;(i) your use of and access to the websites, online mediums and content; &nbsp;(ii) content you submit, post, transmit or otherwise make available via the website and online mediums; &nbsp;(iii) your violation of these terms or website specific terms and conditions. this indemnification obligation will survive the termination of your rackspace account or these terms.
+
+&nbsp;
+
+general&nbsp;
+
+the terms constitute the entire agreement between you and rackspace relating to your use of and accessing to the rackspace websites and online mediums and content. you may also be subject to online medium or content specific terms of use. &nbsp;texas law and u.s. federal law shall govern any action related to the terms and your use of the online mediums and content, without regard to the choice of law rules. in any dispute between you and rackspace, you agree to submit to personal and exclusive jurisdiction of the courts located in bexar county, texas, united states. &nbsp;in the event of any violations of the terms, rackspace reserves the right to disable your access to the online mediums and content and seek all remedies available by law and in equity.
+
+thank you for reading through these terms and now, enjoy our websites.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+international rackspace website terms of use
+
+welcome to this rackspace website. by accessing, browsing or using this website and all rackspace owned and/or operated websites-, (the “rackspace websites”), you are agreeing to comply with and be bound by the following terms of use (the “terms”) and all terms and conditions incorporated by reference. please review these terms carefully before using the rackspace websites. if you do not agree to these terms, you should not use the rackspace websites.
+
+rackspace may, without notice to you, at any time amend these terms and any other information contained on the rackspace websites. your continued use of the rackspace websites after any changes to these terms have been posted will be considered your acceptance of those changes.
+
+you agree that your use of the rackspace websites is on behalf of your company or another legal entity and you hereby represent and warrant that you are not a consumer.
+
+&nbsp;
+
+scope of terms
+
+these terms apply to rackspace websites and to any secure areas of those websites. these terms also apply to any and all online resources, materials, download areas, tools and interactive venues provided on the rackspace websites, including without limitation, blogs, community forums, chat rooms, discussion sites, service offerings information (hereinafter, “online mediums”), both now and in the future. rackspace may also publish medium-specific terms of use, in which event these terms shall remain in full force and effect to the extent that the terms do not conflict with the medium-specific terms of use.
+
+&nbsp;
+
+table of content
+
+ownership of content
+
+copyright
+
+trade marks
+
+your use of the rackspace websites
+
+other terms and conditions
+
+linking to rackspace websites
+
+links to third party websites
+
+forward-looking statement
+
+disclaimer of warranties
+
+limitation of liability
+
+indemnification
+
+general
+
+&nbsp;
+
+ownership of content
+
+the rackspace websites; their past, present and future versions; all pages found within the rackspace websites; the material and information on the rackspace websites; all graphics, text, images, audio, videos, webinars, designs, compilation, advertising copy, articles, user interfaces, artwork, any computer applications, any and all copyrightable material (including source and object code) and all other materials, including without limitation the design, structure, “look and feel” and arrangement of such content contained on the rackspace websites (hereinafter, the “content”); trade names, trademarks, service marks, logos, domain names, and other distinctive brand elements, whether registered or not are owned, controlled or licensed by or to rackspace, and are protected by intellectual property laws (the “intellectual property laws”), including but not limited to copyright, trademark, trade dress, domain name, patent, trade secret, international treaties and other proprietary rights and unfair competition laws. in using the rackspace websites or the content, you acknowledge and agree to abide by all applicable intellectual property laws, as well as any specific notices contained on the rackspace websites. all rights not expressly granted are reserved.
+
+the rackspace websites and the content may not be copied, reproduced, modified, adapted, translated, transmitted, displayed, published, posted, resold, or otherwise distributed in any way, without rackspace’s express prior written authorisation. you are granted permission to display on your computer, print and download the content on the rackspace websites solely for your own personal, non-commercial and educational use. you must retain copyright and other notices on any copies of the content you make. certain content and documents available on the rackspace websites are open source content and documents subject to the applicable open source licence and are so marked. your use of those materials is governed by the individual applicable licence. unauthorised use of the rackspace websites or the content contained on or available through the rackspace websites or any linked websites may violate applicable intellectual property laws or other laws.
+
+the rackspace websites, online mediums and content may contain user or third party submitted content, such as feedback and suggestions, posts or submissions and other materials (hereinafter, the “submissions”) intended for review by the general public, or by members of any public or private community. rackspace does not claim ownership of the submissions and to the full extent permitted by law shall have no obligation or liability of any kind, including without limitation errors, omissions, or damages, with respect to submissions. submissions are not reviewed, approved or endorsed by rackspace and are provided solely for convenience to rackspace customers and users. rackspace reserves the right to monitor, restrict access to, edit or remove any content available via the online mediums.
+
+notice and takedown of material.&nbsp;rackspace encourages you to report material that you believe warrants removal from the rackspace websites, online mediums and content based on applicable laws. if you would like to report such material for removal, please click here. if you believe that any of the material on the rackspace websites infringes your copyright, please click here to submit a copyright infringement notice. following rackspace’s receipt of your report of material that you believe warrants removal or copyright infringement notice, as applicable, rackspace will contact you as quickly as possible. rackspace may request you provide additional information as necessary to investigate your specific report of material that you believe warrants removal and/or copyright infringement complaint.
+
+&nbsp;
+
+copyright
+
+rackspace retains copyright and/or applicable rights to all text and graphic images supplied on rackspace websites.
+
+you may print and download the information on rackspace websites for your own personal, non-commercial and educational use. unless permitted by mandatory rules of law, you may not distribute any text or graphics featured on rackspace websites to others without the express written permission of rackspace, "mirror" this information on your own site without written permission from rackspace, or modify or re-use in any way the text or graphics on this site.
+
+you may not use the rackspace websites, content or online mediums for any purpose or in any manner that infringes the rights of any third parties.
+
+&nbsp;
+
+trademarks
+
+the trademarks, service marks, logos, slogans and domain names (“marks”) referenced on the rackspace websites are either common-law trademarks or registered trademarks of rackspace us, inc. or its subsidiaries and are protected by trade mark and other laws in the united states, the european union and other countries, and international laws and treaties.
+
+use of rackspace trademarks is prohibited unless expressly authorised by rackspace. you are not permitted to use any marks displayed on the rackspace websites, metatags or any other “hidden text” utilising marks of rackspace and its licensors, without the prior written permission of rackspace or such third party who may own the mark. without the express prior written consent of rackspace us, inc., no rackspace mark may be used in a manner that implies an affiliation with, approval by, endorsement of or sponsorship by rackspace.
+
+all marks remain the sole property of their respective holders. you may print copies or download copies of the information on this site for your own personal, non-commercial and educational use.
+
+you may not distribute any text or graphics herein to others without the express written permission of rackspace, "mirror" this information on your own site without permission from rackspace, or modify or re-use in any way the text or graphics on this site.
+
+the names of actual companies and products mentioned on the rackspace websites may be the trademarks of their respective owners and reference to them does not suggest sponsorship, endorsement or association with rackspace. nothing contained on the rackspace websites should be construed as granting, by implication or otherwise, any licence or right to use any marks displayed on the rackspace websites.
+
+trademark guidelines and a list of rackspace trademarks and service marks can be found here: www.rackspace.com/information/legal/tmlist.
+
+logo requests.&nbsp;rackspace customers wishing to use the "powered by rackspace" logo or the "powered by greenspace" logo must visit the following url: www.rackspace.com/forms/logorequest.php and fill out our logo request form.
+
+rackspace channel partners may use the channel partner tier logo as specified in their agreement with rackspace and according to specific guidelines and other partner program resources provided to channel partners.
+
+&nbsp;
+
+your use of the rackspace websites
+
+privacy policy.&nbsp;rackspace’s privacy policy, as it may change from time to time, applies to the collection and use of personal data and is made a part of these terms by this reference. the privacy policy is available on the same rackspace website that features these terms.
+
+password protected areas.&nbsp;access to and use of password protected areas of the rackspace websites is restricted to authorised users only. you agree that you: (i) will provide current, complete and accurate identification, contact and other information about you as you may be prompted by the registration process on the rackspace websites; (ii) are responsible to maintain, keep current and update any registration data and other information you provide to rackspace; (iii) are entirely responsible for maintaining the security of your password, identification and account and for any and all activity that occurs under your account; and (iv) will notify rackspace immediately of any unauthorised access or use of your account or password or any other breach of security. you understand that any person with your password will be able to access your account and any registration data, including, without limitation access to your servers and applications accessible through your account. you accept sole risk of unauthorised access to your account. to the full extent permitted by law rackspace will not be liable to you for any loss you may incur as a result of someone else using your password or account with or without your knowledge. you may be held liable for losses incurred by rackspace or any other user or visitor to the rackspace websites due to someone else using your password or account because of your non-performance under these terms. you may not use anyone else’s account at any time, without the permission of the account holder.
+
+content you submit.&nbsp;rackspace appreciates hearing from you. blogs, community forums, chat rooms and other discussion sites may be made available to our customers and users. you acknowledge and agree, that any content you, as a user, may submit via the online mediums will become public information and it shall be deemed to be provided on a non-confidential basis, except for resumes submitted solely for consideration for employment with rackspace which may be shared within rackspace on a “need to know” basis. you should always use caution when submitting personal data about yourself or third parties in any online mediums. without prejudice to the limitations of use of your personal data as set out in rackspace’s privacy policy, as it may change from time to time, rackspace is free to use or disseminate such contributed content on an unrestricted basis for any purpose, and you grant rackspace an irrevocable, worldwide, perpetual, royalty-free licence to use, reproduce, modify, adapt, incorporate, transmit, display, publish, post, resell and otherwise distribute such submission and contributed content (including, without limitation, creative ideas, suggestions, materials, names, voices, likeness and other personal data contained in your submission) in any form and media now known or which shall become known in the future for any purposes whatsoever, including without limitation, using such information, ideas, inventions and creative ideas for development, marketing and promotional purposes, without any notice or compensation to you.
+
+rackspace is under no obligation to use the contributed content and your submissions and may remove any such content or submission at any time at its sole discretion. rackspace reserves the right to terminate your access to online mediums at any time, without notice, for any reason whatsoever.
+
+you represent and warrant that you own or otherwise have permission to submit any such materials and grant rackspace the rights described herein.
+
+no unlawful or prohibited use. you agree not to upload, post or otherwise transmit via the online mediums any content that: (i) is misleading, harmful, threatening, abusive, harassing, defamatory, offensive, violent, obscene, pornographic, vulgar, libelous, racially, ethnically, religiously or otherwise objectionable; (ii) constitutes unauthorised disclosure of personal or confidential information; (iii) infringes any patent, trade mark, trade secret, publicity right, privacy right, copyright or other intellectual property or any rights of any party; (iv) contains viruses, trojan horses, worms, corrupted files or code, files and programs designed to impede or destroy the functionality of any computer software or hardware; spyware and malware designed for phishing and with a view to compromise the data security and integrity, and obtain sensitive personal or financial information.
+
+you also agree not to use the rackspace websites or online mediums to: (i) impersonate an employee or a representative of rackspace, its divisions and subsidiaries; (ii) misrepresent your identity or affiliation with a person or entity; (iii) send bulk mail, spam, “chain letters” and other unsolicited and unauthorised communication; (iv) attempt to gain unauthorised access to any portion or feature of the rackspace websites or any other system or networks connected to the rackspace website or any other services offered through the rackspace websites, and/or other accounts not belonging to you, or violate security of any portion of the rackspace websites, by hacking, password mining or any other means; (v) obtain or attempt to obtain any information, materials or documents not purposely made available through the rackspace website or online mediums through any means; (vi) attempt to interfere with the proper working of the rackspace websites or any transaction being conducted on the rackspace websites or to restrict or inhibit any other user from accessing or using the rackspace websites, by means of hacking or defacing any portion of the rackspace websites; (vii) violate any applicable local, state, national or international law, including without limitation regulations by the u.s. securities and exchange commission, and the office of foreign assets control.
+
+&nbsp;
+
+other terms and conditions
+
+your purchase of services and services availability.&nbsp;specific terms and conditions apply to your purchase of services from rackspace and to specific portions or features of the rackspace websites. rackspace’s obligations with regards to its services offered on the rackspace websites are governed solely by such terms and conditions and nothing contained on the rackspace websites or in these terms shall be construed to alter terms and conditions that are specific to services. the materials on the rackspace websites with respect to services may be outdated and rackspace makes no commitment to update such material. not all services mentioned in these materials will be available in your country and such references do not imply that rackspace will make available such services in your country. please consult your local racker for information regarding the availability of particular service offerings in your country.
+
+promotions.&nbsp;the rackspace websites may contain or offer promotions or other similar features, which may be subject to a separate set of rules that describe the promotion and may have eligibility requirements, such as certain age or geographic area restrictions. it is your responsibility to read those rules to determine whether or not your participation, registration or entry will be valid or restricted, and to determine the sponsor’s requirements in connection with the applicable contest or promotion.
+
+&nbsp;
+
+linking to rackspace websites
+
+we greatly appreciate your efforts in letting your clients know about us. you may link to the rackspace websites by using a text link and linking to a rackspace websites homepage. linking directly to any other webpage or content within the rackspace websites is prohibited without rackspace’s prior written permission. rackspace only consents to links in which the link and the pages that are activated by the link do not: (i) duplicate the website content; (ii) frame or create any other border around any content on the rackspace websites or any pages on the rackspace websites or use other techniques that alter in any way the visual presentation or appearance of any content within the rackspace websites; (iii) misrepresent your relationship with rackspace or otherwise create a false affiliation, connection or association with rackspace; (iv) imply that rackspace approves or endorses you, your website, or your services or product offerings; (v) present a false or misleading impression about rackspace or otherwise damage the goodwill associated with the rackspace name or marks; (v) use rackspace marks in page text, metatags and/or hidden text for purpose of gaining higher rankings from search engines; (vi) utilise rackspace name, marks, colours, logos or any other brand features of rackspace, nor your relationship with rackspace for purposes of or in any manner which intentionally gives rise to advertising or publicity without rackspace’s prior written permission. as a further condition to being permitted to link to the rackspace websites, you agree that rackspace may at any time, in its sole discretion, terminate permission to link to the rackspace websites. in such event, you agree to immediately remove all links to the rackspace websites and to cease using any rackspace marks. rackspace reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other website reached by links to or from the rackspace websites.
+
+except for the link logos as provided by rackspace, you may not use the rackspace corporate logo or any other brand feature to link to rackspace.
+
+&nbsp;
+
+links to third party websites
+
+the rackspace websites may contain links and references to non-rackspace websites and resources (“linked websites”) and are provided for convenience only. if you decide to leave rackspace websites and access linked websites, you do so at your own risk and rackspace will have no liability arising out of or related to such linked websites and/or their content or any damages or loss caused or alleged to be caused by or in connection with any purchase or use of any such content, goods or services available on or through any such linked website. rackspace has not reviewed the linked websites and rackspace is not responsible for the content, accuracy or opinions expressed on these websites. inclusion of these links on rackspace websites does not apply approval or endorsement by rackspace of the linked websites, their entities or products and services. please understand that the linked websites, even if they contain a rackspace logo, are independent websites, and rackspace does not control the content on that linked website. additionally, rackspace is not a party to or responsible for any transaction you may enter into with any such third party, even if you learn of such third party from rackspace, by way of reference or link provided on the rackspace websites.
+
+&nbsp;
+
+forward-looking statements
+
+all statements on the rackspace websites other than statements of historical fact are statements that could be deemed forward-looking statements, including, but not limited to, any projections of financial information; any statements about historical results that may suggest trends for our business; any statements about operational improvements or third party data that may suggest trends for our business or industry; any statements of the plans, strategies, and objectives of rackspace for future operations or service offerings; any statements of expectation or belief regarding future events, potential markets or market size; technology developments, and any statements of assumptions underlying any of the items mentioned. risks, uncertainties and assumptions include the possibility that expected benefits from our operational improvements or service offerings may not materialise. these statements are based upon a number of assumptions and estimates which are subject to significant uncertainties that involve risks, many of which are beyond our control and not guarantees of future performance. if such risks or uncertainties materialise or such assumptions prove incorrect, the results of rackspace could differ materially from our current expectations as a result of many factors, including but not limited to: the unpredictable nature of our rapidly evolving market and quarterly fluctuations in our business; the effects of competition; and any adverse changes in our indirect channel relationships. these and other risks and uncertainties associated with our business are described in our quarterly and annual reports filed with the securities and exchange commission at www.sec.gov/edgar.shtml. except as required by law, rackspace assumes no obligation to update these forward-looking statements publicly, or to update the reasons, and actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future.
+
+&nbsp;
+
+disclaimer of warranties
+
+the following applies to the fullest extent permitted by applicable law:
+
+your use of and access to the rackspace websites, online mediums and content posted by rackspace, its divisions, subsidiaries or user generated content posted by third parties is at your sole risk. the rackspace websites, online mediums and content are provided for informational purposes only on an “as is” and “as available” basis without any express or implied warranty of any kind, including warranties of merchantability, non-infringement, or fitness for any particular purpose. rackspace makes no representations, warranties or guarantees as to the quality, suitability, truth, accuracy or completeness of the content. rackspace further makes no representations, warranties or guarantees that the quality and reliability of any information, and hosting services obtained from the rackspace websites, online mediums and/or content will meet your expectations and requirements, be virus-free, or perform error- and damage-free. to the fullest extent permitted by law, you assume all risk and responsibility for any loss or damage whatsoever to your computer system, data and business arising out of your use of the rackspace websites, online mediums and/or content.
+
+&nbsp;
+
+limitation of liability
+
+to the fullest extent permitted by applicable law, you expressly understand and agree that rackspace and any contributor to the user-generated content via online mediums (“rackspace licensors”) shall not be liable to you for:
+
+1) any loss or damage which you may incur, including without limitation as a result of any reliance placed by you on the accuracy, completeness or suitability of the content, or any changes rackspace and rackspace licensors may make to the rackspace websites, online mediums and content, or any temporary interruption or permanent cessation in the provision of the online mediums and content, or, if applicable, your failure to safeguard your account details or passwords;
+
+2) any loss or damage which you may incur as a result of your leaving the rackspace websites and accessing linked websites. this includes without limitation any loss or damage that you may incur as a result of any reliance placed by you on the accuracy, completeness or suitability of the content on linked websites;
+
+3) to the full extent permitted by law, any damages whatsoever, including without limitation direct, indirect, special, incidental, consequential damages arising out of or in connection with your use of, your inability to use, or results of the use of the rackspace websites, online mediums and content and any linked websites (including without limitation for loss of or damage to business, revenues, goodwill or data) even if rackspace and rackspace licensors had previously been advised of, or reasonably could have foreseen, the possibility of such loss or damages, however they arise, whether in breach of contract, negligence or other tortious action.
+
+nothing in these terms shall exclude or limit liability to a greater extent than is permitted by applicable law and nothing in these terms shall exclude or limit liability for fraud, fraudulent misrepresentation, or for death or personal injury caused by negligence.
+
+&nbsp;
+
+indemnification
+
+to the fullest extent permitted by applicable law, you agree to indemnify and hold rackspace, its subsidiaries, affiliates, shareholders, officers, directors, agents, employees and representatives and rackspace licensors, their subsidiaries, affiliates, shareholders, officers, directors, agents, employees and representatives harmless from any claims and demands, including reasonable attorneys’ fees, made by any third party arising from or relating to: (i) your use of and access to the rackspace websites, online mediums and content; (ii) content you submit, post, transmit or otherwise make available via the rackspace websites and online mediums; (iii) your violation of these terms or rackspace websites’ specific terms and conditions. this indemnification obligation will survive the termination of your rackspace account or these terms.
+
+&nbsp;
+
+general
+
+the terms constitute the entire agreement between you and rackspace relating to your use of and access to the rackspace websites and online mediums and content. you may also be subject to online medium or content specific terms of use. where these terms intend to create any right for any third party to rely upon these terms in any way and/or where specific clauses of these terms are considered to be so called “third party stipulations” and such are accepted by the respective third party, such third party shall not become a party to the agreement between you and rackspace. the laws of england shall govern any action related to the terms and your use of the online mediums and content, without regard to the choice of law rules. in any dispute between you and rackspace, you agree to submit to the non-exclusive jurisdiction of the courts located in england. in the event of any violations of the terms, rackspace reserves the right to disable your access to the rackspace websites, online mediums and content and seek all remedies available by law and in equity.
+
+&nbsp;
+
+thank you for reading through these terms. now please enjoy our rackspace websites.
+
+&nbsp;
+
+© rackspace limited.
+
+7th may 2013
+  
+
+        &copy;2017 rackspace, us inc.
+            &mdash; revised 
+  10/21/2013        
+      
+    
+  
+
+  
+
+
+
+    
+  
+    
+    
+      back to top
+    
+
+
+  
+      
+  
+
+  
+
+  
+
+  
+
+  
+  
+    
+      
+        we've got your back
+        24x7x365
+      
+      
+        
+          
+            
+          
+          
+            02087348107 sales
+            0208 734 2700  support          
+        
+      
+      
+        
+          
+            
+              
+            
+            
+              live sales chat            
+          
+        
+      
+      
+        
+          
+            
+              
+            
+            
+              email us            
+          
+        
+      
+    
+  
+  
+
+  
+  
+    
+      
+      
+        about rackspace      
+    
+      
+      
+        blog      
+    
+      
+      
+        support      
+    
+      
+      
+        legal      
+    
+  
+
+  about
+leadership
+contact information
+events
+customer stories
+responsibility
+news
+investors
+careers
+partners
+
+
+  rackspace blog
+developer blog
+
+
+  how-to
+support forums
+api docs
+support home
+developers
+partner locator
+
+
+  legal overview
+privacy center
+website terms
+trademarks
+
+  
+
+
+  
+  
+    
+      
+        
+          change your region:
+          
+            
+          
+        
+      
+      
+        &copy; 2017 rackspace us, inc.
+        
+      
+          
+  
+  
+
+
+
+
+  
+    
+      
+        
+          
+        
+      
+    
+  
+
+    
+
+
+
+
+
+
+  
