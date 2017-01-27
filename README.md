@@ -15,3 +15,4 @@
 * For more information about TR Labs, see https://innovation.thomsonreuters.com/en/labs.html
 * For more information about MIT Computational Law research, see: https://law.MIT.edu
 * For more about this collaboration, see: http://trlabs.prototypejam.org
+* Thomson Reuters provides tagging tools and company data at http://permid.org
