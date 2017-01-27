@@ -2,9 +2,9 @@
 
 * MIT and Thomson Reuters Labs got together to hack the Legal Analytics Prototype Jam for the ABA Business Law Section.  We prototyped a dashboard to understand jurisdictional issues of cloud contracts.  The use case we chose is a tool to help small businesses understand their exposures to the new EU privacy law by automatically analyzing cloud contracts.
 
-* Working demo site, showing geo-coded jurisdictional law for the same 30 contracts provided by the Legal Analytics subcommittee: http://romercreative.com/cloudcontracts/
-* Our working project directory for this demo: https://github.com/LegalAnalytics/Raindrop
-* Video walkthrough of the demo: https://www.youtube.com/watch?v=flxbX23Aa2Q&feature=em-upload_owner
+* Working demo site, showing geo-coded jurisdictional law for the same 30 contracts provided by the Legal Analytics subcommittee: [http://romercreative.com/cloudcontracts](http://romercreative.com/cloudcontracts/)
+* Our working project directory for this demo: [https://github.com/LegalAnalytics/Raindrop](https://github.com/LegalAnalytics/Raindrop)
+* Video walkthrough of the demo: [https://www.youtube.com/watch?v=flxbX23Aa2Q&feature=em-upload_owner](https://www.youtube.com/watch?v=flxbX23Aa2Q&feature=em-upload_owner)
 
 ## 30 Second Overview Demo
 
@@ -16,7 +16,7 @@
 
 ## For More Information
 
-* For more information about TR Labs, see https://innovation.thomsonreuters.com/en/labs.html
-* For more information about MIT Computational Law research, see: https://law.MIT.edu
-* For more about this collaboration, see: http://trlabs.prototypejam.org
-* Thomson Reuters provides tagging tools and company data at http://permid.org
+* For more information about TR Labs, see [https://innovation.thomsonreuters.com/en/labs.html](https://innovation.thomsonreuters.com/en/labs.html)
+* For more information about MIT Computational Law research, see: [https://law.MIT.edu]( https://law.MIT.edu)
+* For more about this collaboration, see: [http://trlabs.prototypejam.org](http://trlabs.prototypejam.org)
+* Thomson Reuters provides tagging tools and company data at [http://permid.org](http://permid.org)
