@@ -9,3 +9,8 @@
 ## Video Overview of Our Team Prototype Jam Project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/flxbX23Aa2Q" frameborder="0" allowfullscreen></iframe>
+
+## Relevant Materials for Our Project
+
+* Working demo site, showing geo-coded jurisdictional law for the same 30 contracts provided by the Legal Analytics subcommittee: http://romercreative.com/cloudcontracts/
+* Video walkthrough of the demo: https://www.youtube.com/watch?v=flxbX23Aa2Q&feature=em-upload_owner
