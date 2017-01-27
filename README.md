@@ -4,7 +4,7 @@
 
 * Working demo site, showing geo-coded jurisdictional law for the same 30 contracts provided by the Legal Analytics subcommittee: [http://romercreative.com/cloudcontracts](http://romercreative.com/cloudcontracts/)
 * Our working project directory for this demo: [https://github.com/LegalAnalytics/Raindrop](https://github.com/LegalAnalytics/Raindrop)
-* Video walkthrough of the demo: [https://www.youtube.com/watch?v=flxbX23Aa2Q&feature=em-upload_owner](https://www.youtube.com/watch?v=flxbX23Aa2Q&feature=em-upload_owner)
+* Video walkthrough of the demo: [https://www.youtube.com/watch?v=flxbX23Aa2Q](https://www.youtube.com/watch?v=flxbX23Aa2Q)
 * **Our team project page, see: [http://trlabs.prototypejam.org](http://trlabs.prototypejam.org)**
 
 
