@@ -6,7 +6,11 @@
 * Our working project directory for this demo: https://github.com/LegalAnalytics/Raindrop
 * Video walkthrough of the demo: https://www.youtube.com/watch?v=flxbX23Aa2Q&feature=em-upload_owner
 
-## Video Overview of Our Team Prototype Jam Project
+## 30 Second Overview Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TCByBiFM3Pc" frameborder="0" allowfullscreen></iframe>
+
+## Video Walk Through of Our Team Prototype Jam Project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/flxbX23Aa2Q" frameborder="0" allowfullscreen></iframe>
 
