@@ -5,6 +5,8 @@
 * Working demo site, showing geo-coded jurisdictional law for the same 30 contracts provided by the Legal Analytics subcommittee: [http://romercreative.com/cloudcontracts](http://romercreative.com/cloudcontracts/)
 * Our working project directory for this demo: [https://github.com/LegalAnalytics/Raindrop](https://github.com/LegalAnalytics/Raindrop)
 * Video walkthrough of the demo: [https://www.youtube.com/watch?v=flxbX23Aa2Q&feature=em-upload_owner](https://www.youtube.com/watch?v=flxbX23Aa2Q&feature=em-upload_owner)
+* **Our team project page, see: [http://trlabs.prototypejam.org](http://trlabs.prototypejam.org)**
+
 
 ## 30 Second Overview Demo
 
@@ -14,9 +16,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/flxbX23Aa2Q" frameborder="0" allowfullscreen></iframe>
 
-## For More Information
+## For More Information About
 
-* For more information about TR Labs, see [https://innovation.thomsonreuters.com/en/labs.html](https://innovation.thomsonreuters.com/en/labs.html)
-* For more information about MIT Computational Law research, see: [https://law.MIT.edu]( https://law.MIT.edu)
-* For more about this collaboration, see: [http://trlabs.prototypejam.org](http://trlabs.prototypejam.org)
-* Thomson Reuters provides tagging tools and company data at [http://permid.org](http://permid.org)
+* TR Labs, see [https://innovation.thomsonreuters.com/en/labs.html](https://innovation.thomsonreuters.com/en/labs.html)
+* MIT Computational Law research, see: [https://law.MIT.edu]( https://law.MIT.edu)
+* Thomson Reuters tagging tools and company data, see: [http://permid.org](http://permid.org)
