@@ -21,3 +21,4 @@
 * TR Labs, see [https://innovation.thomsonreuters.com/en/labs.html](https://innovation.thomsonreuters.com/en/labs.html)
 * MIT Computational Law research, see: [https://law.MIT.edu]( https://law.MIT.edu)
 * Thomson Reuters tagging tools and company data, see: [http://permid.org](http://permid.org)
+  
